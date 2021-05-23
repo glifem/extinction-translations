@@ -921,7 +921,7 @@ local my_language = {
 	car_custom_presets_saved = "Modifiye  ~g~%s~w~  olarak kaydedildi.",
 	marketplace_you_received_x_x = "~b~%sx ~g~%s~w~ Aldın.",
 
-	above_level_x_no_longer_possible_loot_safe = "%s sıralaması üzerindeki oyuncular, güvenli bölgelerdeki zombileri yağmalayamaz."
+	above_level_x_no_longer_possible_loot_safe = "%s sıralaması üzerindeki oyuncular, güvenli bölgelerdeki zombileri yağmalayamaz.",
 
 
 
