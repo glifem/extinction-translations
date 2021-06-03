@@ -1,6 +1,6 @@
 {
     "menu": "Menu",
-    "inventory": "Inventory",
+    "inventory": "Inventar",
     "map": "Map",
     "top_players": "Top players",
     "top_crews": "Top crews",
@@ -27,7 +27,7 @@
     "weapon": "Waffe",
     "ammo": "Ammo",
     "equipment": "Equipment",
-    "vehicles": "Vehicle",
+    "vehicles": "Fahrzeug",
     "misc": "Misc",
     "Daily Missions": "Daily Missions",
     "settings": "Einstellungen",
