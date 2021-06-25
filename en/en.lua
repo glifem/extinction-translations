@@ -973,6 +973,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	drug_berserker_bar = "Health effect",
 
 	squad_members_limit = "~r~You squad reached the members limit.",
+	darkzone_only = "~r~You must be in the darkzone.",
 }
 
 AddLanguage("en", my_language)

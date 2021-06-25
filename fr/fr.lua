@@ -958,6 +958,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	quest_all_completed = "~g~Vous avez réussi à atteindre tous les objectifs.",
 	dungeon_key = "Clé de donjon",
 	darkzone_cannot_enter_min_levels = "Vous devez être niveau ~b~%s~w~ pour entrer en darkzone.",
+	darkzone_you_survived_x = "Vous avez survécu ~r~%s minute(s)~w~ dans la darkzone.",
 	questmenu_command = "Ouvrir le menu des quêtes",
 	squadmenu_command = "Ouvrir le menu des escouades",
 	airdrop_coming_darkzone = "~r~Un larguage est en chemin en darkzone.",
@@ -972,6 +973,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	drug_berserker_bar = "Effet Vie",
 
 	squad_members_limit = "~r~Votre squad a atteint la limite de membres.",
+	darkzone_only = "~r~Vous devez être dans la darkzone.",
 }
 
 AddLanguage("fr", my_language)
