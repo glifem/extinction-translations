@@ -975,6 +975,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	squad_members_limit = "~r~Votre squad a atteint la limite de membres.",
 	darkzone_only = "~r~Vous devez être dans la darkzone.",
 	darkzone_no_cars = "~r~Vous ne pouvez utiliser que les vélos, bateaux et autres véhicules volants dans la darkzone.",
+
+	poll7_q1 = "Seriez-vous intéressé par un serveur européen SOLO seulement?",
+	poll7_q2 = "Aimeriez-vous voir l'AWP MK2/Marksman rifle MK2 revenir dans les loot/airdrops?",
 }
 
 AddLanguage("fr", my_language)

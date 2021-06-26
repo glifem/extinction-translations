@@ -975,6 +975,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	squad_members_limit = "~r~You squad reached the members limit.",
 	darkzone_only = "~r~You must be in the darkzone.",
 	darkzone_no_cars = "~r~You can only use bikes, boats and other flying vehicles in the darkzone.",
+
+	poll7_q1 = "Would you be interested by a EU server SOLO ONLY?",
+	poll7_q2 = "Would you like to see AWP MK2/Marksman rifle MK2 back in the loot/airdrops?",
 }
 
 AddLanguage("en", my_language)
