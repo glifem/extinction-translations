@@ -978,6 +978,18 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	poll7_q1 = "Would you be interested by a EU server SOLO ONLY?",
 	poll7_q2 = "Would you like to see AWP MK2/Marksman rifle MK2 back in the loot/airdrops?",
+
+	you_have_been_muted = "~r~You have been muted.~w~\nExpiration: ~b~%s~w~\nReason: ~b~%s",
+	you_have_been_unmuted = "~g~You have been unmuted.",
+	muted_x = "You muted ~g~%s~w~.~w~\nExpiration: ~b~%s~w~\nReason: ~b~%s",
+	unmuted_x = "You unmuted ~g~%s~w~.",
+	invalid_duration = "~r~Incorrect duration, please enter a correct time.",
+	player_already_muted = "~r~This player is already muted.",
+	player_not_muted = "~r~This player is not muted.",
+	you_are_muted = "~r~You are muted.",
+
+	open_mailbox = "open the mailbox",
+	you_entered_crew_pro = "~g~You entered your crew bunker.",
 }
 
 AddLanguage("en", my_language)
