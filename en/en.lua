@@ -990,6 +990,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	open_mailbox = "open the mailbox",
 	you_entered_crew_pro = "~g~You entered your crew bunker.",
+
+	you_player_not_enough_gcoin = "~r~You do not have enough gcoins.",
+	other_player_not_enough_gcoin = "~r~The other player does not have enough gcoins.",
+	a_player_no_fivem_account_linked = "~r~The other player does not have a fivem account linked.",
+	you_no_fivem_account_linked = "~r~To trade gcoins you need to link a FiveM account.",
+	trade_gcoin_for_gcoin_not_allowed = "~r~You cannot trade gcoins between players, only from one side.",
 }
 
 AddLanguage("en", my_language)

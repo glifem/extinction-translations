@@ -978,6 +978,24 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	poll7_q1 = "Seriez-vous intéressé par un serveur européen SOLO seulement?",
 	poll7_q2 = "Aimeriez-vous voir l'AWP MK2/Marksman rifle MK2 revenir dans les loot/airdrops?",
+
+	you_have_been_muted = "~r~Vous avez été muté.~w~\nExpiration: ~b~%s~w~\nRaison: ~b~%s",
+	you_have_been_unmuted = "~g~Vous avez été démuté.",
+	muted_x = "Vous avez muté ~g~%s~w~.~w~\nExpiration: ~b~%s~w~\nRaison: ~b~%s",
+	unmuted_x = "Vous avez démuté ~g~%s~w~.",
+	invalid_duration = "~r~Durée incorrecte, veuillez entrer un temps correct.",
+	player_already_muted = "~r~Ce joueur est déjà mute.",
+	player_not_muted = "~r~Ce joueur n'est pas mute.",
+	you_are_muted = "~r~Vous êtes muté.",
+
+	open_mailbox = "ouvrir la boîte aux lettres",
+	you_entered_crew_pro = "~g~Vous êtes entré dans le bunker de votre crew.",
+
+	you_player_not_enough_gcoin = "~r~Vous n'avez pas assez de gcoins.",
+	other_player_not_enough_gcoin = "~r~L'autre joueur n'a pas assez de gcoins.",
+	a_player_no_fivem_account_linked = "~r~L'autre joueur n'a pas de compte fivem lié..",
+	you_no_fivem_account_linked = "~r~Pour échanger des gcoins, vous devez avoir un compte FiveM..",
+	trade_gcoin_for_gcoin_not_allowed = "~r~Vous ne pouvez pas échanger des gcoins entre joueurs, seulement un seul côté.",
 }
 
 AddLanguage("fr", my_language)
