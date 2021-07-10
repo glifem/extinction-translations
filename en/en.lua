@@ -996,6 +996,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	a_player_no_fivem_account_linked = "~r~The other player does not have a fivem account linked.",
 	you_no_fivem_account_linked = "~r~To trade gcoins you need to link a FiveM account.",
 	trade_gcoin_for_gcoin_not_allowed = "~r~You cannot trade gcoins between players, only from one side.",
+	cannot_delete_this_item = "~r~You cannot delete this item.",
 }
 
 AddLanguage("en", my_language)

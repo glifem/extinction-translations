@@ -996,6 +996,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	a_player_no_fivem_account_linked = "~r~L'autre joueur n'a pas de compte fivem lié..",
 	you_no_fivem_account_linked = "~r~Pour échanger des gcoins, vous devez avoir un compte FiveM..",
 	trade_gcoin_for_gcoin_not_allowed = "~r~Vous ne pouvez pas échanger des gcoins entre joueurs, seulement un seul côté.",
+	cannot_delete_this_item = "~r~Vous ne pouvez pas supprimer cet objet.",
 }
 
 AddLanguage("fr", my_language)
