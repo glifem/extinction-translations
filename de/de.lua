@@ -267,7 +267,7 @@ local my_language = {
     misc_dealer = "Equipmenthändler",
     veh_dealer = "Autohändler",
     custom_dealer = "LS Custom",
-    gun_dealer = "Waffenähndler",
+    gun_dealer = "Waffenhändler",
  
     bounty_created = "Du hast ein Kopfheld in Höhe von ~g~$%s~w~ auf ~b~%s~w~ ausgesetzt.",
     contract_success = "~b~%s~w~ hat sich das Kopfgeld für ~r~%s~w~ geholt.",
