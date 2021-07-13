@@ -997,6 +997,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	you_no_fivem_account_linked = "~r~Pour échanger des gcoins, vous devez avoir un compte FiveM..",
 	trade_gcoin_for_gcoin_not_allowed = "~r~Vous ne pouvez pas échanger des gcoins entre joueurs, seulement un seul côté.",
 	cannot_delete_this_item = "~r~Vous ne pouvez pas supprimer cet objet.",
+	impossible_on_solo_server = "~r~Vous ne pouvez pas faire cela sur le serveur SOLO.",
+
+	warning_message = "Vous jouez sur le serveur SOLO d'Extinction. Vous n'êtes pas autorisé à faire équipe avec d'autres joueurs, à créer des escouades ou à faire des alliances. Si vous êtes pris en train de faire équipe, vous serez interdit de jeu sur ce serveur et également interdit temporairement sur tous les serveurs. Veuillez respecter les règles et jouer en solo.",
 }
 
 AddLanguage("fr", my_language)

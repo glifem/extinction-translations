@@ -997,6 +997,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	you_no_fivem_account_linked = "~r~To trade gcoins you need to link a FiveM account.",
 	trade_gcoin_for_gcoin_not_allowed = "~r~You cannot trade gcoins between players, only from one side.",
 	cannot_delete_this_item = "~r~You cannot delete this item.",
+	impossible_on_solo_server = "~r~You cannot do that on the solo server.",
+
+	warning_message = "You are playing on the Extinction SOLO server. You are not allowed to team-up with other players, create squads or making alliance. If you get caught teaming you will be banned from playing on this server and also temporally banned globally. Please respect the rules and play solo.",
 }
 
 AddLanguage("en", my_language)
