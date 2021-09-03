@@ -1000,6 +1000,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	impossible_on_solo_server = "~r~You cannot do that on the solo server.",
 
 	warning_message = "You are playing on the Extinction SOLO server. You are not allowed to team-up with other players, create squads or making alliance. If you get caught teaming you will be banned from playing on this server and also temporally banned globally. Please respect the rules and play solo.",
+	bank_no_money = "~r~You do not have any money.",
+	bank_deposit_x = "You deposited ~g~$%s~w~ in the bank.",
+	cannot_deposit_money_go_bank = "~r~Sorry, you cannot deposit your money here.\n~w~Visit the monkey at the bank.",
+	bank_balance_x = "Bank balance: ~g~$%s",
 }
 
 AddLanguage("en", my_language)

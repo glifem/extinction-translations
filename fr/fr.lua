@@ -1000,6 +1000,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	impossible_on_solo_server = "~r~Vous ne pouvez pas faire cela sur le serveur SOLO.",
 
 	warning_message = "Vous jouez sur le serveur SOLO d'Extinction. Vous n'êtes pas autorisé à faire équipe avec d'autres joueurs, à créer des escouades ou à faire des alliances. Si vous êtes pris en train de faire équipe, vous serez interdit de jeu sur ce serveur et également interdit temporairement sur tous les serveurs. Veuillez respecter les règles et jouer en solo.",
+	bank_no_money = "~r~Vous n'avez pas d'argent sur vous.",
+	bank_deposit_x = "Vous avez déposé ~g~$%s~w~ en banque.",
+	cannot_deposit_money_go_bank = "~r~Désolé, vous ne pouvez pas déposer votre argent ici.\n~w~Visitez le singe à la banque.",
+	bank_balance_x = "Solde en banque: ~g~$%s",
 }
 
 AddLanguage("fr", my_language)
