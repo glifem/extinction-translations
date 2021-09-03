@@ -1004,6 +1004,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	bank_deposit_x = "Vous avez déposé ~g~$%s~w~ en banque.",
 	cannot_deposit_money_go_bank = "~r~Désolé, vous ne pouvez pas déposer votre argent ici.\n~w~Visitez le singe à la banque.",
 	bank_balance_x = "Solde en banque: ~g~$%s",
+	store_money_bank = "~g~ranger votre argent en banque",
+	wait_before_next_action = "Attendez ~r~%sms~w~ avant de déplacer cet item une nouvelle fois.",
 }
 
 AddLanguage("fr", my_language)
