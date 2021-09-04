@@ -1006,6 +1006,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	bank_balance_x = "Bank balance: ~g~$%s",
 	store_money_bank = "~g~store your money in the bank",
 	wait_before_next_action = "Wait ~r~%sms~w~ before moving this item again.",
+	bank = "Bank",
 }
 
 AddLanguage("en", my_language)

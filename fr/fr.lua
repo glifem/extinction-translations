@@ -1006,6 +1006,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	bank_balance_x = "Solde en banque: ~g~$%s",
 	store_money_bank = "~g~ranger votre argent en banque",
 	wait_before_next_action = "Attendez ~r~%sms~w~ avant de déplacer cet item une nouvelle fois.",
+	bank = "Banque",
 }
 
 AddLanguage("fr", my_language)
