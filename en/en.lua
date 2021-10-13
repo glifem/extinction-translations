@@ -11,7 +11,7 @@ local my_language = {
 	put_item = "You put ~g~x%s~w~ %s~w~.",
 	take_item = "You took ~g~x%s~w~ %s~w~.",
 	delete_item = "You removed ~r~x%s~w~ %s~w~.",
-	you_equiped_item = "You have equipped your ~g~%s~w~.",
+	you_equiped_item = "Equipping your ~g~%s~w~.",
 	bind_weapon_command = "Shortcut for weapon slot %s",
 	kevlar_broke = "~r~AHH!~n~~w~Your armor broke.",
 	inventory_command = "Toggle inventory",
@@ -289,7 +289,7 @@ local my_language = {
 	playtime_is = "~b~Your playtime on Extinction:\n~w~%s",
 	dont_spam = "^1Do not spam!",
 
-	babygod_warning = "~b~You left the safe-zone, you are invincible for some time find a safe place!",
+	babygod_warning = "~b~You left the safe-zone, you are invincible for some time.",
 
 	-- LS Custom
 	modifications_classiques = "Classic modifications",
