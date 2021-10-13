@@ -1007,6 +1007,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	store_money_bank = "~g~ranger votre argent en banque",
 	wait_before_next_action = "Attendez ~r~%sms~w~ avant de déplacer cet item une nouvelle fois.",
 	bank = "Banque",
+
+	poll8_q1 = "Voudriez-vous que le serveur 2 (solo seulement) devienne un serveur duo seulement?",
+	poll8_q2 = "Aimez-vous les bananes?",
 }
 
 AddLanguage("fr", my_language)
