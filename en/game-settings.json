@@ -23,5 +23,12 @@
 	"voiceChatEnabled": "Voice chat",
 	"voiceChatEnabled_desc": "Disable or enable the in-game voice chat",
 	"antizinDisableZombieSpawn": "Disable zombie spawning with antizin",
-	"antizinDisableZombieSpawn_desc": "Disable or enable zombie spawning with antizin"
+	"antizinDisableZombieSpawn_desc": "Disable or enable zombie spawning with antizin",
+	"usingCustomRadarPosition": "Custom radar config",
+	"usingCustomRadarPosition_desc": "Disable Extinction's radar modifications size/position (restart needed)",
+	"disableStatusHud": "Extinction status HUD",
+	"disableStatusHud_desc": "Disable Extinction's custom status HUD (armor, health, ammo)",
+	"hud-personnalization": "HUD personnalization",
+	"squadComponentPosition": "Squad HUD position",
+	"squadComponentPosition_desc": "Select the alignment position of the squad HUD"
 }
