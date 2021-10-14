@@ -23,5 +23,7 @@
 	"voiceChatEnabled": "Voice chat",
 	"voiceChatEnabled_desc": "Disable or enable the in-game voice chat",
 	"antizinDisableZombieSpawn": "Disable zombie spawning with antizin",
-	"antizinDisableZombieSpawn_desc": "Disable or enable zombie spawning with antizin"
+	"antizinDisableZombieSpawn_desc": "Disable or enable zombie spawning with antizin",
+	"usingCustomRadarPosition": "Use custom radar config",
+	"usingCustomRadarPosition_desc": "Disable Extinction's radar modifications size/position (restart needed)"
 }
