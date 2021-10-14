@@ -883,7 +883,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	darkzone_points = "Points",
 	darkzone_points_x = "~r~Darkzone points: ~w~+%s",
 	darkzone_landing_in_x = "Landing available in ~b~%s minutes~w~.\nIf enough players.",
-	darkzone_open_press_context = "The darkzone is open~w~.\nPress ~INPUT_CONTEXT~ to land ~m~on the darkzone~w~.",
+	darkzone_open_press_context = "Press ~INPUT_CONTEXT~ to land ~m~on the darkzone~w~.",
 	darkzone_outside_warning = "~r~You are outside the darkzone, come back or die.",
 	darkzone_close_warning = "~r~The darkzone is closing soon~w~.\nYou should not stay here too long.",
 	darkzone_close_damage = "The darkzone closed, the entire area is now contaminated.",
@@ -1010,6 +1010,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	poll8_q1 = "Would you like server 2 (solo server) to become a duo-only server?",
 	poll8_q2 = "Do you like banana?",
+
+	reset_radar_tips = "If you want to reset the radar too, there is another setting for that.",
 }
 
 AddLanguage("en", my_language)
