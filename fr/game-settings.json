@@ -24,5 +24,10 @@
 	"antizinDisableZombieSpawn": "Désactiver le spawn des zombies avec l'antizin",
 	"antizinDisableZombieSpawn_desc": "Désactiver ou activer le spawn des zombies en vous injectant de l'antizin",
 	"usingCustomRadarPosition": "Radar custom",
-	"usingCustomRadarPosition_desc": "Désactiver les modifications du radar d'Extinction position/taille (restart requis)"
+	"usingCustomRadarPosition_desc": "Désactiver les modifications du radar d'Extinction position/taille (restart requis)",
+	"disableStatusHud": "HUD Statut Extinction",
+	"disableStatusHud_desc": "Désactive le HUD custom d'Extinction (armure, vie, munitions)",
+	"hud-personnalization": "Personalisation HUD",
+	"squadComponentPosition": "Position de l'hud escouade",
+	"squadComponentPosition_desc": "Sélectionnez la position d'alignement du HUD de l'escouade."
 }
