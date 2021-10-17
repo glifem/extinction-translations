@@ -1012,6 +1012,11 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	poll8_q2 = "Aimez-vous les bananes?",
 
 	reset_radar_tips = "Si vous voulez aussi réinitialiser le radar, il y a un autre réglage pour cela.",
+	redzone_shop = "Magasin redzone",
+	no_enough_redzone_points = "~r~Vous n'avez pas assez de redzone points.",
+	you_paid_basket_rp = "Vous avez payé ~r~%s RP~w~ pour votre panier.",
+
+	redzone_points_balance_x = "Redzone points: ~r~%s",
 }
 
 AddLanguage("fr", my_language)

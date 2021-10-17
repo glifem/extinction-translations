@@ -1012,6 +1012,11 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	poll8_q2 = "Do you like banana?",
 
 	reset_radar_tips = "If you want to reset the radar too, there is another setting for that.",
+	redzone_shop = "Redzone shop",
+	no_enough_redzone_points = "~r~You do not have enough redzone points.",
+	you_paid_basket_rp = "You paid ~r~%s RP~w~ for your basket.",
+
+	redzone_points_balance_x = "Redzone points: ~r~%s",
 }
 
 AddLanguage("en", my_language)
