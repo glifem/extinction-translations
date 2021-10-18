@@ -10,5 +10,6 @@
 	"history": "Historique de {{itemName}}",
 	"price-history": "Price history",
 	"view-graph": "View graph",
-	"delete-all-sell-offers": "Delete all sell offers"
+	"delete-all-sell-offers": "Delete all sell offers",
+	"market-offers": "Market offers"
 }
