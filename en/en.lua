@@ -1017,6 +1017,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	you_paid_basket_rp = "You paid ~r~%s RP~w~ for your basket.",
 
 	redzone_points_balance_x = "Redzone points: ~r~%s",
+	top_kills = "Top kills",
+	top_zombies = "Top zombies",
 }
 
 AddLanguage("en", my_language)

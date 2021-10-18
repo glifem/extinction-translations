@@ -1017,6 +1017,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	you_paid_basket_rp = "Vous avez payé ~r~%s RP~w~ pour votre panier.",
 
 	redzone_points_balance_x = "Redzone points: ~r~%s",
+	top_kills = "Top kills",
+	top_zombies = "Top zombies",
 }
 
 AddLanguage("fr", my_language)
