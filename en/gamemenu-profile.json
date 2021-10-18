@@ -3,6 +3,8 @@
 	"no_crew": "No crew",
 	"experience": "Experience",
 	"death": "Deaths",
+	"death_redzone": "Deaths (Redzone)",
+	"death_darkzone": "Deaths (Darkzone)",
 	"kill": "Killed players",
 	"zombie": "Killed zombies",
 	"createdAt": "Account created",
