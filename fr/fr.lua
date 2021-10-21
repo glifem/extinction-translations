@@ -1019,6 +1019,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	redzone_points_balance_x = "Redzone points: ~r~%s",
 	top_kills = "Top kills",
 	top_zombies = "Top zombies",
+
+	not_allowed_in_this_zone = "~r~Vous ne pouvez pas faire ça dans cette zone.",
 }
 
 AddLanguage("fr", my_language)

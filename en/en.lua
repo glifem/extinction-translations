@@ -1019,6 +1019,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	redzone_points_balance_x = "Redzone points: ~r~%s",
 	top_kills = "Top kills",
 	top_zombies = "Top zombies",
+
+	not_allowed_in_this_zone = "~r~You cannot do that in that zone.",
 }
 
 AddLanguage("en", my_language)
