@@ -1008,7 +1008,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	wait_before_next_action = "Attendez ~r~%sms~w~ avant de déplacer cet item une nouvelle fois.",
 	bank = "Banque",
 
-	poll8_q1 = "Voudriez-vous que le serveur 2 (solo seulement) devienne un serveur duo seulement?",
+	poll8_q1 = "Voudriez-vous que le serveur 2 (solo seulement) soit remplacé par un serveur duo seulement?",
 	poll8_q2 = "Aimez-vous les bananes?",
 
 	reset_radar_tips = "Si vous voulez aussi réinitialiser le radar, il y a un autre réglage pour cela.",

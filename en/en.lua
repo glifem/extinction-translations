@@ -1008,7 +1008,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	wait_before_next_action = "Wait ~r~%sms~w~ before moving this item again.",
 	bank = "Bank",
 
-	poll8_q1 = "Would you like server 2 (solo server) to become a duo-only server?",
+	poll8_q1 = "Would you like server 2 (solo server) to be replaced by a duo-only server?",
 	poll8_q2 = "Do you like banana?",
 
 	reset_radar_tips = "If you want to reset the radar too, there is another setting for that.",
