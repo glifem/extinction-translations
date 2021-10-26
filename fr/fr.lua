@@ -1021,6 +1021,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	top_zombies = "Top zombies",
 
 	not_allowed_in_this_zone = "~r~Vous ne pouvez pas faire ça dans cette zone.",
+	darkzone_disabled_for_update = "~r~La darkzone est désactivée et sera de retour avec des mises à jour et des améliorations.",
 }
 
 AddLanguage("fr", my_language)
