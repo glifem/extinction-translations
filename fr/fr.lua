@@ -1022,6 +1022,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	not_allowed_in_this_zone = "~r~Vous ne pouvez pas faire ça dans cette zone.",
 	darkzone_disabled_for_update = "~r~La darkzone est désactivée et sera de retour avec des mises à jour et des améliorations.",
+	loot_crate_halloween = "Caisse de butin Halloween",
 }
 
 AddLanguage("fr", my_language)

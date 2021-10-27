@@ -1022,6 +1022,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	not_allowed_in_this_zone = "~r~You cannot do that in that zone.",
 	darkzone_disabled_for_update = "~r~The darkzone is disabled and will be back with updates and improvements.",
+	loot_crate_halloween = "Halloween Loot Crate",
 }
 
 AddLanguage("en", my_language)
