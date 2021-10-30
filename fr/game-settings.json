@@ -27,5 +27,7 @@
 	"disableStatusHud_desc": "Désactive le HUD custom d'Extinction (armure, vie, munitions)",
 	"hud-personnalization": "Personalisation HUD",
 	"disablePingSound": "Son des pings",
-	"disablePingSound_desc": "Désactiver le son des pings"
+	"disablePingSound_desc": "Désactiver le son des pings",
+	"fpsBoost": "Boost FPS",
+	"fpsBoost_desc": "Réduit les paramètres visuels et la distance de rendu de votre jeu pour gagner automatiquement des FPS"
 }

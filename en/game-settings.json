@@ -28,5 +28,7 @@
 	"disableStatusHud_desc": "Disable Extinction's custom status HUD (armor, health, ammo)",
 	"hud-personnalization": "HUD personnalization",
 	"disablePingSound": "Ping sound",
-	"disablePingSound_desc": "Disable the ping sound effect"
+	"disablePingSound_desc": "Disable the ping sound effect",
+	"fpsBoost": "FPS Boost",
+	"fpsBoost_desc": "Reduce the visual settings and render distance of your game to automatically gain FPS"
 }
