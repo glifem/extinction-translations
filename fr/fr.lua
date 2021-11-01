@@ -1023,6 +1023,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	not_allowed_in_this_zone = "~r~Vous ne pouvez pas faire ça dans cette zone.",
 	darkzone_disabled_for_update = "~r~La darkzone est désactivée et sera de retour avec des mises à jour et des améliorations.",
 	loot_crate_halloween = "Caisse de butin Halloween",
+
+	poll10_q1 = "Où pensez-vous que le mode sangsue doit être activé ?",
+	poll_10_q1 = "Dans les redzones seulement",
+	poll_10_q2 = "Partout",
 }
 
 AddLanguage("fr", my_language)

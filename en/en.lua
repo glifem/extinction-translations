@@ -1023,6 +1023,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	not_allowed_in_this_zone = "~r~You cannot do that in that zone.",
 	darkzone_disabled_for_update = "~r~The darkzone is disabled and will be back with updates and improvements.",
 	loot_crate_halloween = "Halloween Loot Crate",
+
+	poll10_q1 = "Where do you believe siphon mode should be enabled?",
+	poll_10_q1 = "In redzone only",
+	poll_10_q2 = "Everywhere",
 }
 
 AddLanguage("en", my_language)
