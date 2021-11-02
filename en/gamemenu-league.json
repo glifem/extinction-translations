@@ -3,5 +3,9 @@
     "my-team": "My team",
     "rules": "Rules",
     "leagues": "Leagues",
-    "my-league": "My league"
+    "my-league": "My league",
+    "invited-by": "{{author}} invited you to play",
+    "ranked-game": "Ranked game",
+    "casual-game": "Casual game",
+    "join": "Join"
 }
