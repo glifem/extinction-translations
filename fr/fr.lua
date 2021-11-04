@@ -1029,6 +1029,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	winner_title = "Gagnant",
 	left_gungame_party = "~r~Vous avez quitté le mode gun-game.",
 	outfit_gta = "Tenues GTA",
+
+	poll10_q1 = "Où pensez-vous que le mode sangsue doit être activé ?",
+	poll_10_q1 = "Dans les redzones seulement",
+	poll_10_q2 = "Partout",
 }
 
 AddLanguage("fr", my_language)

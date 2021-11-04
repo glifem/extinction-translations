@@ -1029,6 +1029,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	winner_title = "Winner",
 	left_gungame_party = "~r~You left the gun-game lobby.",
 	outfit_gta = "GTA Oufits",
+
+	poll10_q1 = "Where do you believe siphon mode should be enabled?",
+	poll_10_q1 = "In redzone only",
+	poll_10_q2 = "Everywhere",
 }
 
 AddLanguage("en", my_language)
