@@ -1023,6 +1023,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	not_allowed_in_this_zone = "~r~You cannot do that in that zone.",
 	darkzone_disabled_for_update = "~r~The darkzone is disabled and will be back with updates and improvements.",
 	loot_crate_halloween = "Halloween Loot Crate",
+
+	joined_lobby_x = "~g~You joined the lobby %s.",
+	new_weapon = "New weapon",
+	winner_title = "Winner",
+	left_gungame_party = "~r~You left the gun-game lobby.",
+	outfit_gta = "GTA Oufits",
 }
 
 AddLanguage("en", my_language)
