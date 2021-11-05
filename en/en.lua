@@ -1034,7 +1034,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	poll_10_q2 = "Everywhere",
 
 	open_lobby_menu = "open the lobby menu",
-	choose_game_lobby = "Choose a game lobby",
+	choose_game_lobby = "Choose a lobby",
 
 	joined_lobby_x = "~g~You joined the lobby %s.~w~\nGamemode: ~b~%s",
 	gun_game = "Gun game",
