@@ -1024,7 +1024,6 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	darkzone_disabled_for_update = "~r~The darkzone is disabled and will be back with updates and improvements.",
 	loot_crate_halloween = "Halloween Loot Crate",
 
-	joined_lobby_x = "~g~You joined the lobby %s.",
 	new_weapon = "New weapon",
 	winner_title = "Winner",
 	left_gungame_party = "~r~You left the gun-game lobby.",
@@ -1033,6 +1032,14 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	poll10_q1 = "Where do you believe siphon mode should be enabled?",
 	poll_10_q1 = "In redzone only",
 	poll_10_q2 = "Everywhere",
+
+	open_lobby_menu = "open the lobby menu",
+	choose_game_lobby = "Choose a game lobby",
+
+	joined_lobby_x = "~g~You joined the lobby %s.~w~\nGamemode: ~b~%s",
+	gun_game = "Gun game",
+	spawn = "Spawn",
+	return_lobby_help = "If you want to return to the main lobby, type ~b~/lobby.",
 }
 
 AddLanguage("en", my_language)
