@@ -1034,7 +1034,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	poll_10_q2 = "Partout",
 
 	open_lobby_menu = "ouvrir le menu des lobby",
-	choose_game_lobby = "Choisissez un mode de jeu",
+	choose_game_lobby = "Liste des modes",
 
 	joined_lobby_x = "~g~Vous avez rejoint le lobby %s.~w~\nMode: ~b~%s",
 	gun_game = "Jeu d'armes",
