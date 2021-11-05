@@ -1040,6 +1040,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	gun_game = "Jeu d'armes",
 	spawn = "Spawn",
 	return_lobby_help = "Si vous voulez retourner au spawn principal, tapez ~b~/lobby.",
+	afk_press_key = "AFK?~r~~n~Appuyez sur la touche.",
+	sorry_it_is_ok = "~r~Désolé!\n~w~C'est bon maintenant.",
 }
 
 AddLanguage("fr", my_language)

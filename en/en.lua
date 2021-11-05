@@ -1040,6 +1040,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	gun_game = "Gun game",
 	spawn = "Spawn",
 	return_lobby_help = "If you want to return to the main lobby, type ~b~/lobby.",
+	afk_press_key = "AFK?~r~~n~Press the key.",
+	sorry_it_is_ok = "~r~Sorry!\n~w~It is ok now.",
 }
 
 AddLanguage("en", my_language)
