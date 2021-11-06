@@ -1042,6 +1042,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	return_lobby_help = "Si vous voulez retourner au spawn principal, tapez ~b~/lobby.",
 	afk_press_key = "AFK?~r~~n~Appuyez sur la touche.",
 	sorry_it_is_ok = "~r~Désolé!\n~w~C'est bon maintenant.",
+	swimming_respawn_help = "~r~Il semblerait que vous soyez bloqué dans l'eau.\n~w~Appuyez sur ~INPUT_CONTEXT~ pour réapparaître.",
 }
 
 AddLanguage("fr", my_language)

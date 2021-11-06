@@ -1042,6 +1042,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	return_lobby_help = "If you want to return to the main lobby, type ~b~/lobby.",
 	afk_press_key = "AFK?~r~~n~Press the key.",
 	sorry_it_is_ok = "~r~Sorry!\n~w~It is ok now.",
+	swimming_respawn_help = "~r~You seem to be stuck in water.\n~w~Press ~INPUT_CONTEXT~ to respawn.",
 }
 
 AddLanguage("en", my_language)
