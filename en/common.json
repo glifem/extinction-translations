@@ -1,5 +1,7 @@
 {
 	"Language": "English",
 	"enter-your-message": "Enter your message",
-	"delete": "Delete"
+	"delete": "Delete",
+	"send": "Send",
+	"search": "Search"
 }
