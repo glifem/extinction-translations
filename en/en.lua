@@ -1024,9 +1024,25 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	darkzone_disabled_for_update = "~r~The darkzone is disabled and will be back with updates and improvements.",
 	loot_crate_halloween = "Halloween Loot Crate",
 
+	new_weapon = "New weapon",
+	winner_title = "Winner",
+	left_gungame_party = "~r~You left the gun-game lobby.",
+	outfit_gta = "GTA Oufits",
+
 	poll10_q1 = "Where do you believe siphon mode should be enabled?",
 	poll_10_q1 = "In redzone only",
 	poll_10_q2 = "Everywhere",
+
+	open_lobby_menu = "open the lobby menu",
+	choose_game_lobby = "Choose a lobby",
+
+	joined_lobby_x = "~g~You joined the lobby %s.~w~\nGamemode: ~b~%s",
+	gun_game = "Gun game",
+	spawn = "Spawn",
+	return_lobby_help = "If you want to return to the main lobby, type ~b~/lobby.",
+	afk_press_key = "AFK?~r~~n~Press the key.",
+	sorry_it_is_ok = "~r~Sorry!\n~w~It is ok now.",
+	swimming_respawn_help = "~r~You seem to be stuck in water.\n~w~Press ~INPUT_CONTEXT~ to respawn.",
 }
 
 AddLanguage("en", my_language)

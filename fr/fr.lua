@@ -1024,9 +1024,25 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	darkzone_disabled_for_update = "~r~La darkzone est désactivée et sera de retour avec des mises à jour et des améliorations.",
 	loot_crate_halloween = "Caisse de butin Halloween",
 
+	new_weapon = "Nouvelle arme",
+	winner_title = "Gagnant",
+	left_gungame_party = "~r~Vous avez quitté le mode gun-game.",
+	outfit_gta = "Tenues GTA",
+
 	poll10_q1 = "Où pensez-vous que le mode sangsue doit être activé ?",
 	poll_10_q1 = "Dans les redzones seulement",
 	poll_10_q2 = "Partout",
+
+	open_lobby_menu = "ouvrir le menu des lobby",
+	choose_game_lobby = "Liste des modes",
+
+	joined_lobby_x = "~g~Vous avez rejoint le lobby %s.~w~\nMode: ~b~%s",
+	gun_game = "Jeu d'armes",
+	spawn = "Spawn",
+	return_lobby_help = "Si vous voulez retourner au spawn principal, tapez ~b~/lobby.",
+	afk_press_key = "AFK?~r~~n~Appuyez sur la touche.",
+	sorry_it_is_ok = "~r~Désolé!\n~w~C'est bon maintenant.",
+	swimming_respawn_help = "~r~Il semblerait que vous soyez bloqué dans l'eau.\n~w~Appuyez sur ~INPUT_CONTEXT~ pour réapparaître.",
 }
 
 AddLanguage("fr", my_language)
