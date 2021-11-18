@@ -1044,4 +1044,4 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
     swimming_respawn_help = "~r~You seem to be stuck in water.\n~w~Press ~INPUT_CONTEXT~ to respawn."
 }
 
-AddLanguage("dk", my_language)
+AddLanguage("da", my_language)
