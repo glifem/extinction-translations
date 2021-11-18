@@ -502,8 +502,8 @@ local my_language = {
     ["calibre_12"] = "Calibre 12",
     ["45_acp"] = ".45 ACP",
     ["5_56mm"] = "5.56mm",
-    rocket = "Roket",
-    flare = "flare",
+    rocket = "Rocket",
+    flare = "Flare",
     grenade = "Granat Ammo",
     -- Food
     ["fish_1"] = "Largemouth Bass",
