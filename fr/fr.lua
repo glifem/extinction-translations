@@ -1053,6 +1053,11 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	warning_message_duo = "Vous jouez sur le serveur DUO d'Extinction. Vous n'êtes pas autorisé à faire équipe avec d'autres joueurs. Si vous êtes pris en train de faire équipe, vous serez interdit de jeu sur ce serveur et également interdit temporairement sur tous les serveurs. Veuillez respecter les règles et jouer en DUO.",
 	combat_mode_cannot_do_that = "~r~Vous êtes en combat.\n~w~Vous ne pouvez pas faire ça.",
+	open_darkzone_shop = "ouvrir le magasin darkzone",
+	dzone_flare_airdrop = "Fusée airdrop",
+	paid_x_points_for_x = "Vous avez payé ~r~%s~w~ points pour ~r~%s~w~.",
+	starter_pack_upgrade_1 = "Kit de départ amélioration",
+	extraction_package = "Caisse d'extraction",
 }
 
 AddLanguage("fr", my_language)

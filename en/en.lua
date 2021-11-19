@@ -1053,6 +1053,11 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	warning_message_duo = "You are playing on the Extinction DUO server. You are not allowed to team-up with more than one player. If you get caught teaming with more than a duo you will be banned from playing on this server and also temporally banned globally. Please respect the rules and play DUO.",
 	combat_mode_cannot_do_that = "~r~You are in combat.\n~w~You cannot do that.",
+	open_darkzone_shop = "open the darkzone shop",
+	dzone_flare_airdrop = "Airdrop flare",
+	paid_x_points_for_x = "You paid ~r~%s~w~ points for ~r~%s~w~.",
+	starter_pack_upgrade_1 = "Starter pack upgrade",
+	extraction_package = "Extraction package",
 }
 
 AddLanguage("en", my_language)
