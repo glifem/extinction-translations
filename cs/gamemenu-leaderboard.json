@@ -1,0 +1,20 @@
+{
+	"killed_players_stats": "Zabito hráčů",
+	"killed_zombies_stats": "Zabito zombíků",
+	"player_deaths": "Úmrtí",
+	"leaderboard": "Žebříček",
+	"killed_players_redzone_stats": "Zabito hráčů v redzóně",
+	"killed_players_darkzone_stats": "Zabito hráčů v darkzóně",
+	"killed_zombies_redzone_stats": "Zabito zombíků v redzóně",
+	"killed_zombies_darkzone_stats": "Zabito zombíků v darkzóně",
+	"position": "Umístění",
+	"name": "Jméno",
+	"id": "ID",
+	"total": "Celkově",
+	"crew": "Crew",
+	"country": "Země",
+	"none": "Žádná",
+	"extinction_points_stats": "Extinction Points",
+	"top-by-ext-points-pl": "Nejlepší hráč podle Extinction pointů",
+	"top-by-ext-points-cr": "Nejlepší crew podle Extinction pointů"
+}
