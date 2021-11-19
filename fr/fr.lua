@@ -1052,6 +1052,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	airdrop_points = "Points airdrop",
 
 	warning_message_duo = "Vous jouez sur le serveur DUO d'Extinction. Vous n'êtes pas autorisé à faire équipe avec d'autres joueurs. Si vous êtes pris en train de faire équipe, vous serez interdit de jeu sur ce serveur et également interdit temporairement sur tous les serveurs. Veuillez respecter les règles et jouer en DUO.",
+	combat_mode_cannot_do_that = "~r~Vous êtes en combat.\n~w~Vous ne pouvez pas faire ça.",
 }
 
 AddLanguage("fr", my_language)
