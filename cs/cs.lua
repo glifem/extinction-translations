@@ -1053,6 +1053,12 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 
 	warning_message_duo = "Hraješ na DUO serveru Extinction. Není zde povoleno teamovat s více jak jedním hráčem. Pokud budeš přichycen při teamování, budeš zabanován z tohoto serveru a dočasně i z celého GLifu. Prosím respektuj pravidla a hraj solo. Pokud budeš přichycen při teamování s více jak jedním hráčem, budeš zabanován z tohoto serveru a dočasně i z celého GLifu. Prosím respektuj pravidla a hraj solo.",
 	combat_mode_cannot_do_that = "~r~Jsi v combatu.\n~w~Tohle nemůžeš dělat.",
+	open_darkzone_shop = "otevření darkzone obchodu",
+	dzone_flare_airdrop = "Světlice airdropu",
+	paid_x_points_for_x = "Zaplatil jsi ~r~%s~w~ bodů za ~r~%s~w~.",
+	starter_pack_upgrade_1 = "Upgrade starter packu",
+	extraction_package = "Výsadkový balíček",
+	always_spawn_antizin = "Obnovit antizin",
 }
 
 AddLanguage("cs", my_language)
