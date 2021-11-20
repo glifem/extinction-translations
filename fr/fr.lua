@@ -1059,6 +1059,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	starter_pack_upgrade_1 = "Kit de départ amélioration",
 	extraction_package = "Caisse d'extraction",
 	always_spawn_antizin = "Spawn antizin",
+	cannot_enter_darkzone_inventory = "~r~Vous ne pouvez pas entrer dans la darkzone avec un inventaire.",
+	you_are_not_in_a_squad = "~r~Vous n'êtes pas dans une escouade.",
 }
 
 AddLanguage("fr", my_language)
