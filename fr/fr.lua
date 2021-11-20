@@ -1058,6 +1058,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	paid_x_points_for_x = "Vous avez payé ~r~%s~w~ points pour ~r~%s~w~.",
 	starter_pack_upgrade_1 = "Kit de départ amélioration",
 	extraction_package = "Caisse d'extraction",
+	always_spawn_antizin = "Spawn antizin",
 }
 
 AddLanguage("fr", my_language)

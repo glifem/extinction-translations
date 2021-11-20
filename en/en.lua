@@ -1058,6 +1058,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	paid_x_points_for_x = "You paid ~r~%s~w~ points for ~r~%s~w~.",
 	starter_pack_upgrade_1 = "Starter pack upgrade",
 	extraction_package = "Extraction package",
+	always_spawn_antizin = "Spawn antizin",
 }
 
 AddLanguage("en", my_language)
