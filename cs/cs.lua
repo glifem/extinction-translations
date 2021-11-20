@@ -1048,7 +1048,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	cant_get_darkzone_loadout = "~r~Nemůžeš dostat tvoji výbavu do darkzóny.\n~w~%s",
 	press_e_to_exit_the_darkzone2 = "Zmáčkni ~INPUT_CONTEXT~ pro opuštění darkzóny.",
 	not_driving_vehicle = "~r~Neřídíš vozidlo.",
-	not_enough_airdrop_points = "~r~Tvoje crew nemá dostatek bodů na to, aby mohla otevřít airdrop.",
+	not_enough_airdrop_points = "~r~Tvoje crew/squad nemá dostatek bodů na to, aby mohla otevřít airdrop.",
 	airdrop_points = "Airdrop body",
 
 	warning_message_duo = "Hraješ na DUO serveru Extinction. Není zde povoleno teamovat s více jak jedním hráčem. Pokud budeš přichycen při teamování, budeš zabanován z tohoto serveru a dočasně i z celého GLifu. Prosím respektuj pravidla a hraj solo. Pokud budeš přichycen při teamování s více jak jedním hráčem, budeš zabanován z tohoto serveru a dočasně i z celého GLifu. Prosím respektuj pravidla a hraj solo.",
@@ -1058,7 +1058,9 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	paid_x_points_for_x = "Zaplatil jsi ~r~%s~w~ bodů za ~r~%s~w~.",
 	starter_pack_upgrade_1 = "Upgrade starter packu",
 	extraction_package = "Výsadkový balíček",
-	always_spawn_antizin = "Obnovit antizin",
+	always_spawn_antizin = "Spawn s antizinem",
+	cannot_enter_darkzone_inventory = "~r~Nemůžeš vstoupit do darkzóny pokud máš něco v inventáři.",
+	you_are_not_in_a_squad = "~r~Nejsi v žádné squadě.",
 }
 
 AddLanguage("cs", my_language)
