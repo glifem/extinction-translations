@@ -1048,7 +1048,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	cant_get_darkzone_loadout = "~r~Vous ne pouvez pas obtenir votre kit darkzone.\n~w~%s",
 	press_e_to_exit_the_darkzone2 = "Appuyez sur ~INPUT_CONTEXT~ pour sortir de la darkzone.",
 	not_driving_vehicle = "~r~Vous ne conduisez pas un véhicule.",
-	not_enough_airdrop_points = "~r~Votre crew n'a pas assez de points pour ouvrir le airdrop.",
+	not_enough_airdrop_points = "~r~Votre crew/squad n'a pas assez de points pour ouvrir le airdrop.",
 	airdrop_points = "Points airdrop",
 
 	warning_message_duo = "Vous jouez sur le serveur DUO d'Extinction. Vous n'êtes pas autorisé à faire équipe avec d'autres joueurs. Si vous êtes pris en train de faire équipe, vous serez interdit de jeu sur ce serveur et également interdit temporairement sur tous les serveurs. Veuillez respecter les règles et jouer en DUO.",

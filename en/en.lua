@@ -1048,7 +1048,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	cant_get_darkzone_loadout = "~r~You cannot get your darkzone loadout.\n~w~%s",
 	press_e_to_exit_the_darkzone2 = "Press ~INPUT_CONTEXT~ to exit the darkzone.",
 	not_driving_vehicle = "~r~You are not driving a vehicle.",
-	not_enough_airdrop_points = "~r~Your crew does not have enough points to open the airdrop crate.",
+	not_enough_airdrop_points = "~r~Your crew/squad does not have enough points to open the airdrop crate.",
 	airdrop_points = "Airdrop points",
 
 	warning_message_duo = "You are playing on the Extinction DUO server. You are not allowed to team-up with more than one player. If you get caught teaming with more than a duo you will be banned from playing on this server and also temporally banned globally. Please respect the rules and play DUO.",
