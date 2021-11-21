@@ -1061,6 +1061,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	always_spawn_antizin = "Spawn antizin",
 	cannot_enter_darkzone_inventory = "~r~You cannot enter in the darkzone with an inventory.",
 	you_are_not_in_a_squad = "~r~You are not in a squad.",
+	already_in_a_crew = "You are already in a crew.",
 }
 
 AddLanguage("en", my_language)

@@ -1061,6 +1061,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	always_spawn_antizin = "Spawn antizin",
 	cannot_enter_darkzone_inventory = "~r~Vous ne pouvez pas entrer dans la darkzone avec un inventaire.",
 	you_are_not_in_a_squad = "~r~Vous n'êtes pas dans une escouade.",
+	already_in_a_crew = "Vous êtes déjà dans un crew.",
 }
 
 AddLanguage("fr", my_language)
