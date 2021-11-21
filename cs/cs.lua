@@ -1061,6 +1061,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	always_spawn_antizin = "Spawn s antizinem",
 	cannot_enter_darkzone_inventory = "~r~Nemůžeš vstoupit do darkzóny pokud máš něco v inventáři.",
 	you_are_not_in_a_squad = "~r~Nejsi v žádné squadě.",
+	already_in_a_crew = "Už jsi v nějaké crew.",
 }
 
 AddLanguage("cs", my_language)
