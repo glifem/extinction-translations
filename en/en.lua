@@ -1062,6 +1062,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	cannot_enter_darkzone_inventory = "~r~You cannot enter in the darkzone with an inventory.",
 	you_are_not_in_a_squad = "~r~You are not in a squad.",
 	already_in_a_crew = "You are already in a crew.",
+
+	poll11_q1 = "Should we fix the homing/rpg fast reload (fast rocket glitch)?",
+	poll11_q2 = "Should we ban/fix the deluxo trick? (Standing on deluxo and shooting people)",
 }
 
 AddLanguage("en", my_language)

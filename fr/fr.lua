@@ -1062,6 +1062,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	cannot_enter_darkzone_inventory = "~r~Vous ne pouvez pas entrer dans la darkzone avec un inventaire.",
 	you_are_not_in_a_squad = "~r~Vous n'êtes pas dans une escouade.",
 	already_in_a_crew = "Vous êtes déjà dans un crew.",
+
+	poll11_q1 = "Devrions-nous corriger le glitch de rechargement rapide des homing/rpg? (Tirer des roquettes tres rapidement)",
+	poll11_q2 = "Devrions-nous bannir/corriger le deluxo trick? (Tenir debout sur une deluxo volante pour tirer)",
 }
 
 AddLanguage("fr", my_language)
