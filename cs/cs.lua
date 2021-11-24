@@ -1062,6 +1062,9 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	cannot_enter_darkzone_inventory = "~r~Nemůžeš vstoupit do darkzóny pokud máš něco v inventáři.",
 	you_are_not_in_a_squad = "~r~Nejsi v žádné squadě.",
 	already_in_a_crew = "Už jsi v nějaké crew.",
+	
+	poll11_q1 = "Měli bychom opravit rychlé přebíjení homingu/rpg (glitch)?",
+	poll11_q2 = "Měli bychom banovat/opravit lidi, co dělají deluxo trick (stání na deluxu a střílení z něj)?",
 }
 
 AddLanguage("cs", my_language)
