@@ -1064,7 +1064,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	already_in_a_crew = "Už jsi v nějaké crew.",
 	
 	poll11_q1 = "Měli bychom opravit rychlé přebíjení homingu/rpg (glitch)?",
-	poll11_q2 = "Měli bychom banovat/opravit lidi, co dělají deluxo trick (stání na deluxu a střílení z něj)?",
+	poll11_q2 = "Měli bychom banovat/opravit deluxo trick (stání na deluxu a střílení z něj)?",
 }
 
 AddLanguage("cs", my_language)
