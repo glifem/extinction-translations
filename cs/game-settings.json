@@ -31,4 +31,6 @@
 	"disablePingSound_desc": "Vypne zvuk pingu",
 	"fpsBoost": "FPS Boost",
 	"fpsBoost_desc": "Sníží vizuální nastavení a vykreslovácí vzdálenost hry za účelem vyšších FPS"
+	"killSoundEffectEnabled": "Zvuk po killu",
+	"killSoundEffectEnabled_desc": "Vyber jestli chceš nebo nechceš mít zaplý sound effect po zabití hráče"
 }
