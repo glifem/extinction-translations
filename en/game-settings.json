@@ -30,5 +30,7 @@
 	"disablePingSound": "Ping sound",
 	"disablePingSound_desc": "Disable the ping sound effect",
 	"fpsBoost": "FPS Boost",
-	"fpsBoost_desc": "Reduce the visual settings and render distance of your game to automatically gain FPS"
+	"fpsBoost_desc": "Reduce the visual settings and render distance of your game to automatically gain FPS",
+	"killSoundEffectEnabled": "Kill sound",
+	"killSoundEffectEnabled_desc": "Choose whether or not kill sound effect is enabled"
 }
