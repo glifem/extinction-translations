@@ -1065,6 +1065,14 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	
 	poll11_q1 = "Měli bychom opravit rychlé přebíjení homingu/rpg (glitch)?",
 	poll11_q2 = "Měli bychom banovat/opravit deluxo trick (stání na deluxu a střílení z něj)?",
+	loot_crate_christmas = "Christmas Loot Crate",
+
+	christmas_quest_x_completed = "~r~Vánoční úkol za den #%s splněn.",
+	open_the_gift_menu = "otevření menu s dárky",
+	too_high_level_gift = "~r~Pouze nováčci mohou brát dárky, tvůj level je příliš vysoký.",
+	already_withdraw_gift_recently = "~r~Za posledních 15 minut už sis dárek vzal.",
+	thank_you_for_gifting_x = "Díky za darování ~g~%sx %s~w~.",
+	cannot_donate_junk = "~r~Nemůžeš darovat levné/junk věci.",
 }
 
 AddLanguage("cs", my_language)
