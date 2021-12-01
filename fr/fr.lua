@@ -1048,11 +1048,23 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	cant_get_darkzone_loadout = "~r~Vous ne pouvez pas obtenir votre kit darkzone.\n~w~%s",
 	press_e_to_exit_the_darkzone2 = "Appuyez sur ~INPUT_CONTEXT~ pour sortir de la darkzone.",
 	not_driving_vehicle = "~r~Vous ne conduisez pas un véhicule.",
-	not_enough_airdrop_points = "~r~Votre crew n'a pas assez de points pour ouvrir le airdrop.",
+	not_enough_airdrop_points = "~r~Votre crew/squad n'a pas assez de points pour ouvrir le airdrop.",
 	airdrop_points = "Points airdrop",
 
 	warning_message_duo = "Vous jouez sur le serveur DUO d'Extinction. Vous n'êtes pas autorisé à faire équipe avec d'autres joueurs. Si vous êtes pris en train de faire équipe, vous serez interdit de jeu sur ce serveur et également interdit temporairement sur tous les serveurs. Veuillez respecter les règles et jouer en DUO.",
 	combat_mode_cannot_do_that = "~r~Vous êtes en combat.\n~w~Vous ne pouvez pas faire ça.",
+	open_darkzone_shop = "ouvrir le magasin darkzone",
+	dzone_flare_airdrop = "Fusée airdrop",
+	paid_x_points_for_x = "Vous avez payé ~r~%s~w~ points pour ~r~%s~w~.",
+	starter_pack_upgrade_1 = "Kit de départ amélioration",
+	extraction_package = "Caisse d'extraction",
+	always_spawn_antizin = "Spawn antizin",
+	cannot_enter_darkzone_inventory = "~r~Vous ne pouvez pas entrer dans la darkzone avec un inventaire.",
+	you_are_not_in_a_squad = "~r~Vous n'êtes pas dans une escouade.",
+	already_in_a_crew = "Vous êtes déjà dans un crew.",
+
+	poll11_q1 = "Devrions-nous corriger le glitch de rechargement rapide des homing/rpg? (Tirer des roquettes tres rapidement)",
+	poll11_q2 = "Devrions-nous bannir/corriger le deluxo trick? (Tenir debout sur une deluxo volante pour tirer)",
 }
 
 AddLanguage("fr", my_language)
