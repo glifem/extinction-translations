@@ -1065,6 +1065,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	poll11_q1 = "Devrions-nous corriger le glitch de rechargement rapide des homing/rpg? (Tirer des roquettes tres rapidement)",
 	poll11_q2 = "Devrions-nous bannir/corriger le deluxo trick? (Tenir debout sur une deluxo volante pour tirer)",
+	loot_crate_christmas = "Caisse de butin Noël",
+
+	christmas_quest_x_completed = "~r~Quête de noël jour #%s completée.",
 }
 
 AddLanguage("fr", my_language)

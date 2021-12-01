@@ -1065,6 +1065,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	poll11_q1 = "Should we fix the homing/rpg fast reload (fast rocket glitch)?",
 	poll11_q2 = "Should we ban/fix the deluxo trick? (Standing on deluxo and shooting people)",
+    loot_crate_christmas = "Christmas Loot Crate",
+
+	christmas_quest_x_completed = "~r~Chirstmas quest day #%s completed.",
 }
 
 AddLanguage("en", my_language)

@@ -1041,7 +1041,7 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
     return_lobby_help = "If you want to return to the main lobby, type ~b~/lobby.",
     afk_press_key = "AFK?~r~~n~Press the key.",
     sorry_it_is_ok = "~r~Sorry!\n~w~It is ok now.",
-    swimming_respawn_help = "~r~You seem to be stuck in water.\n~w~Press ~INPUT_CONTEXT~ to respawn."
+    swimming_respawn_help = "~r~You seem to be stuck in water.\n~w~Press ~INPUT_CONTEXT~ to respawn.",
 }
 
 AddLanguage("da", my_language)
