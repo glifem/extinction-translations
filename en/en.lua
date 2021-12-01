@@ -1048,11 +1048,31 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	cant_get_darkzone_loadout = "~r~You cannot get your darkzone loadout.\n~w~%s",
 	press_e_to_exit_the_darkzone2 = "Press ~INPUT_CONTEXT~ to exit the darkzone.",
 	not_driving_vehicle = "~r~You are not driving a vehicle.",
-	not_enough_airdrop_points = "~r~Your crew does not have enough points to open the airdrop crate.",
+	not_enough_airdrop_points = "~r~Your crew/squad does not have enough points to open the airdrop crate.",
 	airdrop_points = "Airdrop points",
 
 	warning_message_duo = "You are playing on the Extinction DUO server. You are not allowed to team-up with more than one player. If you get caught teaming with more than a duo you will be banned from playing on this server and also temporally banned globally. Please respect the rules and play DUO.",
 	combat_mode_cannot_do_that = "~r~You are in combat.\n~w~You cannot do that.",
+	open_darkzone_shop = "open the darkzone shop",
+	dzone_flare_airdrop = "Airdrop flare",
+	paid_x_points_for_x = "You paid ~r~%s~w~ points for ~r~%s~w~.",
+	starter_pack_upgrade_1 = "Starter pack upgrade",
+	extraction_package = "Extraction package",
+	always_spawn_antizin = "Spawn antizin",
+	cannot_enter_darkzone_inventory = "~r~You cannot enter in the darkzone with an inventory.",
+	you_are_not_in_a_squad = "~r~You are not in a squad.",
+	already_in_a_crew = "You are already in a crew.",
+
+	poll11_q1 = "Should we fix the homing/rpg fast reload (fast rocket glitch)?",
+	poll11_q2 = "Should we ban/fix the deluxo trick? (Standing on deluxo and shooting people)",
+    loot_crate_christmas = "Christmas Loot Crate",
+
+	christmas_quest_x_completed = "~r~Chirstmas quest day #%s completed.",
+	open_the_gift_menu = "open the gift menu",
+	too_high_level_gift = "~r~Only new players can take gift, your level is too high.",
+	already_withdraw_gift_recently = "~r~You already took a gift in the last 15 minutes.",
+	thank_you_for_gifting_x = "Thank you for gifting ~g~%sx %s~w~.",
+	cannot_donate_junk = "~r~You cannot donate cheap/junk item.",
 }
 
 AddLanguage("en", my_language)
