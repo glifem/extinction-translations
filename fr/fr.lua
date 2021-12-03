@@ -1068,6 +1068,11 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	loot_crate_christmas = "Caisse de butin Noël",
 
 	christmas_quest_x_completed = "~r~Quête de noël jour #%s completée.",
+	open_the_gift_menu = "ouvrir le menu des cadeaux",
+	too_high_level_gift = "~r~Seuls les nouveaux joueurs peuvent recevoir des cadeaux, votre niveau est trop élevé.",
+	already_withdraw_gift_recently = "~r~Vous avez déjà pris un cadeau dans les 15 dernières minutes.",
+	thank_you_for_gifting_x = "Merci d'avoir offert ~g~%sx %s~w~.",
+	cannot_donate_junk = "~r~Vous ne pouvez pas donner d'articles pas cher/inutile.",
 }
 
 AddLanguage("fr", my_language)

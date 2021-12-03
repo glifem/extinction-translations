@@ -1068,6 +1068,11 @@ Getting a new prestige gives you a special badge and new perks like better loot,
     loot_crate_christmas = "Christmas Loot Crate",
 
 	christmas_quest_x_completed = "~r~Chirstmas quest day #%s completed.",
+	open_the_gift_menu = "open the gift menu",
+	too_high_level_gift = "~r~Only new players can take gift, your level is too high.",
+	already_withdraw_gift_recently = "~r~You already took a gift in the last 15 minutes.",
+	thank_you_for_gifting_x = "Thank you for gifting ~g~%sx %s~w~.",
+	cannot_donate_junk = "~r~You cannot donate cheap/junk item.",
 }
 
 AddLanguage("en", my_language)
