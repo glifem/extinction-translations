@@ -1073,6 +1073,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	already_withdraw_gift_recently = "~r~Vous avez déjà pris un cadeau dans les 15 dernières minutes.",
 	thank_you_for_gifting_x = "Merci d'avoir offert ~g~%sx %s~w~.",
 	cannot_donate_junk = "~r~Vous ne pouvez pas donner d'articles pas cher/inutile.",
+	item_not_unique = "~r~Vous ne pouvez pas vendre cet article, il n'est pas unique.",
+	marketplace_minimum_price_x_is_x = "Le prix de vente minimum pour ~r~1x %s~w~ est ~r~$%s~w~.",
 }
 
 AddLanguage("fr", my_language)

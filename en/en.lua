@@ -1073,6 +1073,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	already_withdraw_gift_recently = "~r~You already took a gift in the last 15 minutes.",
 	thank_you_for_gifting_x = "Thank you for gifting ~g~%sx %s~w~.",
 	cannot_donate_junk = "~r~You cannot donate cheap/junk item.",
+	item_not_unique = "~r~You cannot sell this item, it is not unique.",
+	marketplace_minimum_price_x_is_x = "The sell minimum price for ~r~1x %s~w~ is ~r~$%s~w~.",
 }
 
 AddLanguage("en", my_language)
