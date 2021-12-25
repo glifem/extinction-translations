@@ -4,5 +4,6 @@
     "expire-in": "Expire in {{hours}} hours",
     "completed": "Completed",
     "expired": "Expired",
-    "day": "Jour"
+    "day": "Jour",
+    "get-secret-reward": "Obtenir la récompense secrète"
 }
