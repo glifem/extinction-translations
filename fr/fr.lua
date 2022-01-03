@@ -803,7 +803,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	not_released_yet = "Ceci n'est pas encore publié.",
 	feature_only_supporters = "~b~Cette fonctionnalité est en phase de test bêta et seuls les supporters Diamant/Or peuvent l'utiliser dès maintenant.",
-	feature_not_enabled = "~b~Cette fonction n'est pas encore activée.\n~w~Veuillez attendre l'activation plus tard dans la journée.",
+	feature_not_enabled = "~b~Cette fonction n'est pas activée sur ce serveur.",
 	dungeon_charid_required = "~r~Veuillez inclure l'identifiant de votre ami (en haut à droite de son écran) après la commande.\nExemple: /dungeon invite 1234",
 
 	poll5_q1 = "Accepteriez-vous que notre anticheat capture l'écran entier des cheaters si ils sont soupçonnés de wallhack ou aimbot? (Il est possible que cela capture une partie de votre bureau si vous jouez en fenêtré, toutefois les captures ne seront jamais sauvegardées et seuls les modérateurs les plus fiables pourront utiliser cet outil)",
