@@ -427,7 +427,7 @@ local my_language = {
 	no_booster = "Vous n'avez aucun booster.",
 	
 	rank_expired = "~r~Votre rang boutique a expiré.",
-	supporter_role = "~g~Rang boutique:~w~ %s",
+	supporter_role = "~g~Rang boutique:~w~ <C>%s</C>",
 	no_rank_warning = "Vous n'avez aucun rôle boutique.\n~r~Si vous avez acheté quelque chose, liez votre compte FiveM au jeu.",
 	no_fivem_id = "Votre compte FiveM n'est pas lié.\n~r~Vérifiez que vous avez un compte FiveM et qu'il est lié au jeu.",
 	no_queue_warning = "Vous n'avez aucun package en attente.\n~r~Patientez un moment ou essayez /getRank si vous souhaitez avoir votre rang.",
@@ -1075,6 +1075,32 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	cannot_donate_junk = "~r~Vous ne pouvez pas donner d'articles pas cher/inutile.",
 	item_not_unique = "~r~Vous ne pouvez pas vendre cet article, il n'est pas unique.",
 	marketplace_minimum_price_x_is_x = "Le prix de vente minimum pour ~r~1x %s~w~ est ~r~$%s~w~.",
+
+	drop_from_the_plane = "sauter de l'avion",
+	component_suppressor = "Silencieux",
+	component_clip_01 = "Chargeur léger",
+	component_clip_02 = "Chargeur moyen",
+	component_clip_03 = "Chargeur large",
+	component_flashlight = "Lampe torche",
+	component_barrel = "Barrel",
+	component_grip = "Grip",
+	component_rail = "Rail",
+	component_compensator = "Compensateur",
+	component_scope_small = "Petit viseur",
+	component_scope_medium = "Viseur moyen",
+	component_scope_large_fixed_zoom = "Lunette zoom",
+	component_scope_thermal = "Lunette thermique",
+	component_scope_nv = "Lunette de vision nocturne",
+
+	light_kevlar = "Kevlar léger",
+	medium_kevlar = "Kevlar moyen",
+	heavy_kevlar = "Kevlar lourd",
+	light_helmet = "Casque léger",
+	medium_helmet = "Casque moyen",
+	heavy_helmet = "Casque lourd",
+	light_bag = "Sac léger",
+	medium_bag = "Sac moyen",
+	heavy_bag = "Sac lourd",
 }
 
 AddLanguage("fr", my_language)
