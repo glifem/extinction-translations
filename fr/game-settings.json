@@ -29,5 +29,7 @@
 	"disablePingSound": "Son des pings",
 	"disablePingSound_desc": "Désactiver le son des pings",
 	"fpsBoost": "Boost FPS",
-	"fpsBoost_desc": "Réduit les paramètres visuels et la distance de rendu de votre jeu pour gagner automatiquement des FPS"
+	"fpsBoost_desc": "Réduit les paramètres visuels et la distance de rendu de votre jeu pour gagner automatiquement des FPS",
+	"killSoundEffectEnabled": "Son de kill",
+	"killSoundEffectEnabled_desc": "Choisissez si le son du kill est activé ou non"
 }
