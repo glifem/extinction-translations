@@ -1101,6 +1101,16 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	light_bag = "Light bag",
 	medium_bag = "Medium bag",
 	heavy_bag = "Heavy bag",
+
+	armor_plate = "Armor plate",
+	fixing_armor = "Fixing armor",
+	bandage_g2 = "Bandage",
+	medkit_g2  ="Medkit",
+
+	game_start = "Game starting in",
+	waiting_x_players_to_start = "Waiting at least %s players to start the game.",
+	game_starting_in_x = "Game starting in %s seconds",
+	game_in_progress = "The game is in progress. %s players fighting.",
 }
 
 AddLanguage("en", my_language)

@@ -1101,6 +1101,16 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	light_bag = "Sac léger",
 	medium_bag = "Sac moyen",
 	heavy_bag = "Sac lourd",
+
+	armor_plate = "Plaque de kevlar",
+	fixing_armor = "Réparation armure",
+	bandage_g2 = "Bandage",
+	medkit_g2  ="Trousse de soin",
+
+	game_start = "Commence dans",
+	waiting_x_players_to_start = "En attente d'au moins %s joueurs pour commencer la partie.",
+	game_starting_in_x = "La partie commence dans ~r~%s secondes~w~.",
+	game_in_progress = "La partie est en cours. %s joueurs s'affrontent.",
 }
 
 AddLanguage("fr", my_language)
