@@ -414,7 +414,7 @@ local my_language = {
     kit_does_not_exist = "~r~Dette udstyr findes ikke.",
     kit_needs_rank = "Du har ikke ~r~%s~w~ ranget.",
     wait_before_using_kit = "Vent venligst ~r~%s~w~ før du benytter dette udstyr.",
-    received_kit = "Du har modtaget dit udsytr ~b~%s~w~.",
+    received_kit = "Du har modtaget dit udstyr ~b~%s~w~.",
     no_kit = "Du har ikke noget udstyr.",
 
     unable_to_find_booster = "Mislykkeds at finde en sprøjte med dette id.",
