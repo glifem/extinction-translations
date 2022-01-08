@@ -6,7 +6,7 @@
 	"ui": "Interface",
 	"crosshairSize": "Taille du viseur",
 	"deathMessage": "Message de mort",
-	"save": "Sauvegarder",
+	"save": "Save",
 	"crosshair_desc": "Choisissez si le réticule du jeu est activé ou non",
 	"duiDisabled_desc": "Choisissez de désactiver ou non l'écran de la safezone",
 	"crosshairSize_desc": "Sélectionnez la taille du réticule",
