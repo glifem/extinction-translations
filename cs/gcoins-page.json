@@ -1,0 +1,19 @@
+{
+	"xp-booster": "XP Booster",
+	"player": "Hráč",
+	"crew": "Crew",
+	"server": "Server",
+	"dont-have-any": "Nemáš žádný {{type}}.",
+	"send-gcoins-conformation": "Chystáš se poslat {{gcoins}} GCoinů tomuto FiveM ID {{fivemId}}.",
+	"click-again-to-send": "Klikni znovu pro potvrzení, že chceš odeslat {{gcoins}} GCoinů tomuto FiveM ID {{fivemId}}.",
+	"validate-transaction": "Potvrdit transakci",
+	"FiveM ID to send to": "FiveM ID k odeslání",
+	"GCoins to send": "GCoinů k odeslání",
+	"send-gcoins": "Poslat GCoiny",
+	"transaction-history": "Historie transakcí",
+	"transactions": "transakce",
+	"boosters": "Boostery",
+	"weapon skins": "Skiny na zbraně",
+	"profile": "Profil",
+	"gcoins": "GCoiny"
+}
