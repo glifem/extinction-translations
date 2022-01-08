@@ -1,0 +1,22 @@
+{
+	"my-squad": "Mein Squad",
+	"find": "Finden",
+	"create-my-squad": "Mein Squad erstellen",
+	"not-in-any-squad": "Du bist derzeit in keinem Squad!",
+	"private_desc": "Spieler können nur mit Einladung beitreten",
+	"private": "Privat",
+	"join-a-public-squad": "Öffentlichen Squad beitreten",
+	"full": "Voll",
+	"join": "Beitreten",
+	"Members": "Mitglieder",
+	"kick": "Kicken",
+	"leave": "Verlassen",
+	"add": "Hinzufügen",
+	"you": "Du",
+	"delete": "Löschen",
+	"delete_desc": "Deinen Squad löschen",
+	"public-squads": "Öffentliche Squads",
+	"squad-of-x": "{{name}}'s squad",
+	"squad-desc-x": "{{amount}}/{{limit}} Mitglieder",
+	"settings": "Einstellungen"
+}
