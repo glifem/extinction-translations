@@ -284,7 +284,7 @@ local my_language = {
 	not_allowed_create_character = "Vous n'avez pas eu l'autorisation de créer un autre personnage.",
 	character_not_yours = "Ce personnage ne vous appartient pas.",
 	character_does_not_exist = "Ce personnage n'existe pas ou plus.",
-	loading_character = "Changement du personnage en cours...",
+	loading_character = "Changement du personnage",
 
 	playtime_is = "~b~Votre temps de jeu sur Extinction:\n~w~%s",
 	dont_spam = "^1Ne spammez pas!",
@@ -1114,6 +1114,12 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	zone_closing_in = "Fermeture dans",
 	zone_closed_in = "Nouvelle zone dans",
 	x_joined_the_lobby = "~b~%s~w~ a rejoint le lobby.",
+
+	loading_account = "Chargement du compte",
+	loading_user = "Chargement de l'utilisateur",
+	loading_game_data = "Chargement des données de jeu",
+	loading_clothes = "Chargement des vêtements",
+	loading_crew = "Chargement du crew",
 }
 
 AddLanguage("fr", my_language)

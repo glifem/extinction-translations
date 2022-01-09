@@ -285,7 +285,7 @@ local my_language = {
 	not_allowed_create_character = "شما مجاز به ایجاد یک شخصیت جدید نیستید.",
 	character_not_yours = "این شخصیت از آن شما نیست.",
 	character_does_not_exist = "این شخصیت وجود ندارد یا دیگر وجود ندارد.",
-	loading_character = "بارگیری شخصیت شما...",
+	loading_character = "بارگیری شخصیت شما",
 
 	playtime_is = "~b~زمان بازی شما در Extinction:\n~w~%s",
 	dont_spam = "^1پشت سر هم تایپ نکنید!",

@@ -284,7 +284,7 @@ local my_language = {
 	not_allowed_create_character = "Yeni bir karakter oluşturmana izin verilmiyor.",
 	character_not_yours = "Bu karakter senin değil.",
 	character_does_not_exist = "Bu karakter yok yada artık kullanılmıyor.",
-	loading_character = "Karakterin yükleniyor...",
+	loading_character = "Karakterin yükleniyor",
 
 	playtime_is = "~b~Extinction oynama süresi:\n~w~%s",
 	dont_spam = "^1Spam yapma!",
