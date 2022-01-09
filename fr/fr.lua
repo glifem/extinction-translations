@@ -1113,6 +1113,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	game_in_progress = "La partie est en cours. %s joueurs s'affrontent.",
 	zone_closing_in = "Fermeture dans",
 	zone_closed_in = "Nouvelle zone dans",
+	x_joined_the_lobby = "~b~%s~w~ a rejoint le lobby.",
 }
 
 AddLanguage("fr", my_language)

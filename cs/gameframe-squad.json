@@ -1,0 +1,22 @@
+{
+	"my-squad": "Můj squad",
+	"find": "Hledat",
+	"create-my-squad": "Vytvořit squad",
+	"not-in-any-squad": "Nejsi v žádné squad!",
+	"private_desc": "Nastavit svůj squad pouze na pozvánky",
+	"private": "Soukromý",
+	"join-a-public-squad": "Najít volný squad",
+	"full": "Full",
+	"join": "Připojit",
+	"Members": "Členové",
+	"kick": "Vyhodit",
+	"leave": "Opustit",
+	"add": "Přidat",
+	"you": "Ty",
+	"delete": "Smazat",
+	"delete_desc": "Smazat squad",
+	"public-squads": "Veřejné squady",
+	"squad-of-x": "Squad hráče {{name}}",
+	"squad-desc-x": "{{amount}}/{{limit}} členů",
+	"settings": "nastavení"
+}

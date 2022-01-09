@@ -1113,6 +1113,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	game_in_progress = "The game is in progress. %s players fighting.",
 	zone_closing_in = "Zone closing in",
 	zone_closed_in = "Zone closed in",
+	x_joined_the_lobby = "~b~%s~w~ joined the lobby.",
 }
 
 AddLanguage("en", my_language)
