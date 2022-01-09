@@ -284,7 +284,7 @@ local my_language = {
 	not_allowed_create_character = "Nemůžeš si vytvořit novou postavu.",
 	character_not_yours = "Tato postava není tvoje.",
 	character_does_not_exist = "Tato postava již neexistuje.",
-	loading_character = "Načítání tvojí postavy...",
+	loading_character = "Načítání tvojí postavy",
 
 	playtime_is = "~b~Odehraný čas na Extinction:\n~w~%s",
 	dont_spam = "^1Nespamuj!",

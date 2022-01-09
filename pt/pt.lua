@@ -284,7 +284,7 @@ local my_language = {
     not_allowed_create_character = "Não podes criar uma nova personagem.",
     character_not_yours = "Esta personagem não é tua.",
     character_does_not_exist = "Esta personagem não existe ou já não existe.",
-    loading_character = "A carregar a tua personagem...",
+    loading_character = "A carregar a tua personagem",
  
     playtime_is = "~b~O teu tempo de jogo no Extinction:\n~w~%s",
     dont_spam = "^1Não faças spam!",

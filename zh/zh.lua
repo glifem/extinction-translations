@@ -287,7 +287,7 @@ local my_language = {
 	not_allowed_create_character = "您无权创建新角色.",
 	character_not_yours = "这个角色不是你的.",
 	character_does_not_exist = "该字符不存在或不再存在.",
-	loading_character = "加载你的性格...",
+	loading_character = "加载你的性格",
 
 	playtime_is = "~b~您在Extinction上的播放时间:\n~w~%s",
 	dont_spam = "^1不要垃圾邮件!",

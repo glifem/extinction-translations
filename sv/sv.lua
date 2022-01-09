@@ -286,7 +286,7 @@ local my_language = {
 	not_allowed_create_character = "Du får inte skapa en ny karaktär.",
 	character_not_yours = "Den här karaktären är inte din.",
 	character_does_not_exist = "Denna karaktär finns inte eller finns inte längre.",
-	loading_character = "Läser in din karaktär ...",
+	loading_character = "Läser in din karaktär",
 
 	playtime_is = "~b~Din speltid på Extinction:\n~w~%s",
 	dont_spam = "^1Spamma inte!",
