@@ -1111,6 +1111,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	waiting_x_players_to_start = "Waiting at least %s players to start the game.",
 	game_starting_in_x = "Game starting in %s seconds",
 	game_in_progress = "The game is in progress. %s players fighting.",
+	x_joined_the_lobby = "~b~%s~w~ joined the lobby.",
 }
 
 AddLanguage("en", my_language)

@@ -1111,6 +1111,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	waiting_x_players_to_start = "En attente d'au moins %s joueurs pour commencer la partie.",
 	game_starting_in_x = "La partie commence dans ~r~%s secondes~w~.",
 	game_in_progress = "La partie est en cours. %s joueurs s'affrontent.",
+	x_joined_the_lobby = "~b~%s~w~ a rejoint le lobby.",
 }
 
 AddLanguage("fr", my_language)
