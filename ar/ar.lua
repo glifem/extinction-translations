@@ -285,7 +285,7 @@ local my_language = {
     not_allowed_create_character = "لا يسمح لك انشاء شخصية جديدة.",
     character_not_yours = "هذه الشخصية ليست لك.",
     character_does_not_exist = "هذه الشخصية غير موجودة أو لم تعد موجودة.",
-    loading_character = "تحميل شخصيتك...",
+    loading_character = "تحميل شخصيتك",
  
     playtime_is = "~b~وقت اللعب الخاص بك على الانقراض:\n~w~%s",
     dont_spam = "^1الرجاع عدم الازعاج!",

@@ -284,7 +284,7 @@ local my_language = {
 	not_allowed_create_character = "You are not allowed to create a new character.",
 	character_not_yours = "This character is not yours.",
 	character_does_not_exist = "This character does not exist or does not longer exist.",
-	loading_character = "Loading your character...",
+	loading_character = "Loading your character",
 
 	playtime_is = "~b~Your playtime on Extinction:\n~w~%s",
 	dont_spam = "^1Do not spam!",
@@ -1115,6 +1115,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	zone_closed_in = "Zone closed in",
 	x_joined_the_lobby = "~b~%s~w~ joined the lobby.",
 	choose_a_gamemode = "Choose a gamemode",
+
+	loading_account = "Loading account",
+	loading_user = "Loading user",
+	loading_game_data = "Loading game data",
+	loading_clothes = "Loading clothes",
+	loading_crew = "Loading crew",
 }
 
 AddLanguage("en", my_language)

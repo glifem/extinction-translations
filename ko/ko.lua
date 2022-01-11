@@ -285,7 +285,7 @@ local my_language = {
     not_allowed_create_character = "새로운 캐릭터를 생성할 수 없습니다.",
     character_not_yours = "본인의 캐릭터가 아닙니다.",
     character_does_not_exist = "이 캐릭터는 존재하지 않거나, 더이상 존재하지 않습니다.",
-    loading_character = "캐릭터를 불러오는중입니다.",
+    loading_character = "캐릭터를 불러오는중입니다",
  
     playtime_is = "~b~플레이타임:\n~w~%s",
     dont_spam = "^1스팸 금지!",
