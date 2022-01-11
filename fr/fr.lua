@@ -841,7 +841,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	-- Help stuff
 	press_enter_beginner_guide = "Appuyez sur ~INPUT_ENTER~ pour commencer le guide du débutant.",
-	welcome_glife = "Bienvenue sur ~r~GLife Extinction~w~!",
+	welcome_glife = "Bienvenue sur ~g~GLife~w~!",
 	you_are_playing_server_x_with_x = "Vous jouez sur le serveur ~b~#%s~w~ avec ~b~%s joueurs~w~.",
 	start_beginner_guide = "Commencer le guide du débutant",
 	play_now = "~g~Jouer!",
@@ -1114,6 +1114,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	zone_closing_in = "Fermeture dans",
 	zone_closed_in = "Nouvelle zone dans",
 	x_joined_the_lobby = "~b~%s~w~ a rejoint le lobby.",
+	choose_a_gamemode = "Choisissez un mode de jeu",
 }
 
 AddLanguage("fr", my_language)

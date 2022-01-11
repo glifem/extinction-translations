@@ -840,7 +840,7 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
 
     -- Help stuff
     press_enter_beginner_guide = "Tast ~INPUT_ENTER~ for at start begynder guiden.",
-    welcome_glife = "Velkommen til ~r~GLife Extinction~w~!",
+    welcome_glife = "Velkommen til ~g~GLife~w~!",
     you_are_playing_server_x_with_x = "Du spiller på server ~b~#%s~w~ med ~b~%s spillere~w~.",
     start_beginner_guide = "Start begynder guiden",
     play_now = "~g~Spil nu!",

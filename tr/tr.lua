@@ -841,7 +841,7 @@ local my_language = {
 
 	-- Help stuff
 	press_enter_beginner_guide = "Öğretici moduna başlamak için ~INPUT_ENTER~ tuşuna basın",
-	welcome_glife = "~r~GLife Extinction'a~w~ Hoşgeldin!",
+	welcome_glife = "~g~GLife'a~w~ Hoşgeldin!",
 	you_are_playing_server_x_with_x = "Oynadığın sunucu ~b~#%s~w~, Aktif olarak ~b~%s Oyuncu ile birlikte oynuyorsun.~w~",
 	start_beginner_guide = "Başlangıç modunu başlat.",
 	play_now = "~g~Şimdi oyna!",
