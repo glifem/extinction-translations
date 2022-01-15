@@ -284,7 +284,7 @@ local my_language = {
     not_allowed_create_character = "Du har ikke tilladelse til at oprette en ny karakter.",
     character_not_yours = "Denne karakter er ikke din.",
     character_does_not_exist = "Denne karakter eksisterer ikke eller eksisterer ikke længere.",
-    loading_character = "Indlæser din karakter...",
+    loading_character = "Indlæser din karakter",
 
     playtime_is = "~b~Din spille tid på Extinction:\n~w~%s",
     dont_spam = "^1Du bedes stopppe med at spamme!",
@@ -414,7 +414,7 @@ local my_language = {
     kit_does_not_exist = "~r~Dette udstyr findes ikke.",
     kit_needs_rank = "Du har ikke ~r~%s~w~ ranget.",
     wait_before_using_kit = "Vent venligst ~r~%s~w~ før du benytter dette udstyr.",
-    received_kit = "Du har modtaget dit udsytr ~b~%s~w~.",
+    received_kit = "Du har modtaget dit udstyr ~b~%s~w~.",
     no_kit = "Du har ikke noget udstyr.",
 
     unable_to_find_booster = "Mislykkeds at finde en sprøjte med dette id.",
@@ -840,7 +840,7 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
 
     -- Help stuff
     press_enter_beginner_guide = "Tast ~INPUT_ENTER~ for at start begynder guiden.",
-    welcome_glife = "Velkommen til ~r~GLife Extinction~w~!",
+    welcome_glife = "Velkommen til ~g~GLife~w~!",
     you_are_playing_server_x_with_x = "Du spiller på server ~b~#%s~w~ med ~b~%s spillere~w~.",
     start_beginner_guide = "Start begynder guiden",
     play_now = "~g~Spil nu!",

@@ -1,0 +1,15 @@
+{
+    "create-an-offer": "VYTVOŘENÍ NABÍDKY",
+    "select-an-item": "Vybrat položku",
+    "new-auction": "Nová nabídka",
+    "my-auctions": "Moje nabídky",
+    "auction-buy-help": "Dvojklik ke koupení položky.",
+	"claim-my-sales": "Vybrat peníze",
+	"Offers": "Nabídky",
+	"offer-stats": "Statistika nabídek",
+	"history": "Historie {{itemName}}",
+	"price-history": "Historie ceny",
+	"view-graph": "Zobrazit graf",
+	"delete-all-sell-offers": "Vymazat všechny nabídky",
+	"market-offers": "Tržní nabídky"
+}

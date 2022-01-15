@@ -284,7 +284,7 @@ local my_language = {
 	not_allowed_create_character = "Yeni bir karakter oluşturmana izin verilmiyor.",
 	character_not_yours = "Bu karakter senin değil.",
 	character_does_not_exist = "Bu karakter yok yada artık kullanılmıyor.",
-	loading_character = "Karakterin yükleniyor...",
+	loading_character = "Karakterin yükleniyor",
 
 	playtime_is = "~b~Extinction oynama süresi:\n~w~%s",
 	dont_spam = "^1Spam yapma!",
@@ -841,7 +841,7 @@ local my_language = {
 
 	-- Help stuff
 	press_enter_beginner_guide = "Öğretici moduna başlamak için ~INPUT_ENTER~ tuşuna basın",
-	welcome_glife = "~r~GLife Extinction'a~w~ Hoşgeldin!",
+	welcome_glife = "~g~GLife'a~w~ Hoşgeldin!",
 	you_are_playing_server_x_with_x = "Oynadığın sunucu ~b~#%s~w~, Aktif olarak ~b~%s Oyuncu ile birlikte oynuyorsun.~w~",
 	start_beginner_guide = "Başlangıç modunu başlat.",
 	play_now = "~g~Şimdi oyna!",

@@ -1,0 +1,19 @@
+{
+	"xp-booster": "XP บูสเตอร์",
+	"player": "นักแสดง",
+	"crew": "ลูกเรือ",
+	"server": "เซิร์ฟเวอร์",
+	"dont-have-any": "คุณไม่มี {{type}}.",
+	"send-gcoins-conformation": "คุณจะส่ง gcoins {{gcoins}} ไปยังรหัส FiveM {{fivemId}}",
+	"click-again-to-send": "คลิกครั้งที่สองเพื่อยืนยันการส่ง gcoins {{gcoins}} ไปยังรหัส FiveM {{fivemId}}",
+	"validate-transaction": "ตรวจสอบความถูกต้องของธุรกรรม",
+	"FiveM ID to send to": "ส่งไปยังห้าM id",
+	"GCoins to send": "GCoins ที่จะส่ง",
+	"send-gcoins": "ส่ง Gcoins",
+	"transaction-history": "ประวัติธุรกรรม",
+	"transactions": "ธุรก รรม",
+	"boosters": "บูสเตอร์",
+	"weapon skins": "สกินอาวุธ",
+	"profile": "โปรไฟล์",
+	"gcoins": "GCoins"
+}

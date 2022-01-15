@@ -285,7 +285,7 @@ local my_language = {
 	not_allowed_create_character = "Non hai il permesso di creare un nuovo personaggio.",
 	character_not_yours = "Questo personaggio non è tuo.",
 	character_does_not_exist = "Questo personaggio non esiste o non esiste più.",
-	loading_character = "Caricando il tuo personaggio...",
+	loading_character = "Caricando il tuo personaggio",
 
 	playtime_is = "~b~Tempo Di Gioco Su Extinction:\n~w~%s",
 	dont_spam = "^1Non Spammare!",
@@ -843,7 +843,7 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 
 	-- Help stuff
 	press_enter_beginner_guide = "Press ~INPUT_ENTER~ to start the beginner guide.",
-	welcome_glife = "Welcome on ~r~GLife Extinction~w~!",
+	welcome_glife = "Welcome on ~g~GLife~w~!",
 	you_are_playing_server_x_with_x = "You are playing on server ~b~#%s~w~ with ~b~%s players~w~.",
 	start_beginner_guide = "Start the beginner guide",
 	play_now = "~g~Play now!",
