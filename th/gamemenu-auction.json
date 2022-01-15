@@ -1,0 +1,14 @@
+{
+    "create-an-offer": "สร้างข้อเสนอ",
+    "select-an-item": "เลือกวัตถุ",
+    "new-auction": "ข้อเสนอใหม่",
+    "my-auctions": "ข้อเสนอของฉัน",
+    "auction-buy-help": "ดับเบิลคลิกเพื่อซื้อ/ขาย",
+	"Offers": "มี",
+	"offer-stats": "สถิติการจัดหาวัสดุ",
+	"history": "ประวัติความเป็นมาของ {{itemName}}",
+	"price-history": "ประวัติราคา",
+	"view-graph": "ดูกราฟ",
+	"delete-all-sell-offers": "ลบข้อเสนอการขายทั้งหมด",
+	"market-offers": "ข้อเสนอของตลาด"
+}
