@@ -1,0 +1,20 @@
+{
+	"killed_players_stats": "ผู้เล่นถูกฆ่า",
+	"killed_zombies_stats": "ซอมบี้ถูกฆ่า",
+	"player_deaths": "ตาย",
+	"leaderboard": "คะแนน",
+	"killed_players_redzone_stats": "ผู้เล่นถูกฆ่าตายในเรดโซน",
+	"killed_players_darkzone_stats": "ผู้เล่นถูกฆ่าตายในดาร์กโซน",
+	"killed_zombies_redzone_stats": "ซอมบี้ถูกฆ่าตายในเรดโซน",
+	"killed_zombies_darkzone_stats": "ซอมบี้ถูกฆ่าตายในดาร์คโซน",
+	"position": "ยศ",
+	"name": "ชื่อ",
+	"id": "รหัส",
+	"total": "ทั้งหมด",
+	"crew": "ลูกเรือ",
+	"country": "ประเทศ",
+	"none": "ไม่มีใคร",
+	"extinction_points_stats": "จุดสูญพันธุ์",
+	"top-by-ext-points-pl": "ผู้เล่นที่ดีที่สุดตามคะแนนสูญพันธุ์",
+	"top-by-ext-points-cr": "ลูกเรือที่ดีที่สุดตามจุดสูญพันธุ์"
+}
