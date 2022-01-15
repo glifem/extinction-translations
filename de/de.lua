@@ -27,7 +27,7 @@ local my_language = {
     sex = "Geschlecht",
     title = "Titel",
     select_this_character = "Diesen Charakter auswählen",
-    no_entity_zombie = "Der Zombie ist zu weit entfertn oder existiert nicht.",
+    no_entity_zombie = "Der Zombie ist zu weit entfernt oder existiert nicht.",
     you_found = "Du hast ~g~%sx %s~w~ gefunden.",
     you_found_nothing = "Du hast ~g~nichts~w~ gefunden.",
     press_e_to_loot = "Drücke ~b~[E]~w~ um zu looten.",
@@ -42,7 +42,7 @@ local my_language = {
     selected_target_message = "Ausgewähltes Ziel:~n~%s~n~~r~Drücke ~b~Y~r~ um abzubrechen, ~n~~r~Drücke ~g~X~r~ um weiterzumachen.",
     target_you = "~b~DU",
     target_screen = "~g~angezeigt",
-    take_this_path = "diesen Weg zu geheng",
+    take_this_path = "diesen Weg zu gehen",
  
     -- hud
     default_hud = "Standardmäßiges HUD",
@@ -120,8 +120,8 @@ local my_language = {
     wardrobe_options = "Kleiderschrank",
     wardrobe = "Kleiderschrank",
     manual_options = "Optionen",
-    manual_mode = "manueller Modus",
-    save_outfit = "Dieses outfit speichern",
+    manual_mode = "Manueller Modus",
+    save_outfit = "Dieses Outfit speichern",
     variation = "Variante",
     outfits = "Outfits",
     cloth_shop = "Kleidungsladen",
@@ -165,8 +165,8 @@ local my_language = {
     you_have_been_healed = "~g~Du hast dich geheilt.",
     you_respawned = "~g~Du bist gerespawnt.",
  
-    player_too_far_to_interact = "~r~Der Spieler mit du interargieren willst, ist zu weit entfernt.",
-    send_trade_invitation_to = "Du hast eine Handelsanfrage an ~b~%s~w~ gesendet.\n~b~Warte darauf, dass er annimmt.",
+    player_too_far_to_interact = "~r~Der Spieler mit dem du interargieren willst, ist zu weit entfernt.",
+    send_trade_invitation_to = "Du hast eine Handelsanfrage an ~b~%s~w~ gesendet.\n~b~Warte darauf, dass er sie annimmt.",
     receive_invitation_from = "Du hast eine Handelsanfrage von ~b~%s~w~ erhalten.\n~b~Tippe ~w~/trade accept %s~b~ um zu akzeptieren.",
  
     invalid_command_args = "Ungültige Befehlsinhalte: %s",
@@ -196,7 +196,7 @@ local my_language = {
     press_e_to_open_catalog = "Drücke ~b~E~w~ um den ~g~Prospekt~w~ anzuschauen.",
     this_person = "diese Person",
     the_shop = "diesem Shop",
-    you_are_not_allowed_to_do_that = "~HUD_COLOUR_DEGEN_RED~Du bist nicht berechtig dies zu tun.",
+    you_are_not_allowed_to_do_that = "~HUD_COLOUR_DEGEN_RED~Du bist nicht berechtigt dies zu tun.",
  
     no_weapon = "~r~Du hast keine Waffe ausgerüstet.",
     no_need_ammo = "~r~Für diese Waffe brauchst du keine Munition.",
@@ -325,7 +325,7 @@ local my_language = {
     secondary_color = "Sekünderfarbe",
     interior_color = "Innenraumfarbe",
     dashboard_color = "Armaturenbrettfarbe",
-    color_effect = "Color effect",
+    color_effect = "Farbeffekt",
     left_neon = "Unterboden links",
     right_neon = "Unterboden rechts",
     front_neon = "Unterboden vorn",
@@ -440,7 +440,7 @@ local my_language = {
  
     updated_deathmessage = "~g~Du hast deine Todesnachricht aktualisiert.",
     updated_deatheffect = "~g~Du hast deinen Killeffekt aktualisiert.",
-    use = "benutzen",
+    use = "Benutzen",
     test = "Test",
  
     -- zombie
@@ -461,11 +461,11 @@ local my_language = {
     -- Tattoo
     tattoo = "Tattoo",
     tattoos = "Tattoos",
-    torso = "torso",
+    torso = "Torso",
     head = "Kopf",
     left_arm = "linker Arm",
     right_arm = "rechter Arm",
-    left_leg = "linkes bein",
+    left_leg = "linkes Bein",
     right_leg = "rechtes Bein",
     unknown = "unbekannt",
     other = "Andere",
