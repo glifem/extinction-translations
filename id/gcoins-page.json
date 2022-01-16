@@ -1,0 +1,19 @@
+{
+	"xp-booster": "XP Booster",
+	"player": "Pemain",
+	"crew": "Awak",
+	"server": "Peladen",
+	"dont-have-any": "Anda tidak memiliki {{type}}.",
+	"send-gcoins-conformation": "Anda akan mengirim{{gcoins}} gcoins pada id fiveM {{fivemId}}.",
+	"click-again-to-send": "Klik untuk kedua kalinya untuk mengkonfirmasi pengiriman{{gcoins}} gcoins pada id fiveM{{fivemId}}.",
+	"validate-transaction": "Memvalidasi transaksi",
+	"FiveM ID to send to": "Kirim ke id FiveM",
+	"GCoins to send": "GCoins untuk mengirim",
+	"send-gcoins": "Kirim GCoins",
+	"transaction-history": "Riwayat transaksi",
+	"transactions": "Transaksi",
+	"boosters": "Penguat",
+	"weapon skins": "Kulit senjata",
+	"profile": "Profil",
+	"gcoins": "GCoins"
+}

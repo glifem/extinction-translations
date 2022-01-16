@@ -1,0 +1,10 @@
+{
+    "gun_game": "Permainan senjata",
+    "spawn": "Bertelur",
+    "battle_royale": "Battle Royale",
+    "extinction": "Extinction",
+    "choose-gamemode": "Pilih mode permainan",
+    "no-server-available": "Tidak ada server yang tersedia",
+    "vote-for-the-next-x-map": "Pilih peta berikutnya: {{name}}",
+    "vote-done": "Voting selesai"
+}

@@ -1,0 +1,14 @@
+{
+    "create-an-offer": "MEMBUAT PENAWARAN",
+    "select-an-item": "Memilih objek",
+    "new-auction": "Penawaran Baru",
+    "my-auctions": "Penawaran saya",
+    "auction-buy-help": "Klik dua kali untuk membeli / menjual",
+	"Offers": "Menawarkan",
+	"offer-stats": "Statistik penawaran",
+	"history": "Sejarah {{itemName}}",
+	"price-history": "Sejarah harga",
+	"view-graph": "Menampilkan grafik",
+	"delete-all-sell-offers": "Menghapus semua penawaran penjualan",
+	"market-offers": "Penawaran pasar"
+}

@@ -1,0 +1,20 @@
+{
+	"killed_players_stats": "Pemain dibunuh",
+	"killed_zombies_stats": "Zombie dibunuh",
+	"player_deaths": "Mati",
+	"leaderboard": "Peringkat",
+	"killed_players_redzone_stats": "Pemain tewas di zona merah",
+	"killed_players_darkzone_stats": "Pemain tewas di zona gelap",
+	"killed_zombies_redzone_stats": "Zombie tewas di zona merah",
+	"killed_zombies_darkzone_stats": "Zombie terbunuh di zona gelap",
+	"position": "Pangkat",
+	"name": "Nama",
+	"id": "ID",
+	"total": "seluruh",
+	"crew": "Awak",
+	"country": "Negara",
+	"none": "Tidak",
+	"extinction_points_stats": "Extinction Poin",
+	"top-by-ext-points-pl": "Pemain Poin Terbaik extinction",
+	"top-by-ext-points-cr": "Kru terbaik berdasarkan poin extinction"
+}
