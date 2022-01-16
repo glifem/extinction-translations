@@ -1,0 +1,19 @@
+{
+	"xp-booster": "XP 強化道具",
+	"player": "選手",
+	"crew": "船員",
+	"server": "伺服器",
+	"dont-have-any": "你沒有 {{type}}.",
+	"send-gcoins-conformation": "您將發送 {{gcoins}} gcoins at the fiveM id {{fivemId}}.",
+	"click-again-to-send": "再次按下以確認發送 {{gcoins}} gcoins at the fiveM id {{fivemId}}.",
+	"validate-transaction": "驗證事務",
+	"FiveM ID to send to": "發送到 FiveM ID",
+	"GCoins to send": "要發送的GCoins",
+	"send-gcoins": "發送GCoins",
+	"transaction-history": "交易記錄",
+	"transactions": "交易",
+	"boosters": "助推 器",
+	"weapon skins": "武器皮膚",
+	"profile": "設定檔",
+	"gcoins": "基因"
+}

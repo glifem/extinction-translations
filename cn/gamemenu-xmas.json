@@ -1,0 +1,9 @@
+{
+    "xmas-event": "耶誕節活動",
+    "complete-all-message": "選擇你想要開始的任務。如果您通過了所有任務，您將收到一份秘密禮物",
+    "expire-in": "過期於 {{hours}} 小時",
+    "completed": "完成",
+    "expired": "過期",
+    "day": "一天",
+    "get-secret-reward": "獲取秘密獎勵"
+}

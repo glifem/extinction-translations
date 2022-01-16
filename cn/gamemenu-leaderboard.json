@@ -1,0 +1,20 @@
+{
+	"killed_players_stats": "玩家被殺",
+	"killed_zombies_stats": "殭屍被殺",
+	"player_deaths": "死",
+	"leaderboard": "排名",
+	"killed_players_redzone_stats": "在紅區死亡的玩家",
+	"killed_players_darkzone_stats": "在黑暗地帶死亡的玩家",
+	"killed_zombies_redzone_stats": "殭屍在紅區死亡",
+	"killed_zombies_darkzone_stats": "殭屍在黑暗地帶死亡",
+	"position": "排",
+	"name": "名字",
+	"id": "ID",
+	"total": "總",
+	"crew": "船員",
+	"country": "國家",
+	"none": "沒有",
+	"extinction_points_stats": "Extinction 點",
+	"top-by-ext-points-pl": "最佳積分球員extinction",
+	"top-by-ext-points-cr": "最佳船員積分extinction"
+}

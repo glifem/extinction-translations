@@ -1,0 +1,10 @@
+{
+    "gun_game": "武器遊戲",
+    "spawn": "產卵",
+    "battle_royale": "大逃殺",
+    "extinction": "Extinction",
+    "choose-gamemode": "選擇遊戲模式",
+    "no-server-available": "沒有可用的伺服器",
+    "vote-for-the-next-x-map": "為下一張地圖投票: {{name}}",
+    "vote-done": "投票完成"
+}

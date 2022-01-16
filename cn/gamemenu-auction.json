@@ -1,0 +1,14 @@
+{
+    "create-an-offer": "創建報價",
+    "select-an-item": "選擇物件",
+    "new-auction": "新報價",
+    "my-auctions": "我的優惠",
+    "auction-buy-help": "按兩下買入/賣出",
+	"Offers": "提供",
+	"offer-stats": "供應統計",
+	"history": "歷史沿革 {{itemName}}",
+	"price-history": "價格歷史",
+	"view-graph": "查看圖表",
+	"delete-all-sell-offers": "刪除所有銷售報價",
+	"market-offers": "市場優惠"
+}
