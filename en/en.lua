@@ -1171,6 +1171,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	armor_full = "~b~Armor full.",
 	spawning_vehicle = "Spawning vehicle",
+	opening_chest = "Opening chest",
 }
 
 AddLanguage("en", my_language)

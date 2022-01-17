@@ -1171,6 +1171,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	armor_full = "~b~Armure pleine.",
 	spawning_vehicle = "Création du véhicule",
+	opening_chest = "Ouverture du coffre",
 }
 
 AddLanguage("fr", my_language)
