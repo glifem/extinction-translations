@@ -1,0 +1,19 @@
+{
+	"xp-booster": "XP Booster",
+	"player": "Spieler",
+	"crew": "Crew",
+	"server": "Server",
+	"dont-have-any": "Du hast keine {{type}}.",
+	"send-gcoins-conformation": "Du wirst {{gcoins}} gcoins an die FiveM ID {{fivemId}} senden.",
+	"click-again-to-send": "Bitte klicke erneut, um zu bestätigen, dass du {{gcoins}} gcoins an die FiveM ID {{fivemId}} senden möchtest.",
+	"validate-transaction": "Transaktion bestätigen",
+	"FiveM ID to send to": "FiveM ID to send to",
+	"GCoins to send": "GCoins to send",
+	"send-gcoins": "GCoins senden",
+	"transaction-history": "Transaktionsverlauf",
+	"transactions": "Transaktionen",
+	"boosters": "Booster",
+	"weapon skins": "Waffen Skins",
+	"profile": "Profil",
+	"gcoins": "GCoins"
+}

@@ -843,7 +843,7 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 
 	-- Help stuff
 	press_enter_beginner_guide = "Press ~INPUT_ENTER~ to start the beginner guide.",
-	welcome_glife = "Welcome on ~r~GLife Extinction~w~!",
+	welcome_glife = "Welcome on ~g~GLife~w~!",
 	you_are_playing_server_x_with_x = "You are playing on server ~b~#%s~w~ with ~b~%s players~w~.",
 	start_beginner_guide = "Start the beginner guide",
 	play_now = "~g~Play now!",

@@ -1,4 +1,10 @@
 {
     "gun_game": "Jeu d'armes",
-    "spawn": "Spawn"
+    "spawn": "Spawn",
+    "battle_royale": "Battle Royale",
+    "extinction": "Extinction",
+    "choose-gamemode": "Choisissez un mode de jeu",
+    "no-server-available": "Aucun serveur disponible",
+    "vote-for-the-next-x-map": "Votez pour la prochaine map: {{name}}",
+    "vote-done": "Vote terminé"
 }

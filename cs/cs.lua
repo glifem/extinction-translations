@@ -841,7 +841,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 
 	-- Help stuff
 	press_enter_beginner_guide = "Zmáčkni ~INPUT_ENTER~ pro zapnutí návodu pro nováčky.",
-	welcome_glife = "Vítej na ~r~GLife Extinction~w~!",
+	welcome_glife = "Vítej na ~g~GLife~w~!",
 	you_are_playing_server_x_with_x = "Hraješ na serveru ~b~#%s~w~ s ~b~%s hráči~w~.",
 	start_beginner_guide = "Začít návod pro nováčky",
 	play_now = "~g~Hraj nyní!",

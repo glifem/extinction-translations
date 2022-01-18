@@ -1,0 +1,9 @@
+{
+    "xmas-event": "Weihnachts Event",
+    "complete-all-message": "Wähle eine Quest aus mit der du starten möchtest. Wenn du alle Quests erledigst, erhältst du ein geheimes Geschenk.",
+    "expire-in": "Läuft in {{hours}} Stunden ab",
+    "completed": "Erledigt",
+    "expired": "Abgelaufen",
+    "day": "Tag",
+    "get-secret-reward": "Geheimes Geschenk abholen"
+}
