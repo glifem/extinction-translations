@@ -7,5 +7,7 @@
     "no-server-available": "No server available",
     "vote-for-the-next-x-map": "Vote for the next map: {{name}}",
     "vote-done": "Vote done",
-    "ffa": "FFA"
+    "ffa": "FFA",
+    "battleroyale_rank": "Game rank",
+    "player_kills": "Player kills"
 }
