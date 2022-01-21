@@ -9,5 +9,9 @@
     "vote-done": "Vote terminé",
     "ffa": "FFA",
     "battleroyale_rank": "Placement de jeu",
-    "player_kills": "Joueurs tués"
+    "player_kills": "Joueurs tués",
+    "kill_leader": "Kill leader",
+    "dungeon_completed": "Donjon terminé",
+    "gungame_kills": "Joueurs tués",
+    "gungame_rank": "Placement de jeu"
 }

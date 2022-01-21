@@ -9,5 +9,9 @@
     "vote-done": "Vote done",
     "ffa": "FFA",
     "battleroyale_rank": "Game rank",
-    "player_kills": "Player kills"
+    "player_kills": "Player kills",
+    "kill_leader": "Kill leader",
+    "dungeon_completed": "Dungeon completed",
+    "gungame_kills": "Player kills",
+    "gungame_rank": "Game rank"
 }
