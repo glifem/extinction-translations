@@ -1,4 +1,13 @@
 {
     "gun_game": "Gun Game",
-    "spawn": "Spawn"
+    "spawn": "Spawn",
+    "battle_royale": "Battle Royale",
+    "extinction": "Extinction",
+    "choose-gamemode": "Vyber si herni mod",
+    "no-server-available": "Zadny server neni dostupny",
+    "vote-for-the-next-x-map": "Hlasuj pro dalsi mapu: {{name}}",
+    "vote-done": "Hlasovani skoncilo",
+    "ffa": "FFA",
+    "battleroyale_rank": "Rank",
+    "player_kills": "Zabitych hracu"
 }

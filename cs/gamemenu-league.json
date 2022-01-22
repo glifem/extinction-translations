@@ -1,11 +1,11 @@
 {
-    "home": "Domů",
-    "my-team": "Můj team",
+    "home": "Domu",
+    "my-team": "Muj team",
     "rules": "Pravidla",
     "leagues": "Ligy",
     "my-league": "Moje liga",
-    "invited-by": "{{author}} tě pozval do hry",
+    "invited-by": "{{author}} te pozval do hry",
     "ranked-game": "Ranked hra",
     "casual-game": "Casual hra",
-    "join": "Připojit se"
+    "join": "Pripojit se"
 }

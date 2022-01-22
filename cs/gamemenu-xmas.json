@@ -1,8 +1,9 @@
 {
-    "xmas-event": "Vánoční event",
-    "complete-all-message": "Vyber si úkol se kterým chceš začít. Splněním všech úkolů dostaneš nějaký dárek.",
-    "expire-in": "Vyprší za {{hours}} hodin",
-    "completed": "Splněno",
-    "expired": "Vypršelo",
-    "day": "Den"
+    "xmas-event": "Vanocni event",
+    "complete-all-message": "Vyber si ukol se kterym chces zacit. Splnenim vsech ukolu dostanes nejaky darek.",
+    "expire-in": "Vyprsi za {{hours}} hodin",
+    "completed": "Splneno",
+    "expired": "Vyprselo",
+    "day": "Den",
+    "get-secret-reward": "Vybrat si tajnou odmenu"
 }

@@ -1,15 +1,15 @@
 {
-    "create-an-offer": "VYTVOŘENÍ NABÍDKY",
-    "select-an-item": "Vybrat položku",
-    "new-auction": "Nová nabídka",
-    "my-auctions": "Moje nabídky",
-    "auction-buy-help": "Dvojklik ke koupení položky.",
-	"claim-my-sales": "Vybrat peníze",
-	"Offers": "Nabídky",
-	"offer-stats": "Statistika nabídek",
+    "create-an-offer": "VYTVORENI NABIDKY",
+    "select-an-item": "Vybrat polozku",
+    "new-auction": "Nova nabidka",
+    "my-auctions": "Moje nabidky",
+    "auction-buy-help": "Dvojklik ke koupeni polozky.",
+	"claim-my-sales": "Vybrat penize",
+	"Offers": "Nabidky",
+	"offer-stats": "Statistika nabidek",
 	"history": "Historie {{itemName}}",
 	"price-history": "Historie ceny",
 	"view-graph": "Zobrazit graf",
-	"delete-all-sell-offers": "Vymazat všechny nabídky",
-	"market-offers": "Tržní nabídky"
+	"delete-all-sell-offers": "Vymazat vsechny nabidky",
+	"market-offers": "Trzni nabidky"
 }
