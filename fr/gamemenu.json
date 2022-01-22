@@ -41,5 +41,7 @@
 	"feedback": "Idées",
 	"xmas-event": "Event noël",
 	"public-world": "Monde public",
-	"private-world": "Monde privé"
+	"private-world": "Monde privé",
+	"press-x-to-start": "Appuyez sur <span>{{key}}</span> pour jouer.",
+	"enter": "Entrer"
 }
