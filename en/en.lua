@@ -1197,6 +1197,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	crewperk_map_blips = "Ability to see other crew members on the map",
 	crewperk_speed_boost_bunker = "Speed boost for all members in bunker",
 	crewperk_slots_increase_b = "Increase crew max slots +3",
+	crew_did_not_unlock_perk = "~r~Your crew did not unlock this perk.",
 }
 
 AddLanguage("en", my_language)
