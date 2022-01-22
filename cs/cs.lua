@@ -427,7 +427,7 @@ local my_language = {
 	no_booster = "Nemáš žádný booster.",
 
 	rank_expired = "~r~Tvoje role vypršela.",
-	supporter_role = "~g~Role:~w~ %s",
+	supporter_role = "~g~Role:~w~ <C>%s</C>",
 	no_rank_warning = "Nemáš žádnou roli.\n~r~Pokud sis něco zakoupil, musíš si linknout svůj FiveM účet.",
 	no_fivem_id = "Nemáš linknutý FiveM účet.\n~r~Zkontroluj, že máš FiveM účet linknutý s hrou.",
 	no_queue_warning = "Nemáš žádný balíček v řadě.\n~r~Zkus chvíli počkat nebo napsat /getRank pokud jsi nedostal svou roli.",
@@ -803,7 +803,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 
 	not_released_yet = "Toto ještě není vydáno.",
 	feature_only_supporters = "~b~Tato funkce je teprve v betě a pouze hráči s ranky Gold/Diamond ji mohou používat.",
-	feature_not_enabled = "~b~Tato funkce není ještě zapnutá.\n~w~Prosím počkej, až se tato funkce spustí.",
+	feature_not_enabled = "~b~Tato funkce není ještě zapnutá na tomto serveru.",
 	dungeon_charid_required = "~r~Prosím zadej character ID tvého kamaráda (nachází se na obrazovce vpravo nahoře).\nPříklad: /dungeon invite 1234",
 
 	poll5_q1 = "Měl bys problém pokud by náš anticheat vyscreenoval obrazovku cheatera, pokud by byl podezřelý, že používá wallhack/aimbot? (je možné, že to ukáže část plochy, pokud máš hru v okně, ale tyto screeny nejsou uloženy a jsou přístupné pouze pro moderátory)",
@@ -1073,6 +1073,53 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	already_withdraw_gift_recently = "~r~Za posledních 15 minut už sis dárek vzal.",
 	thank_you_for_gifting_x = "Díky za darování ~g~%sx %s~w~.",
 	cannot_donate_junk = "~r~Nemůžeš darovat levné/junk věci.",
+	item_not_unique = "~r~Nemůžeš prodat tento předmět, je nejspíš duplikovaný.",
+	marketplace_minimum_price_x_is_x = "Minimální prodejní cena za ~r~1x %s~w~ je ~r~$%s~w~.",
+
+	drop_from_the_plane = "vyskočení z letadla",
+	component_suppressor = "Tlumič",
+	component_clip_01 = "Malý zásobník",
+	component_clip_02 = "Střední zásobník",
+	component_clip_03 = "Velký zásobník",
+	component_flashlight = "Baterka",
+	component_barrel = "Hlaveň",
+	component_grip = "Rukojeť",
+	component_rail = "Lišta",
+	component_compensator = "Kompenzátor",
+	component_scope_small = "Malý scope",
+	component_scope_medium = "Střední scope",
+	component_scope_large_fixed_zoom = "Velký scope",
+	component_scope_thermal = "Thermal scope",
+	component_scope_nv = "Night Vision scope",
+
+	light_kevlar = "Lehký kevlar",
+	medium_kevlar = "Střední kevlar",
+	heavy_kevlar = "Vojenský kevlar",
+	light_helmet = "Lehká helma",
+	medium_helmet = "Střední helma",
+	heavy_helmet = "Vojenská helma",
+	light_bag = "Malý batoh",
+	medium_bag = "Střední batoh",
+	heavy_bag = "Vojenský batoh",
+
+	armor_plate = "Pláty do vesty",
+	fixing_armor = "Vyměňuješ pláty",
+	bandage_g2 = "Bandáž",
+	medkit_g2  ="Medkit",
+
+	game_start = "Hra začíná za",
+	waiting_x_players_to_start = "Pro start hry musí být přítomno %s hráčů.",
+	game_starting_in_x = "Hra začíná za %s sekund",
+	game_in_progress = "Hra právě probíhá. %s hráčů fightí.",
+	x_joined_the_lobby = "~b~%s~w~ se připojil do lobby.",
+	zone_closing_in = "Zóna se uzavře za",
+	zone_closed_in = "Zóna uzavřena v",
+
+	loading_account = "Načítám účet",
+	loading_user = "Načítám uživatele",
+	loading_game_data = "Načítám herní data",
+	loading_clothes = "Načítám oblečení",
+	loading_crew = "Načítám crew",
 }
 
 AddLanguage("cs", my_language)
