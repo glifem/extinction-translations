@@ -823,7 +823,7 @@ Ziskanim nove prestize dostanes specialni odznak a body, kterymi si muzes naprik
 
 	-- Squad
 	squad_not_leader = "~r~Nejsi leader tvoji squady.",
-	squad_kicked_by_x = ""Byl jsi ~r~vyhozen~w~ z tvoji squady hracem ~r~%s~w~.",
+	squad_kicked_by_x = "Byl jsi ~r~vyhozen~w~ z tvoji squady hracem ~r~%s~w~.",
 	squad_you_kicked_x = "Vyhodil jsi ~r~%s~w~ z tvoji squady.",
 	squad_invited_x = "Pozval jsi ~r~%s~w~ do tvoji squady.",
 	squad_invited_you_x = "~r~%s~w~ te pozval do jeho squady.\nNapis ~r~/squad join %s~w~ pro prijmuti pozvanky.",
@@ -1197,6 +1197,7 @@ Ziskanim nove prestize dostanes specialni odznak a body, kterymi si muzes naprik
 	crewperk_map_blips = "Moznost videt ostatni cleny na mape",
 	crewperk_speed_boost_bunker = "Zrychleni pro vsechny cleny v bunkru",
 	crewperk_slots_increase_b = "Zvyseni maximalniho poctu clenu v crew o 3",
+	crew_did_not_unlock_perk = "~r~Tvoje crew si nevylepsila tento perk.",
 }
 
 AddLanguage("cs", my_language)

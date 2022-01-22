@@ -41,5 +41,7 @@
 	"feedback": "Napady",
 	"xmas-event": "Vanocni event",
 	"public-world": "Verejny svet",
-	"private-world": "Vlastni svet"
+	"private-world": "Vlastni svet",
+	"press-x-to-start": "Zacni hrat pomoci <span>{{key}}</span>.",
+	"enter": "Vstoupit"
 }
