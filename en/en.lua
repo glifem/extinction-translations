@@ -1257,6 +1257,11 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	not_enough_chips = "~r~You do not have enough chips.",
 	bet_validated_x = "Your bet of ~g~%s chips~w~ has been sent. (%s)",
 	x_bet_x_game = "~g~%s~w~ bets ~g~%s~w~ chips. (%s)",
+
+	join_br = "Join Battle Royale",
+	new_game_starting_x_press_x_join_soon = "A new game is starting soon, to be teleported in the lobby automatically before the game starts ~y~press X~w~.",
+	registered_teleported_before_start = "~b~You will be teleported to the lobby before the game starts.",
+	lobby = "~y~Lobby",
 }
 
 AddLanguage("en", my_language)
