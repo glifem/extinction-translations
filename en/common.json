@@ -3,5 +3,19 @@
 	"enter-your-message": "Enter your message",
 	"delete": "Delete",
 	"send": "Send",
-	"search": "Search"
+	"search": "Search",
+	"amount": "Amount",
+	"date": "Date",
+	"item": "Item",
+	"use": "Use",
+	"used": "Used",
+	"overview": "Overview",
+	"level": "Level",
+	"crew": "Crew",
+	"country": "Country",
+	"bank": "Bank",
+	"username": "Username",
+	"redzone-points": "Redzone Points",
+	"glife-points": "GLife Points",
+	"prestige": "Prestige"
 }

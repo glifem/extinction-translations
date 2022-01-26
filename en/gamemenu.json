@@ -43,5 +43,6 @@
 	"public-world": "Public world",
 	"private-world": "Private world",
 	"press-x-to-start": "Press <span>{{key}}</span> to start playing.",
-	"enter": "Enter"
+	"enter": "Enter",
+	"back": "Back"
 }
