@@ -1262,6 +1262,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	new_game_starting_x_press_x_join_soon = "A new game is starting soon, to be teleported in the lobby automatically before the game starts ~y~press X~w~.",
 	registered_teleported_before_start = "~b~You will be teleported to the lobby before the game starts.",
 	lobby = "~y~Lobby",
+
+	bet_player_x_won_x = "~g~%s ~w~won ~g~$%s~w~.",
+	bet_player_x_lost_x = "~r~%s ~w~lost ~r~$%s~w~.",
 }
 
 AddLanguage("en", my_language)
