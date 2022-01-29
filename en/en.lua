@@ -1216,8 +1216,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	start_in = "Start in",
 	you_won_x_x = "You won ~g~x%s %s~w~.",
 	you_lost_your_bet = "~r~You lost your bet.",
-	invalid_bet = "~r~Your bet amount is invalid.",
-	bet_limit = "~r~You cannot bet that amount.",
+	invalid_bet = "~r~You cannot bet less than $%s.",
+	bet_limit = "~r~You cannot bet more than $%s.",
 	you_left_the_table = "~r~You left the table",
 	cannot_bet_casino_closed = "~r~You cannot bet the casino is closed",
 	to_seat = "~b~seat",
@@ -1262,6 +1262,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	new_game_starting_x_press_x_join_soon = "A new game is starting soon, to be teleported in the lobby automatically before the game starts ~y~press X~w~.",
 	registered_teleported_before_start = "~b~You will be teleported to the lobby before the game starts.",
 	lobby = "~y~Lobby",
+
+	bet_player_x_won_x = "~g~%s ~w~won ~g~$%s~w~.",
+	bet_player_x_lost_x = "~r~%s ~w~lost ~r~$%s~w~.",
 }
 
 AddLanguage("en", my_language)
