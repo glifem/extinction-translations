@@ -15,5 +15,18 @@
 	"boosters": "Boosters",
 	"weapon skins": "Skin per armi",
 	"profile": "Profilo",
-	"gcoins": "GCoins"
+	"gcoins": "GCoins",
+	"no_crew": "No Crew",
+	"death": "Morti",
+	"kill": "Giocatori Uccisi",
+	"zombie": "Zombie Uccisi",
+	"createdAt": "Account Creato",
+	"played_time": "Tempo Giocato",
+	"ratio": "KD/A",
+	"not_ranked": "Non classificato",
+	"country": "Nazione",
+	"favorite_server": "Server Favorito",
+	"total_playtime": "Tempo di gioco totale",
+	"members": "Membri",
+	"ext_points": "Punti Extinction"
 }

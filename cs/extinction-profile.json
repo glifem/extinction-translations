@@ -15,5 +15,19 @@
 	"boosters": "Boostery",
 	"weapon skins": "Skiny na zbraně",
 	"profile": "Profil",
-	"gcoins": "GCoiny"
+	"gcoins": "GCoiny",
+	"no_crew": "Žádná crew",
+	"death": "Úmrtí",
+	"death_redzone": "Úmrtí (Redzone)",
+	"death_darkzone": "Úmrtí (Darkzone)",
+	"kill": "Zabito hráčů",
+	"zombie": "Zabito zombíků",
+	"createdAt": "Účet vytvořen",
+	"played_time": "Odehraný čas",
+	"ratio": "KD/A",
+	"not_ranked": "Neumístěn",
+	"country": "Země",
+	"favorite_server": "Oblíbený server",
+	"total_playtime": "Celkový odehraný čas",
+	"members": "Členové"
 }

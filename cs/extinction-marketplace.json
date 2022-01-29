@@ -1,9 +1,9 @@
 {
     "create-an-offer": "VYTVOŘENÍ NABÍDKY",
     "select-an-item": "Vybrat položku",
-    "new-auction": "Nová nabídka",
-    "my-auctions": "Moje nabídky",
-    "auction-buy-help": "Dvojklik ke koupení položky.",
+    "new-offer": "Nová nabídka",
+    "my-offers": "Moje nabídky",
+    "marketplace-offer-buy-help": "Dvojklik ke koupení položky.",
 	"claim-my-sales": "Vybrat peníze",
 	"Offers": "Nabídky",
 	"offer-stats": "Statistika nabídek",

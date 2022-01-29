@@ -54,5 +54,20 @@
 	"darkzone-stats": "Darkzone stats",
 	"account-stats": "Account stats",
 	"gungame-stats": "Gungame stats",
-	"battleroyale-stats": "Battleroyale stats"
+	"battleroyale-stats": "Battleroyale stats",
+	"total_playtime": "Total playtime",
+	"favorite_server": "Favorite server",
+	"members": "Members",
+	"total_members": "Total members",
+	"createdAt": "Account created",
+	"played_time": "Played time",
+	"crew-levels": "Crew levels",
+	"update-country": "Update country",
+	"crew-tag": "Crew tag",
+	"edit-profile": "Edit profile",
+	"edit-profile-subtitle": "Update the profile of your crew",
+	"crew-description": "Crew description",
+	"no-image": "No image",
+	"add-image": "Add image",
+	"victory": "Victory"
 }

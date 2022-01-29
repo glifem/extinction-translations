@@ -15,5 +15,18 @@
 	"boosters": "บูสเตอร์",
 	"weapon skins": "สกินอาวุธ",
 	"profile": "โปรไฟล์",
-	"gcoins": "GCoins"
+	"gcoins": "GCoins",
+	"no_crew": "ไม่มีลูกเรือ",
+	"death": "ตาย",
+	"kill": "ผู้เล่นถูกฆ่า",
+	"zombie": "ซอมบี้ถูกฆ่า",
+	"createdAt": "สร้างบัญชีแล้ว",
+	"played_time": "เวลาเล่น",
+	"ratio": "อัตราส่วน KD/A",
+	"not_ranked": "ไม่มีหมวดหมู่",
+	"country": "ประเทศ",
+	"favorite_server": "เซิร์ฟเวอร์โปรด",
+	"total_playtime": "เวลาเล่นทั้งหมด",
+	"members": "สมาชิก",
+	"ext_points": "Extinction แต้ม"
 }

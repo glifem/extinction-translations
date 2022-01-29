@@ -15,5 +15,18 @@
 	"boosters": "Güçlendiriciler",
 	"weapon skins": "Silah görünümleri",
 	"profile": "Profil",
-	"gcoins": "GCoins"
+	"gcoins": "GCoins",
+	"no_crew": "Crew yok",
+	"experience": "Deneyim",
+	"death": "Ölümler",
+	"kill": "Öldürülen oyuncular",
+	"zombie": "Öldürülen zombiler",
+	"createdAt": "Hesap Oluşturma Tarihi",
+	"played_time": "Oynama Süresi",
+	"ratio": "KD/A",
+	"not_ranked": "Derecelendirilmemiş",
+	"country": "Ülke",
+	"favorite_server": "Favori sunucu",
+	"total_playtime": "Toplam Oynama Süresi",
+	"members": "Üyeler"
 }
