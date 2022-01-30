@@ -32,5 +32,7 @@
 	"fpsBoost": "FPS Boost",
 	"fpsBoost_desc": "Reduce the visual settings and render distance of your game to automatically gain FPS",
 	"killSoundEffectEnabled": "Kill sound",
-	"killSoundEffectEnabled_desc": "Choose whether or not kill sound effect is enabled"
+	"killSoundEffectEnabled_desc": "Choose whether or not kill sound effect is enabled",
+	"hitmarkerScale": "Hitmarker scale",
+	"hitmarkerScale_desc": "Set the hitmarker scale"
 }
