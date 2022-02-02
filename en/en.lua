@@ -1201,8 +1201,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	start_in = "Start in",
 	you_won_x_x = "You won ~g~x%s %s~w~.",
 	you_lost_your_bet = "~r~You lost your bet.",
-	invalid_bet = "~r~Your bet amount is invalid.",
-	bet_limit = "~r~You cannot bet that amount.",
+	invalid_bet = "~r~You cannot bet less than $%s.",
+	bet_limit = "~r~You cannot bet more than $%s.",
 	you_left_the_table = "~r~You left the table",
 	cannot_bet_casino_closed = "~r~You cannot bet the casino is closed",
 	to_seat = "~b~seat",
@@ -1269,6 +1269,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	no_enough_glife_points = "~r~You do not have enough glife points.",
 	you_paid_basket_gpoints = "You paid ~r~%s GLife Points~w~ for your basket.",
 	glife_points_balance_x = "GLife points: ~r~%s",
+
+	bet_player_x_won_x = "~g~%s ~w~won ~g~$%s~w~.",
+	bet_player_x_lost_x = "~r~%s ~w~lost ~r~$%s~w~.",
 }
 
 AddLanguage("en", my_language)

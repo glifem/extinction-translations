@@ -1,9 +1,9 @@
 {
     "create-an-offer": "ANGEBOT ERSTELLEN",
     "select-an-item": "Wähle einen Gegenstand aus",
-    "new-auction": "Neues Angebot",
-    "my-auctions": "Meine Angebote",
-    "auction-buy-help": "Doppelklick um einen Gegenstand zu verkaufen/kaufen",
+    "new-offer": "Neues Angebot",
+    "my-offers": "Meine Angebote",
+    "marketplace-offer-buy-help": "Doppelklick um einen Gegenstand zu verkaufen/kaufen",
 	"claim-my-sales": "Meine Verkäufe beanspruchen",
 	"Offers": "Angebote",
 	"offer-stats": "Angebotsstatistik",

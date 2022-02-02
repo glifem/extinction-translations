@@ -16,5 +16,13 @@
 	"none": "None",
 	"extinction_points_stats": "Extinction Points",
 	"top-by-ext-points-pl": "Top player by Extinction points",
-	"top-by-ext-points-cr": "Top crew by Extinction points"
+	"top-by-ext-points-cr": "Top crew by Extinction points",
+	"rank": "Rank",
+	"score": "Score",
+	"top-ranks": "Top ranks",
+	"overview-podium": "Podium overview",
+	"all-leaderboards": "All leaderboards for crew and players",
+	"players": "Players",
+	"crews": "Crews",
+	"top": "Top"
 }

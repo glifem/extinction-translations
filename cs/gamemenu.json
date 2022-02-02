@@ -11,8 +11,8 @@
 	"done": "Hotovo",
 	"shortcut": "Zkratka",
 	"my_bag": "Inventář",
-	"sell": "prodat",
-	"buy": "koupit",
+	"sell": "Prodat",
+	"buy": "Koupit",
 	"help": "Pomoc",
 	"quantity": "Množství",
 	"item": "Položka",
@@ -38,6 +38,6 @@
 	"leaderboard_home": "Žebříček",
 	"bank": "Banka",
 	"league_home": "Liga",
-	"feedback": "Nápady"
+	"feedback": "Nápady",
 	"xmas-event": "Vánoční event"
 }

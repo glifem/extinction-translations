@@ -1,9 +1,9 @@
 {
     "create-an-offer": "Teklif Oluşturun",
     "select-an-item": "Bir eşya seçin",
-    "new-auction": "Yeni teklif",
-    "my-auctions": "Tekliflerim",
-    "auction-buy-help": "Eşyayı satmak/satın almak için çift tıklayın.",
+    "new-offer": "Yeni teklif",
+    "my-offers": "Tekliflerim",
+    "marketplace-offer-buy-help": "Eşyayı satmak/satın almak için çift tıklayın.",
 	"claim-my-sales": "Satışlarımı Topla",
 	"Offers": "Teklifler",
 	"offer-stats": "Teklif istatistikleri",

@@ -11,8 +11,8 @@
 	"done": "Done",
 	"shortcut": "Shortcut",
 	"my_bag": "My bag",
-	"sell": "sell",
-	"buy": "buy",
+	"sell": "Sell",
+	"buy": "Buy",
 	"help": "Help",
 	"quantity": "Quantity",
 	"item": "Item",
@@ -43,5 +43,6 @@
 	"public-world": "Public world",
 	"private-world": "Private world",
 	"press-x-to-start": "Press <span>{{key}}</span> to start playing.",
-	"enter": "Enter"
+	"enter": "Enter",
+	"back": "Back"
 }

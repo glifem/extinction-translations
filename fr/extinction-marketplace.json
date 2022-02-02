@@ -1,9 +1,9 @@
 {
     "create-an-offer": "CRÉER UNE OFFRE",
     "select-an-item": "Sélectionnez un objet",
-    "new-auction": "Nouvelle Offre",
-    "my-auctions": "Mes offres",
-    "auction-buy-help": "Double clic pour acheter/vendre.",
+    "new-offer": "Nouvelle Offre",
+    "my-offers": "Mes offres",
+    "marketplace-offer-buy-help": "Double clic pour acheter/vendre.",
 	"Offers": "Offres",
 	"offer-stats": "Statistiques de l'offre",
 	"history": "Historique de {{itemName}}",
