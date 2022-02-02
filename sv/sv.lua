@@ -1,4 +1,3 @@
--- Put your Lua here
 local my_language = {
 	give_vehicle = "du lade till ~b~%s~w~ i ditt förråd.",
 	store_vehicle_command = "Förvara fordonet du kör",
@@ -52,7 +51,6 @@ local my_language = {
 
 	-- perms
 	kick_member = "Sparka medlemmar",
-	invite_someone = "Inbjudan",
 	edit_member = "Redigera medlemmar",
 	edit_rank = "Redigera rangordningar",
 	create_rank = "Skapa rangordningar",
@@ -493,13 +491,10 @@ local my_language = {
     variationer = "Variationer",
     filter = "Filter",
     eyes_color = "Ögonfärg",
-
  -- Mask
     masks = "Mask",
-
   -- Föremål
     money = "Pengar",
-
   -- Ammunition
     ["9mm"] = "9mm",
     ["300_mag"] = ".300 Magnum",
@@ -507,7 +502,9 @@ local my_language = {
     ["calibre_12"] = "Kalibre 12",
     ["45_acp"] = ".45 ACP",
     ["5_56mm"] = "5.56mm",
-
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
  -- Mat
     ["fish_1"] = "Öringabborre",
     ["fish_2"] = "Regnbågsöring",
@@ -547,6 +544,7 @@ local my_language = {
     repair_tool = "Reparationssats",
     jvn = "JVN",
     engine_veh = "Motor",
+	bag = "Sac",
     wheel_veh = "Hjul",
     vetement = "Toppblock",
     bloc_note = "Anteckningsblock",
@@ -557,8 +555,10 @@ local my_language = {
     gaz_mask = "Gasmask",
     filter = "Filter",
     tattoo_tool = "Tattoo verktyg",
-    drug_med = "Drog",
-    antizin = "Antizin",
+	drug_med = "Drug",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
 
     pickup_spikestrip = "plocka upp spikmatta",
     you_dropped_spikestrip = "Du tappade en ~ g ~ spikmatta ~ w ~.",
@@ -568,6 +568,8 @@ local my_language = {
     kill_notif = "~m~ Dödad",
     you_killed = "Du dödade ~r~%s~w~",
     already_used_reset_only = "~r~ Du har redan återställt din karaktär. \n~w~Endast %s~w~ medlemmar kan göra om sin karaktär mer än en gång.",
+	already_used_reset_only2 = "~r~You already did that.\n~w~Only %s~w~ members can do that more than one time.",
+
     hud_options = "HUD-alternativ",
     advanced_hud = "Visa avancerad HUD",
     players = "Spelare",
@@ -588,6 +590,9 @@ local my_language = {
     skin_gold = "Guld",
     skin_blue = "Blå",
     skin_orange = "Orange",
+
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
 
     -- nytt
     airdrop_coming = "~r~ En airdrop kommer kontrollera din karta.",

@@ -100,7 +100,6 @@ local my_language = {
 	invitation_expired = "L\'invito è scaduto.",
 	crew_kick_success = "Hai espulso <C>~b~%s</C>~w~ dalla crew.",
 	first_rank_warning = "Il primo rank è quello 'predefinito'.",
-	you_entered_crew_pro = "Sei entrato nella casa Crew",
 
 	you_updated_this = "Hai aggiornato %s a ~g~<C>%s</C>~w~.",
 	changes_saved_on = "Il cambiamento su <C>~g~%s</C>~w~ è stato salvato.",
@@ -619,7 +618,6 @@ Se raggiungi il livello massimo (%s) potrai scegliere se prestigiare e resettare
 Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migliore, nuovi oggetti, più soldi ed il limite di spazio sarà aumentato.
 ^2Se vuoi effettuare il prestigio e RITORNARE al livello 0 digita ^1/setprestige^2
 ]],
-
 	new_prestige = "Hai eseguito un prestigio!\n~g~Ora sei al %s prestigio.",
 	cant_store_event_veh = "~r~Non puoi depositare veicoli speciali.",
 
@@ -673,20 +671,6 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 
 	preferred_badge_set = "Hai impostato il tuo ~g~badge preferito~w~.",
 	preferred_badge_not_set = "~r~Impossibile impostare il tuo badge.",
-
-	marketplace_received_money_sales = "Hai ricevuto ~g~$%s~w~ da ~b~%s~w~ per una vendita.",
-	marketplace_no_sales = "~r~Non hai venduto nulla.",
-	marketplace_you_paid_for = "Hai pagato ~g~$%s~w~ per ~b~%s~w~.",
-
-	deleted_sell_offer = "~b~Hai cancellato la tua offerta di vendita.",
-	deleted_buy_offer = "~b~Hai cancellato la tua offerta di acquisto.",
-	deleted_sell_offers = "~b~You deleted your sell offers.",
-	deleted_buy_offers = "~b~You deleted your sell offers.",
-
-	marketplace_offer_does_not_exist = "~r~Questa offerta non esiste.",
-
-	marketplace_create_sell_offer = "Hai creato un'offerta di vendita ~b~%sx %s ~w~di ~g~$%s~w~ per pezzo.",
-	marketplace_create_buy_offer = "Hai creato un'offerta di acquisto ~b~%sx %s ~w~di ~g~$%s~w~ per pezzo.",
 
 	i_want_to_enter_in_my_property = "Voglio accedere alla mia proprietà.",
 	i_want_to_exit_private_world = "Voglio ritornare nel mondo pubblico.",
@@ -908,7 +892,6 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 	dungeon_cooldown_between = "Please wait ~r~%s minutes~w~ before starting a dungeon again.",
 	set_as_default = "Set as default custom for vehicle model",
 	car_custom_presets_saved = "Your customization presets for ~g~%s~w~ have been saved.",
-	marketplace_you_received_x_x = "You received ~b~%sx ~g~%s~w~.",
 
 	above_level_x_no_longer_possible_loot_safe = "Player above rank %s cannot loot zombies in safezones.",
 	preferred_component_desc = "This set will be the default set of all %s weapon you hold.",
@@ -973,6 +956,25 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 	drug_antizin_bar = "Antizin effect",
 	drug_stamina_bar = "Stamina effect",
 	drug_berserker_bar = "Health effect",
+
+	squad_members_limit = "~r~You squad reached the members limit.",
+	darkzone_only = "~r~You must be in the darkzone.",
+	darkzone_no_cars = "~r~You can only use bikes, boats and other flying vehicles in the darkzone.",
+
+	poll7_q1 = "Would you be interested by a EU server SOLO ONLY?",
+	poll7_q2 = "Would you like to see AWP MK2/Marksman rifle MK2 back in the loot/airdrops?",
+
+	you_have_been_muted = "~r~You have been muted.~w~\nExpiration: ~b~%s~w~\nReason: ~b~%s",
+	you_have_been_unmuted = "~g~You have been unmuted.",
+	muted_x = "You muted ~g~%s~w~.~w~\nExpiration: ~b~%s~w~\nReason: ~b~%s",
+	unmuted_x = "You unmuted ~g~%s~w~.",
+	invalid_duration = "~r~Incorrect duration, please enter a correct time.",
+	player_already_muted = "~r~This player is already muted.",
+	player_not_muted = "~r~This player is not muted.",
+	you_are_muted = "~r~You are muted.",
+
+	open_mailbox = "open the mailbox",
+	you_entered_crew_pro = "Sei entrato nella casa Crew",
 }
 
 AddLanguage("it", my_language)

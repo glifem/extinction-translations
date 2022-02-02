@@ -672,20 +672,6 @@ local my_language = {
 	preferred_badge_set = "~g~Tercih edilen rozeti~w~ ayarladın.",
 	preferred_badge_not_set = "~r~Tercih edilen rozet ayarlanamıyor.",
 
-	marketplace_received_money_sales = "~g~$%s~w~ Kazancı ~b~%s~w~ Satıştan elde ettin.",
-	marketplace_no_sales = "~r~Hiçbir şey satmadın.",
-	marketplace_you_paid_for = "~g~$%s~w~ Fiyatında ~b~%s~w~ aldın.",
-
-	deleted_sell_offer = "~b~Satış teklifini sildin.",
-	deleted_buy_offer = "~b~Satış teklifini sildin.",
-	deleted_sell_offers = "~b~You deleted your sell offers.",
-	deleted_buy_offers = "~b~You deleted your sell offers.",
-
-	marketplace_offer_does_not_exist = "~r~Bu teklif artık mevcut değil.",
-
-	marketplace_create_sell_offer = "~b~%sx %s ~w~İçin ~g~$%s~w~ Değerinde satış teklifi oluşturdun.",
-	marketplace_create_buy_offer = "~b~%sx %s ~w~İçin ~g~$%s~w~ Değerinde alış yaptın.",
-
 	i_want_to_enter_in_my_property = "Takım deposuna girmek istiyorum.",
 	i_want_to_exit_private_world = "Herkese açık dünyaya dönmek istiyorum.",
 	public_world = "Herkese açık dünya",
@@ -906,7 +892,6 @@ local my_language = {
 	dungeon_cooldown_between = "Zindanı tekrardan başlatmak için ~r~%s dakika~w~ beklemelisin.",
 	set_as_default = "Bu araç modeli için varsayılan olarak ayarla.",
 	car_custom_presets_saved = "Modifiye  ~g~%s~w~  olarak kaydedildi.",
-	marketplace_you_received_x_x = "~b~%sx ~g~%s~w~ Aldın.",
 
 	above_level_x_no_longer_possible_loot_safe = "%s sıralaması üzerindeki oyuncular, güvenli bölgelerdeki zombileri yağmalayamaz.",
 	preferred_component_desc = "Bu silah eklenti seti, kullandığınız tüm %s silahlarının varsayılan eklenti seti olacaktır.",

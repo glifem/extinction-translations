@@ -51,7 +51,6 @@ local my_language = {
  
     -- perms
     kick_member = "طرد الاعضاء",
-    invite_someone = "ارسال دعوه",
     edit_member = "تعديل الاعضاء",
     edit_rank = "تعديل الرتب",
     create_rank = "إنشاء الرتب",
@@ -503,22 +502,63 @@ local my_language = {
     ["calibre_12"] = "Calibre 12",
     ["45_acp"] = ".45 ACP",
     ["5_56mm"] = "5.56mm",
- 
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
+	-- Food
+	["fish_1"] = "Largemouth Bass",
+	["fish_2"] = "Rainbow Trout",
+	["fish_3"] = "Kokanee",
+	["fish_4"] = "Arctic Grayling",
+	["fish_5"] = "Rock Bass",
+	["fish_6"] = "Smallmouth Bass",
+	["fish_7"] = "Paddlefish",
+	["fish_8"] = "Bull Trout",
+	["fish_9"] = "Lake Trout",
+	["fish_10"] = "Chinook",
+	["fish_11"] = "Pallid Sturgeon",
+	["fish_12"] = "Salmon",
+
+	misc_meat = "Raw meat",
+	rabbit_meat = "Raw rabbit",
+	lion_meat = "Raw lion",
+	rare_plume = "Rare feather",
+	dog_meat = "Raw dog",
+	cat_meat = "Raw cat",
+	rare_fish = "Rare fish",
+
     mask = "قناع",
+	malette = "Suitcase",
+	malette_metal = "Metal suitcase",
+	ciseaux = "Scissors",
     clean_kit = "طقم نظيف",
+	fishing_rod = "Fishing rod",
+	meuble = "Furniture",
+	tissu = "Cloth",
+	accessory = "Accessory",
     radio = "مذياع",
     recyclor = "معيد التدوير",
     medkit = "ميدكيت",
     kevlar = "درع",
     gps = "GPS",
     repair_tool = "عدة تصليح",
+	jvn = "JVN",
     engine_veh = "محرك",
+	bag = "Sac",
     wheel_veh = "عجلة",
+	vetement = "Top",
+	bloc_note = "Notepad",
     paint_spray = "بخاخ طلاء",
     spike = "قطاع مسمار",
+	paracetamol = "Paracetamol",
     bandage = "ضمادة",
     gaz_mask = "قناع غاز",
     filter = "منقي",
+	tattoo_tool = "Tattoo tool",
+	drug_med = "Drug",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
  
     pickup_spikestrip = "التقط شريط المسمار",
     you_dropped_spikestrip = "لقد وضعت ~g~شريط مسماري~w~.",
@@ -551,6 +591,9 @@ local my_language = {
     skin_blue = "أزرق",
     skin_orange = "البرتقالي",
  
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
+
     -- new
     airdrop_coming = "~r~هناك إنزال جوي قادم تحقق من خريطتك.",
     killed_by_cheater = "~r~لقد قُتلت على يد غشاش.\n~w~لقد حظرناه وتم إلغاء موتك.",
@@ -587,7 +630,21 @@ local my_language = {
     new_prestige_stats_upgrade = "قمت بترقية ~b~%s~w~\n~g~%s/%s",
  
     legendary_vehicle_pop = "~r~ظهرت مركبة أسطورية على الخريطة.",
+
+	-- poll one
+	poll1_q1 = "What kind of game server would you like to see?",
+
+	poll1_q1_a1 = "Battle Royale",
+	poll1_q1_a2 = "Private missions solo or with 1-4 friends (Payday / Heist / Hitman like)",
+	poll1_q1_a3 = "Race / Freeroam",
+	poll1_q1_a4 = "Murder / Horror game",
  
+	-- poll two
+	poll2_q1 = "Are you an English speaker and would you be interested in a GLife RP Server?",
+
+	poll2_q1_a1 = "No",
+	poll2_q1_a2 = "Yes",
+
     combat_mode_container_disabled = "~r~أنت في معركة.\n~w~لا يمكنك تخزين هذا العنصر.",
     gcoins_wallet_updated = "~g~تم تحديث محفظة GCoins الخاصة بك.\n~w~+%s GCoins",
     not_enough_gcoins = "~r~ليس لديك ما يكفي من GCoins.",

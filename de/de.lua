@@ -51,7 +51,6 @@ local my_language = {
  
     -- perms
     kick_member = "Mitglieder Kicken",
-    invite_someone = "Spieler einladen",
     edit_member = "Mitglieder bearbeiten",
     edit_rank = "Ränge bearbeiten",
     create_rank = "Ränge erstellen",
@@ -503,22 +502,63 @@ local my_language = {
     ["calibre_12"] = "Kaliber 12",
     ["45_acp"] = ".45 ACP",
     ["5_56mm"] = "5.56mm",
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
+	-- Food
+	["fish_1"] = "Largemouth Bass",
+	["fish_2"] = "Rainbow Trout",
+	["fish_3"] = "Kokanee",
+	["fish_4"] = "Arctic Grayling",
+	["fish_5"] = "Rock Bass",
+	["fish_6"] = "Smallmouth Bass",
+	["fish_7"] = "Paddlefish",
+	["fish_8"] = "Bull Trout",
+	["fish_9"] = "Lake Trout",
+	["fish_10"] = "Chinook",
+	["fish_11"] = "Pallid Sturgeon",
+	["fish_12"] = "Salmon",
+
+	misc_meat = "Raw meat",
+	rabbit_meat = "Raw rabbit",
+	lion_meat = "Raw lion",
+	rare_plume = "Rare feather",
+	dog_meat = "Raw dog",
+	cat_meat = "Raw cat",
+	rare_fish = "Rare fish",
  
     mask = "Maske",
+	malette = "Suitcase",
+	malette_metal = "Metal suitcase",
+	ciseaux = "Scissors",
     clean_kit = "Reinigungsset",
+	fishing_rod = "Fishing rod",
+	meuble = "Furniture",
+	tissu = "Cloth",
+	accessory = "Accessory",
     radio = "Radio",
     recyclor = "Recycler",
     medkit = "Verbandskasten",
     kevlar = "Weste",
     gps = "GPS",
+	jvn = "JVN",
     repair_tool = "Reparatur kit",
     engine_veh = "Motor",
+	bag = "Sac",
     wheel_veh = "Reifen",
+	vetement = "Top",
+	bloc_note = "Notepad",
     paint_spray = "Tuning Werkstatt",
     spike = "Nagelband",
+	paracetamol = "Paracetamol",
     bandage = "Bandage",
     gaz_mask = "Gasmaske",
     filter = "Filter",
+	tattoo_tool = "Tattoo tool",
+	drug_med = "Drug",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
  
     pickup_spikestrip = "Nagelband aufheben",
     you_dropped_spikestrip = "Du hast ein ~g~Nagelband~w~ platziert.",
@@ -551,6 +591,9 @@ local my_language = {
     skin_blue = "Blau",
     skin_orange = "Orange",
  
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
+
     -- new
     airdrop_coming = "~r~Ein Airdrop ist im Anflug, wirf einen Blick auf die Map.",
     killed_by_cheater = "~r~Du wurdest durch einen Cheater getötet.\n~w~Wir haben ihn gebannt und dein Tod wurde rückgängig gemacht.",
@@ -573,7 +616,8 @@ Du bist momentan Prestige ^4%s^7 und Level ^5%s^7.
  
 Wenn du das maximale Level erreichen solltest (%s) hast du die Möglichkeit, Prestige zu werden und von vorne wieder bei Level 0 anzufangen.
 Durch ein neues Prestige bekommst du ein spezielles Abzeichen und neue Perks, wie zum Beispiel besseres Loot, neue Items, mehr Geld oder ein größeres Maximalgewicht deines Inventares.
-^2Wenn du Prestige werden willst und wieder von Level 0 anfangen möchtest gib ein ^1/setprestige^2 in den Chat]],
+^2Wenn du Prestige werden willst und wieder von Level 0 anfangen möchtest gib ein ^1/setprestige^2 in den Chat
+]],
     new_prestige = "Du hast ein neues Prestige freigeschaltet!\n~g~Du bist nun %s Prestige",
     cant_store_event_veh = "~r~Du kannst keine legendären Fahrzeuge einlagern.",
  
@@ -587,6 +631,20 @@ Durch ein neues Prestige bekommst du ein spezielles Abzeichen und neue Perks, wi
  
     legendary_vehicle_pop = "~r~Ein legendäres Fahrzeug ist auf der Karte erschienen.",
  
+	-- poll one
+	poll1_q1 = "What kind of game server would you like to see?",
+
+	poll1_q1_a1 = "Battle Royale",
+	poll1_q1_a2 = "Private missions solo or with 1-4 friends (Payday / Heist / Hitman like)",
+	poll1_q1_a3 = "Race / Freeroam",
+	poll1_q1_a4 = "Murder / Horror game",
+
+	-- poll two
+	poll2_q1 = "Are you an English speaker and would you be interested in a GLife RP Server?",
+
+	poll2_q1_a1 = "No",
+	poll2_q1_a2 = "Yes",
+
     combat_mode_container_disabled = "~r~Du bist noch im Kampf.\n~w~Du kannst diese Items momentan nicht wegpacken.",
     gcoins_wallet_updated = "~g~Dein GCoins Konto wurde aktualisiert.\n~w~+%s GCoins",
     not_enough_gcoins = "~r~Du hast leider nicht genug GCoins.",

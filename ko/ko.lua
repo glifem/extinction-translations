@@ -51,7 +51,6 @@ local my_language = {
  
     -- perms
     kick_member = "크루원 추방",
-    invite_someone = "크루 초대",
     edit_member = "크루원 편집",
     edit_rank = "계급 편집",
     create_rank = "계급 생성",
@@ -503,22 +502,63 @@ local my_language = {
     ["calibre_12"] = "12게이지",
     ["45_acp"] = ".45 ACP",
     ["5_56mm"] = "5.56mm",
- 
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
+	-- Food
+	["fish_1"] = "Largemouth Bass",
+	["fish_2"] = "Rainbow Trout",
+	["fish_3"] = "Kokanee",
+	["fish_4"] = "Arctic Grayling",
+	["fish_5"] = "Rock Bass",
+	["fish_6"] = "Smallmouth Bass",
+	["fish_7"] = "Paddlefish",
+	["fish_8"] = "Bull Trout",
+	["fish_9"] = "Lake Trout",
+	["fish_10"] = "Chinook",
+	["fish_11"] = "Pallid Sturgeon",
+	["fish_12"] = "Salmon",
+
+	misc_meat = "Raw meat",
+	rabbit_meat = "Raw rabbit",
+	lion_meat = "Raw lion",
+	rare_plume = "Rare feather",
+	dog_meat = "Raw dog",
+	cat_meat = "Raw cat",
+	rare_fish = "Rare fish",
+
     mask = "가면",
+	malette = "Suitcase",
+	malette_metal = "Metal suitcase",
+	ciseaux = "Scissors",
     clean_kit = "청소도구",
+	fishing_rod = "Fishing rod",
+	meuble = "Furniture",
+	tissu = "Cloth",
+	accessory = "Accessory",
     radio = "라디오",
     recyclor = "재활용",
     medkit = "구급상자",
     kevlar = "방탄복",
     gps = "GPS",
     repair_tool = "수리도구",
+	jvn = "JVN",
     engine_veh = "엔진",
+	bag = "Sac",
     wheel_veh = "타이어",
+	vetement = "Top",
+	bloc_note = "Notepad",
     paint_spray = "페인트",
     spike = "스파이크",
+	paracetamol = "Paracetamol",
     bandage = "붕대",
     gaz_mask = "가스 마스크",
     filter = "필터",
+	tattoo_tool = "Tattoo tool",
+	drug_med = "Drug",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
  
     pickup_spikestrip = "스파이크 줍기",
     you_dropped_spikestrip = "~g~스파이크~w~를 깔았습니다.",
@@ -550,6 +590,9 @@ local my_language = {
     skin_gold = "황금색",
     skin_blue = "파란색",
     skin_orange = "주황색",
+
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
  
     -- new
     airdrop_coming = "~r~공중보급이 투하됩니다, 지도에서 위치를 확인하세요.",
@@ -587,6 +630,20 @@ local my_language = {
     new_prestige_stats_upgrade = "~b~%s~w~\n~g~%s/%s을(를) 업그레이드 하였습니다.",
  
     legendary_vehicle_pop = "~r~특별 차량이 생성 됐습니다 지도를 확인하세요.",
+
+	-- poll one
+	poll1_q1 = "What kind of game server would you like to see?",
+
+	poll1_q1_a1 = "Battle Royale",
+	poll1_q1_a2 = "Private missions solo or with 1-4 friends (Payday / Heist / Hitman like)",
+	poll1_q1_a3 = "Race / Freeroam",
+	poll1_q1_a4 = "Murder / Horror game",
+
+	-- poll two
+	poll2_q1 = "Are you an English speaker and would you be interested in a GLife RP Server?",
+
+	poll2_q1_a1 = "No",
+	poll2_q1_a2 = "Yes",
  
     combat_mode_container_disabled = "~r~전투상태 입니다.\n~w~컨테이너에 아이템을 보관할 수 없습니다.",
     gcoins_wallet_updated = "~g~GCoins이 업데이트 되었습니다. \n~w~+%s GCoins",

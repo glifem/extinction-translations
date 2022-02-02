@@ -1,4 +1,3 @@
--- Put your Lua here
 local my_language = {
 	give_vehicle = "Dodałeś ~b~%s~w~ do swojego ekwipunku.",
 	store_vehicle_command = "Schowaj swój pojazd",
@@ -52,7 +51,6 @@ local my_language = {
 
 	-- perms
 	kick_member = "Wyrzuć członków",
-	invite_someone = "Zaproszenie",
 	edit_member = "Edytuj członków",
 	edit_rank = "Edytuj rangi",
 	create_rank = "Stwórz rangi",
@@ -504,6 +502,9 @@ local my_language = {
 	["calibre_12"] = "kaliber 12",
 	["45_acp"] = ".45 ACP",
 	["5_56mm"] = "5.56mm",
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
 	-- Food
 	["fish_1"] = "Bass wielkogębowy",
 	["fish_2"] = "Pstrąg tęczowy",
@@ -543,6 +544,7 @@ local my_language = {
 	repair_tool = "Zestaw do naprawy",
 	jvn = "JVN",
 	engine_veh = "Silnik",
+	bag = "Sac",
 	wheel_veh = "Koło",
 	vetement = "Top",
 	bloc_note = "Notatnik",
@@ -553,8 +555,10 @@ local my_language = {
 	gaz_mask = "Maska gazowa",
 	filter = "Filtr",
 	tattoo_tool = "Narzędzie to tatuażów",
-	drug_med = "Lekarstwo",
-	antizin = "Antyzyna",
+	drug_med = "Drug",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
 
 	pickup_spikestrip = "podnieś kolczatkę",
 	you_dropped_spikestrip = "Upuściłeś ~g~kolczatkę~w~.",
@@ -564,6 +568,7 @@ local my_language = {
 	kill_notif = "~m~ zabity",
 	you_killed = "Zabiłeś ~r~%s~w~",
 	already_used_reset_only = "~r~Już zresetowałeś swoją postać.\n~w~Only %s~w~ członkowie mogą to robić więcej razy.",
+	already_used_reset_only2 = "~r~You already did that.\n~w~Only %s~w~ members can do that more than one time.",
 
 	hud_options = "opcje HUD",
 	advanced_hud = "Wyświetlaj zaawansowany HUD",
@@ -585,6 +590,9 @@ local my_language = {
 	skin_gold = "złoty",
 	skin_blue = "niebieski",
 	skin_orange = "pomarańczowy",
+
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
 	airdrop_coming = "~r~Zrzut się zbliża, sprawdź mapę.",

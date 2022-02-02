@@ -51,7 +51,6 @@ local my_language = {
 
 	-- perms
 	kick_member = "Expulsar membros",
-	invite_someone = "Convidar",
 	edit_member = "Editar membros",
 	edit_rank = "Editar cargos",
 	create_rank = "Criar cargos",
@@ -503,6 +502,9 @@ local my_language = {
 	["calibre_12"] = "Calibre 12",
 	["45_acp"] = ".45 ACP",
 	["5_56mm"] = "5.56mm",
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
 	-- Food
 	["fish_1"] = "Largemouth Bass",
 	["fish_2"] = "Rainbow Trout",
@@ -542,6 +544,7 @@ local my_language = {
 	repair_tool = "Kit de Reparo",
 	jvn = "JVN",
 	engine_veh = "Motor",
+	bag = "Sac",
 	wheel_veh = "Pneu",
 	vetement = "Jaqueta",
 	bloc_note = "Bloco de Notas",
@@ -553,7 +556,9 @@ local my_language = {
 	filter = "Fitlro",
 	tattoo_tool = "Ferramenta de tatuagem",
 	drug_med = "Droga",
-	antizin = "Antizin",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
 
 	pickup_spikestrip = "pickup the spike strip",
 	you_dropped_spikestrip = "You dropped a ~g~spike strip~w~.",
@@ -585,6 +590,9 @@ local my_language = {
 	skin_gold = "Ouro",
 	skin_blue = "Azul",
 	skin_orange = "Laranja",
+
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
 	airdrop_coming = "~r~Um airdrop está chegando, cheque seu mapa.",
@@ -625,17 +633,17 @@ Conquistando um novo prestígio você recebe uma insignia especial, novas vantag
 
 	-- poll one
 	poll1_q1 = "O que em nosso servidor você gostaria de ver?",
-	poll1_q2 = "Qual atualização você acha que seria uma prioridade para o Extinction?",
 
 	poll1_q1_a1 = "Battle Royale",
 	poll1_q1_a2 = "Private missions solo or with 1-4 friends (Payday / Heist / Hitman like)",
 	poll1_q1_a3 = "Race",
 	poll1_q1_a4 = "Murder / Horror game",
 
-	poll1_q2_a1 = "PvE improve zombies/farm",
-	poll1_q2_a2 = "Add new map events",
-	poll1_q2_a3 = "Shop/Trade update",
-	poll1_q2_a4 = "More RPG stats / improvements",
+	-- poll two
+	poll2_q1 = "Are you an English speaker and would you be interested in a GLife RP Server?",
+
+	poll2_q1_a1 = "No",
+	poll2_q1_a2 = "Yes",
 
 	combat_mode_container_disabled = "~r~You are in combat.\n~w~You cannot store items.",
 	gcoins_wallet_updated = "~g~You GCoins wallet has been updated.\n~w~+%s GCoins",

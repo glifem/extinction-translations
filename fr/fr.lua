@@ -672,20 +672,6 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	preferred_badge_set = "Vous avez défini votre badge ~g~préféré~w~.",
 	preferred_badge_not_set = "~r~Impossible de définir votre badge préféré.",
 
-	marketplace_received_money_sales = "Vous avez reçu ~g~$%s~w~ de ~b~%s~w~ vente(s).",
-	marketplace_no_sales = "~r~Vous n'avez rien vendu.",
-	marketplace_you_paid_for = "Vous avez payé ~g~$%s~w~ pour ~b~%s~w~.",
-
-	deleted_sell_offer = "~b~Vous avez supprimé votre offre de vente.",
-	deleted_buy_offer = "~b~Vous avez supprimé votre offre d'achat.",
-	deleted_sell_offers = "~b~Vous avez supprimé vos offres de vente.",
-	deleted_buy_offers = "~b~Vous avez supprimé vos offres de'achat.",
-
-	marketplace_offer_does_not_exist = "~r~Cette offre n'existe plus.",
-
-	marketplace_create_sell_offer = "Vous avez créé une offre de vente pour ~b~%sx %s ~w~pour ~g~$%s~w~ par unité.",
-	marketplace_create_buy_offer = "Vous avez créé une offre d'achat pour ~b~%sx %s ~w~de ~g~$%s~w~ par unité.",
-
 	i_want_to_enter_in_my_property = "Je veux entrer dans ma propriété.",
 	i_want_to_exit_private_world = "Je veux revenir dans le monde public.",
 	public_world = "Monde public",
@@ -1262,6 +1248,22 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	new_game_starting_x_press_x_join_soon = "Une nouvelle partie commence bientôt, pour être téléporté dans le lobby automatiquement avant le début du jeu ~y~appuyez sur X~w~.",
 	registered_teleported_before_start = "~b~Vous serez téléporté dans le lobby avant le début de la partie.",
 	lobby = "~y~Lobby",
+
+	only_in_safezone_ui = "Vous ne pouvez pas faire cela en dehors de la ^0safe-zone^7.",
+	reached_max_sell_offer = "You cannot post more than ^0%s active sell offers^7.",
+	not_enough_of_ui = "Vous n'avez pas assez de ^0%s^7.",
+	marketplace_received_money_sales = "Vous avez reçu ^0$%s^7 de ^0%s^7 vente(s).",
+	marketplace_no_sales = "Vous n'avez ^0rien vendu^7 dans le marché.",
+	marketplace_you_paid_for = "Vous avez payé ^0$%s^7 pour ^0%s^7.",
+	deleted_sell_offer = "Vous avez supprimé votre ^0offre de vente^7.",
+	deleted_buy_offer = "~b~Vous avez supprimé votre ^0offre d'achat^7.",
+	deleted_sell_offers = "~b~Vous avez supprimé vos ^0offres de vente^7.",
+	deleted_buy_offers = "~b~Vous avez supprimé vos ^0offres de'achat^7.",
+	marketplace_offer_does_not_exist = "Cette offre ^0n'existe plus^7 dans le marché.",
+	marketplace_create_sell_offer = "Vous avez créé une offre de vente pour ^0%sx %s ^7pour ^0$%s^7 par unité.",
+	marketplace_create_buy_offer = "Vous avez créé une offre d'achat pour ^0%sx %s ^7de ^0$%s^7 par unité.",
+	full_for_item_ui = "Il n'y a pas ^0assez de place^7 pour cet item.",
+	no_enough_money_ui = "Vous n'avez ^0pas assez d'argent^7.",
 }
 
 AddLanguage("fr", my_language)

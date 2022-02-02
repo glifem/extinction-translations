@@ -51,7 +51,6 @@ local my_language = {
 
 	-- perms
 	kick_member = "بیرون انداختن اعضا",
-	invite_someone = "دعوت",
 	edit_member = "ویرایش اعضا",
 	edit_rank = "ویرایش رنک ها",
 	create_rank = "ساخت رنک",
@@ -330,6 +329,7 @@ local my_language = {
 	right_neon = "نئون راست",
 	front_neon = "نئون جلو",
 	back_neon = "نئون عقب",
+
 	aileron = "اسپیلر",
 	pc_front = "سپر جلو",
 	pc_back = "سپرعقب",
@@ -502,6 +502,9 @@ local my_language = {
 	["calibre_12"] = "Calibre 12",
 	["45_acp"] = ".45 ACP",
 	["5_56mm"] = "5.56مم",
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
 	-- Food
 	["fish_1"] = "لارگموث باس",
 	["fish_2"] = "رنگین کمان",
@@ -541,6 +544,7 @@ local my_language = {
 	repair_tool = "کیت تعمییر",
 	jvn = "چی وی ان",
 	engine_veh = "موتور",
+	bag = "Sac",
 	wheel_veh = "چرخ",
 	vetement = "بالا",
 	bloc_note = "دفترچه یادداشت",
@@ -551,8 +555,10 @@ local my_language = {
 	gaz_mask = "ماسک گاز",
 	filter = "فیلتر",
 	tattoo_tool = "ابزار تاتوl",
-	drug_med = "دارو",
-	antizin = "آنتی آنزین",
+	drug_med = "Drug",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
 
 	pickup_spikestrip = "نوار سنبله را بردارید",
 	you_dropped_spikestrip = "شما یک ~g~نوار سنبله انذاختید~w~.",
@@ -562,6 +568,7 @@ local my_language = {
 	kill_notif = "~m~کشته شده",
 	you_killed = "شما کشتید ~r~%s~w~",
 	already_used_reset_only = "~r~شما در حال حاضر شخصیت خود را تنظیم مجدد کرده اید.\n~w~فقط %s~w~ اعضا می توانند شخصیت خود را بیش از یک بار تکرار کنند.",
+	already_used_reset_only2 = "~r~You already did that.\n~w~Only %s~w~ members can do that more than one time.",
 
 	hud_options = "HUD تنضیمات",
 	advanced_hud = "نمایش پیشرفته HUD",
@@ -583,6 +590,9 @@ local my_language = {
 	skin_gold = "ظلایی",
 	skin_blue = "ابی",
 	skin_orange = "نارنجی",
+
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
 	airdrop_coming = "~r~ایر دراپ درحال امدن است نضشه خود را بررسی کنید.",

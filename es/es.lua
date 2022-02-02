@@ -51,7 +51,6 @@ local my_language = {
  
     -- perms
     kick_member = "Patear miembros",
-    invite_someone = "Invitación",
     edit_member = "Editar miembros",
     edit_rank = "Editar rangos",
     create_rank = "Crear rangos",
@@ -503,6 +502,9 @@ local my_language = {
     ["calibre_12"] = "Calibre 12",
     ["45_acp"] = ".45 ACP",
     ["5_56mm"] = "5.56mm",
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
     -- Food
     ["fish_1"] = "Lobina negra",
     ["fish_2"] = "RTrucha arcoiris",
@@ -542,6 +544,7 @@ local my_language = {
     repair_tool = "Kit de reparación",
     jvn = "JVN",
     engine_veh = "Motor",
+	bag = "Sac",
     wheel_veh = "Rueda",
     vetement = "Arriba",
     bloc_note = "Bloc de notas",
@@ -553,7 +556,9 @@ local my_language = {
     filter = "Filtro",
     tattoo_tool = "Herramienta de tatuaje",
     drug_med = "Droga",
-    antizin = "Antizin",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
  
     pickup_spikestrip = "recoge la tira de púas",
     you_dropped_spikestrip = "Dejaste caer una ~g~tira de púas~w~.",
@@ -563,6 +568,7 @@ local my_language = {
     kill_notif = "~m~Muerto",
     you_killed = "Mataste a ~r~%s~w~",
     already_used_reset_only = "~r~Ya has reiniciado tu personaje.\n~w~Solo %s~w~ miembros pueden rehacer su personaje más de una vez.",
+	already_used_reset_only2 = "~r~You already did that.\n~w~Only %s~w~ members can do that more than one time.",
  
     hud_options = "Opciones de HUD",
     advanced_hud = "Mostrar HUD avanzado",
@@ -584,6 +590,9 @@ local my_language = {
     skin_gold = "Oro",
     skin_blue = "Azul",
     skin_orange = "Naranj",
+
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
  
     -- new
     airdrop_coming = "~r~Se acerca un lanzamiento aéreo revisa tu mapa.",

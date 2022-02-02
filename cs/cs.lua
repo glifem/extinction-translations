@@ -672,20 +672,6 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	preferred_badge_set = "Nastavil jsi svůj ~g~preferovaný odznak~w~.",
 	preferred_badge_not_set = "~r~Nemůžeš si nastavit svůj preferovaný odznak.",
 
-	marketplace_received_money_sales = "Získal jsi ~g~$%s~w~ z ~b~%s~w~ nabídek.",
-	marketplace_no_sales = "~r~Nic jsi neprodal.",
-	marketplace_you_paid_for = "Zaplatil jsi ~g~$%s~w~ za ~b~%s~w~.",
-
-	deleted_sell_offer = "~b~Smazal jsi svou nabídku.",
-	deleted_buy_offer = "~b~Smazal jsi svou nabídku.",
-	deleted_sell_offers = "~b~Smazal jsi svoje nabídky.",
-	deleted_buy_offers = "~b~Smazal jsi svoje nabídky.",
-
-	marketplace_offer_does_not_exist = "~r~Tato nabídka neexistuje.",
-
-	marketplace_create_sell_offer = "Vytvořil jsi nabíkdu ~b~%sx %s ~w~za ~g~$%s~w~ za jeden předmět.",
-	marketplace_create_buy_offer = "Vytvořil jsi nabídku ~b~%sx %s ~w~za ~g~$%s~w~ za jeden předmět.",
-
 	i_want_to_enter_in_my_property = "Chci do bunkru.",
 	i_want_to_exit_private_world = "Chci do veřejného světa.",
 	public_world = "Veřejný svět",
@@ -906,7 +892,6 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	dungeon_cooldown_between = "Prosím počkej ~r~%s minut~w~ před startem dalšího dungeonu.",
 	set_as_default = "Nastavit jako defaultní modifikaci pro tento model vozidla",
 	car_custom_presets_saved = "Preset modifikací pro ~g~%s~w~ byl uložen.",
-	marketplace_you_received_x_x = "Obdržel jsi ~b~%sx ~g~%s~w~.",
 
 	above_level_x_no_longer_possible_loot_safe = "Hráči nad level %s nemůžou lootovat zombíky v safezónách.",
 	preferred_component_desc = "Tento set bude defaultní set pro všechny %s zbraně, které budeš držet.",
@@ -1062,7 +1047,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si mů
 	cannot_enter_darkzone_inventory = "~r~Nemůžeš vstoupit do darkzóny pokud máš něco v inventáři.",
 	you_are_not_in_a_squad = "~r~Nejsi v žádné squadě.",
 	already_in_a_crew = "Už jsi v nějaké crew.",
-	
+
 	poll11_q1 = "Měli bychom opravit rychlé přebíjení homingu/rpg (glitch)?",
 	poll11_q2 = "Měli bychom banovat/opravit deluxo trick (stání na deluxu a střílení z něj)?",
 	loot_crate_christmas = "Christmas Loot Crate",
