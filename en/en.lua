@@ -1272,6 +1272,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	bet_player_x_won_x = "~g~%s ~w~won ~g~$%s~w~.",
 	bet_player_x_lost_x = "~r~%s ~w~lost ~r~$%s~w~.",
+
+	cloth_warning_game_build = "~r~You are playing on a server using a outdated game build. It is possible some cloth may be invisible.",
+	back_accessory = "Extra accessory item",
+	armor_item = "Armor item",
+	citizen_modified = "You are playing with modified game files. Make sure your FiveM/GTA 5 installation is not modified to include custom weapon components. (Citizen folder/other game files)",
+	grayzone_warning = "💀 ~r~Be careful all players are hostile outside the safezones.",
 }
 
 AddLanguage("en", my_language)
