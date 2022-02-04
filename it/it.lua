@@ -856,7 +856,7 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 
 	-- Darkzone stuff
 	contaminated = "contaminated",
-	darkzone_boat_leaving_in = "Boat leaving in",
+	darkzone_boat_leaving_in = "Exit leaving in",
 	darkzone_exit = "Exit spot",
 	purificator = "Purificator",
 	you_entered_the_darkzone = "~r~Sei entrato nella DarkZone.",
