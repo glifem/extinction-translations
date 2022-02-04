@@ -10,5 +10,21 @@
 	"price-history": "Historique des prix",
 	"view-graph": "View graph",
 	"delete-all-sell-offers": "Supprimer toutes les offres de vente",
-	"market-offers": "Offres du marché"
+	"market-offers": "Offres du marché",
+	"type": "Type",
+	"price": "Prix",
+	"quantity": "Quantité",
+	"action": "Action",
+	"all-marketplace-offers": "Toutes les offres du marché",
+	"all-offers-for-this-item": "Toutes les offres pour cet article",
+	"seller": "Vendeur",
+	"ammo": "Munition",
+	"no-offer-selected": "Aucune offre sélectionnée",
+	"similar-offers": "Offres similaires",
+	"create-offer-subtitle": "Créer une nouvelle offre sur le marché",
+	"my-offers-subtitle": "Offres actives sur le marché",
+	"items-inventory": "Items dans votre inventaire",
+	"no-offer-for-item": "Aucune offre pour cet item",
+	"no-items-inventory": "Aucun item dans votre inventaire",
+	"no-offers": "Aucune offre"
 }
