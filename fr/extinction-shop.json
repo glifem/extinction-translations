@@ -2,5 +2,10 @@
 	"special_offer": "Offre spéciale",
 	"basket_value": "Montant du panier",
 	"sell_everything_inventory": "Ventre tout votre inventaire",
-	"buy_everything": "Tout acheter"
+	"buy_everything": "Tout acheter",
+	"shop-content": "Contenu du magasin",
+	"basket-content": "Contenu du panier",
+	"shopping-cart": "Panier",
+	"cart-empty": "Votre panier est vide.",
+	"balance": "Solde: {{amount}}"
 }

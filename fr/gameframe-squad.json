@@ -1,0 +1,22 @@
+{
+	"my-squad": "Mon escouade",
+	"find": "Rechercher",
+	"create-my-squad": "Créer mon escouade",
+	"not-in-any-squad": "Vous ne faites partie d'aucune escouade!",
+	"private_desc": "Définissez votre escouade sur invitation uniquement",
+	"private": "Privée",
+	"join-a-public-squad": "Rejoindre une escouade publique",
+	"full": "Complète",
+	"join": "Rejoindre",
+	"Members": "Membres",
+	"kick": "Exclure",
+	"leave": "Quitter",
+	"add": "Ajouter",
+	"you": "Vous",
+	"delete": "Supprimer",
+	"delete_desc": "Supprimer votre escouade",
+	"public-squads": "Escouades publiques",
+	"squad-of-x": "Escouade de {{name}}",
+	"squad-desc-x": "{{amount}}/{{limit}} membres",
+	"settings": "options"
+}

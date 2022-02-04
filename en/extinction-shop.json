@@ -6,5 +6,6 @@
 	"shop-content": "Shop content",
 	"basket-content": "Basket content",
 	"shopping-cart": "Shopping cart",
-	"cart-empty": "Your cart is empty."
+	"cart-empty": "Your cart is empty.",
+	"balance": "Balance: {{amount}}"
 }
