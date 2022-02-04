@@ -425,16 +425,6 @@ local my_language = {
     server_booster_activated = "~b~%s~w~ ativou um boost ao servidor por ~g~%s minutos~z~! ~b~XP +%s%%",
     crew_booster_activated = "~b~%s~w~ ativou um boost de crew por ~g~%s minutos~z~! ~b~XP +%s%%",
     no_booster = "Não possuis nenhum boost.",
-    
-    dungeon_cooldown_between = "Aguarda ~r~%s minutos~w~ antes de começares outra dungeon.",
-	set_as_default = "Define um preset para o teu veículo",
-	car_custom_presets_saved = "O teu preset para ~g~%s~w~ foi guardado.",
-    marketplace_you_received_x_x = "Recebeste ~b~%sx ~g~%s~w~.",
-
-	above_level_x_no_longer_possible_loot_safe = "Jogadores acima do rank %s não podem lotear zombies dentro de zonas seguras.",
-	preferred_component_desc = "Este será o teu preset para todas as %s que segurares.",
-	set_as_preferred_component_class = "Definir preset para arma",
-	weapon_presets_updated = "Guardaste o preset para ~g~%s~w~.",
  
     rank_expired = "~r~O teu rank expirou.",
     supporter_role = "~g~Rank:~w~ %s",
@@ -554,6 +544,7 @@ local my_language = {
     repair_tool = "Kit de Reparação",
     jvn = "JVN",
     engine_veh = "Motor",
+	bag = "Sac",
     wheel_veh = "Roda",
     vetement = "Roupas",
     bloc_note = "Bloco de notas",
@@ -602,6 +593,7 @@ local my_language = {
  
     weapon_katana = "Katana",
     weapon_sledgehammer = "Martelo",
+
     -- new
     airdrop_coming = "~r~O airdrop está a caminho, verifica o teu mapa.",
     killed_by_cheater = "~r~Morreste para um cheater.\n~w~O jogador foi banido e a tua morte foi cancelada.",
@@ -638,6 +630,20 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
     new_prestige_stats_upgrade = "Melhoraste o teu ~b~%s~w~\n~g~%s/%s",
  
     legendary_vehicle_pop = "~r~Um veículo lendário apareceu no mapa.",
+
+	-- poll one
+	poll1_q1 = "What kind of game server would you like to see?",
+
+	poll1_q1_a1 = "Battle Royale",
+	poll1_q1_a2 = "Private missions solo or with 1-4 friends (Payday / Heist / Hitman like)",
+	poll1_q1_a3 = "Race / Freeroam",
+	poll1_q1_a4 = "Murder / Horror game",
+
+	-- poll two
+	poll2_q1 = "Are you an English speaker and would you be interested in a GLife RP Server?",
+
+	poll2_q1_a1 = "No",
+	poll2_q1_a2 = "Yes",
  
     combat_mode_container_disabled = "~r~Estás em combate.\n~w~Impossível guardar items.",
     gcoins_wallet_updated = "~g~A tua carteira de GCoins foi atualizada.\n~w~+%s GCoins",
@@ -665,19 +671,7 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
  
     preferred_badge_set = "Definiste o teu  ~g~emblema preferido~w~.",
     preferred_badge_not_set = "~r~Impossível definir emblema.",
- 
-    marketplace_received_money_sales = "Recebeste ~g~$%s~w~ de ~b~%s~w~ venda(s).",
-    marketplace_no_sales = "~r~Não vendeste nada.",
-    marketplace_you_paid_for = "Pagaste ~g~$%s~w~ por ~b~%s~w~.",
- 
-    deleted_sell_offer = "~b~Apagaste a tua oferta de venda.",
-    deleted_buy_offer = "~b~Apagaste a tua oferta de venda.",
- 
-    marketplace_offer_does_not_exist = "~r~Esta oferta já não existe.",
- 
-    marketplace_create_sell_offer = "Criaste uma oferta de venda de ~b~%sx %s ~w~por ~g~$%s~w~ por unidade.",
-    marketplace_create_buy_offer = "Criaste uma oferta de compra de ~b~%sx %s ~w~por ~g~$%s~w~ por unidade.",
- 
+
     i_want_to_enter_in_my_property = "Quero entrar na minha propriedade.",
     i_want_to_exit_private_world = "Quero voltar ao mundo público.",
     public_world = "Mundo Público",
@@ -739,48 +733,6 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
     ff_19 = "Chin hole",
     ff_20 = "Neck thickness",
  
-    	-- Darkzone stuff
-	contaminated = "contaminado",
-	darkzone_boat_leaving_in = "Barcos a sairem em",
-	darkzone_exit = "Sair do spot",
-	purificator = "Purificador",
-	you_entered_the_darkzone = "~r~Entraste na darkzone.\n~w~Estão ~b~%s jogadores~w~ dentro.",
-	you_left_the_darkzone = "~r~Saiste da darkzone.",
-	cannot_enter_darkzone_time = "~r~A darkzone ainda não está aberta, aguarda.",
-	darkzone_is_full = "~r~A darkzone está cheia, por favor aguarda.",
-	darkzone_exit_allowed = "~r~Os barcos de saída chegaram, corre se quiseres escapar.",
-	darkzone_close_time = "A fechar em",
-	darkzone_surviving_since = "Sobrevivente à",
-	darkzone_points = "Pontos",
-	darkzone_points_x = "~r~Pontos darkzone: ~w~+%s",
-	darkzone_landing_in_x = "Abertura em ~b~%s minutos~w~.\nSe houver jogadores suficientes.",
-	darkzone_open_press_context = "A darkzone está aberta~w~.\nPressiona ~INPUT_CONTEXT~ para entrares ~m~na darkzone~w~.",
-	darkzone_outside_warning = "~r~Estás fora da darkzone, volta ou irás morrer.",
-	darkzone_close_warning = "~r~A darkzone vai fechar brevemente~w~.\nNão deves ficar muito mais tempo.",
-	darkzone_close_damage = "Darkzone fechada, toda a zona está contaminada.",
-	darkzone_not_enough_points_to_exit = "Precisas de ~r~%sx pontos~w~ para sair da darkzone.",
-	press_e_to_exit_the_darkzone = "Pressiona ~INPUT_CONTEXT~ para sair da darkzone.\n~r~Precisas de x%s pontos da darkzone.",
-	use_purificator = "usar purificador",
-	darkzone_not_enough_points_to_start_purificator = "Precisas de ~r~%sx pontos~w~ para começares a purificar.",
-	darkzone_not_enough_points_to_refill_purificator = "Precisas de ~r~%sx pontos~w~ para encher o purificador.",
-	darkzone_too_far_from_purificator = "~r~Estás longe do purificador.",
-	darkzone_cant_remove_while_running_purificator = "~r~Não podes remover nada enquanto o purificador estiver a trabalhar.",
-	darkzone_purificator_running = "~r~Não podes colocar nada enquanto o purificador estiver a trabalhar.",
-	darkzone_purificator_running_refill = "~r~Não podes encher o purificador enquanto estiver a trabalhar..",
-	darkzone_put_x_in_purificator = "Colocaste ~r~%s~w~ no purificador.",
-	darkzone_you_took_x_from_purificator = "Retiraste ~r~%s~w~ do purificador.",
-	darkzone_purificator_does_not_need_refill = "Não precisas de ~r~encher este purificador~w~.",
-	darkzone_refilled_purificator_x = "Usaste ~r~x%s pontos~w~ para encher o purificador.",
-	darkzone_open = "A darkzone está aberta.\n~r~Encontra um transportador numa zona segura.",
-	darkzone_item_clean = "Este item já está descontaminado.\n~r~Só podes colocar items contaminados.",
-    
-    exit_the_darkzone = "Sair da darkzone",
-    you_entered_the_darkzone = "~r~Entraste na darkzone.",
-    you_left_the_darkzone = "~r~Saiste da darkzone.",
-    cannot_enter_darkzone_time = "~r~A darkzone ainda não está aberta, aguarda.",
-    darkzone_is_full = "~r~A darkzone está cheia, aguarda.",
-    darkzone_exit_allowed = "~r~Os barcos chegaram para abandonares a darkzone, corre para escapares.",
- 
     airdrop_taken_by = "^1%s apanhou %s do airdrop.",
  
     available_death_effects = "Efeitos de morte disponíveis",
@@ -788,6 +740,25 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
  
     you_changed_your_ped_model = "~g~Alteraste o modelo do teu ped com sucesso.",
     i_want_to_change_my_ped = "Quero mudar o meu ped",
+
+	poll4_q1 = "What do you expect from the next season?",
+	poll4_q1_a4 = "New world event like airdrops, zone capture etc.",
+	poll4_q1_a1 = "More PvE content like dungeons",
+	poll4_q1_a2 = "More games like casino / races",
+	poll4_q1_a3 = "PvP content",
+
+	poll4_q2 = "Would you like to have more ranked/tournament modes?",
+	poll4_q2_a1 = "Yes",
+	poll4_q2_a2 = "No",
+
+	poll4_q3 = "Would you like to have snipers in shops?",
+	poll4_q3_a1 = "Yes",
+	poll4_q3_a2 = "No",
+
+	poll4_q4 = "What do you enjoy the most on Extinction?",
+	poll4_q4_a1 = "PvP",
+	poll4_q4_a2 = "PvE",
+	poll4_q4_a3 = "Trading",
  
     dungeon_no_more_time = "~r~Foste muito lento. A dungeon fechou.",
     dungeon_participant_left = "~r~%s saiu da dungeon.",
@@ -820,8 +791,103 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
     feature_only_supporters = "~b~Este recurso está em beta-testing e apenas Diamond/Gold podem usar.",
     feature_not_enabled = "~b~Este recurso está em beta-testing.\n~w~Por favor aguarda até amanhã.",
     dungeon_charid_required = "~r~Por favor inclui o ID de personagem do teu amigo (canto superior esquerdo do ecrã dele) depois do comando.\nExemplo: /dungeon invite 1234",
- 
-    remaining_lives = "Vidas restantes",
+
+    poll5_q1 = "Would you accept that our anticheat captures cheaters's entire screen if they're suspected of wallhack or aimbots? (It may shows a part of your desktop if the game is in windowed mode but these captures will not be saved and only used by reliable moderators)",
+    poll5_q1_a1 = "skip - ignore",
+    poll5_q1_a2 = "Yes, I agree to this new method",
+    poll5_q1_a3 = "No, I disagree",
+	
+	-- S4
+	redzone_kill_leader_killed = "The ~r~redzone kill leader~w~ was killed.",
+	redzone_kill_leader_fled = "The ~r~redzone kill leader~w~ fled.",
+	redzone_get_back_kill_leader_before_x = "You are ~r~outside the redzone~w~ get back or you will loose your title in ~r~%s seconds~w~.",
+	redzone_kill_leader_new_xp_step = "~r~Redzone XP Multiplier\n~b~+%s%~w~ bonus",
+	remaining_lives = "Remaining lives",
+
+	name_tag = "Crew tag",
+	redzone_changed = "~r~Red zones moved to a new position.",
+
+	-- Squad
+	squad_not_leader = "~r~You are not the leader of your squad.",
+	squad_kicked_by_x = "You have been ~r~kicked~w~ from your squad by ~r~%s~w~.",
+	squad_you_kicked_x = "You kicked ~r~%s~w~ from your squad.",
+	squad_invited_x = "You invited ~r~%s~w~ to your squad.",
+	squad_invited_you_x = "~r~%s~w~ invited you to its squad.\nType ~r~/squad join %s~w~ to join the squad.",
+	squad_you_set_new_leader = "You set ~r~%s~w~ as the new ~r~leader~w~ of the squad.",
+	squad_you_are_new_leader = "~g~You are the new leader of the squad.",
+	squad_not_invited = "~r~You have not been invited to the squad.",
+	squad_joined_squad = "~g~You joined the squad.",
+	squad_left = "~r~You left the squad.",
+	squad_already_in = "~r~You are already in a squad.",
+	squad_created_x = "You created a new squad. ~b~(%s)",
+	squad_x_joined = "~b~%s~w~ joined the squad.",
+	squad_leader_deleted = "~r~The leader deleted the squad.",
+	write_yes_to_confirm = "Type yes to confirm",
+	invite_a_player_write_char_id = "Invite a player. Type its character id",
+
+	-- Help stuff
+	press_enter_beginner_guide = "Press ~INPUT_ENTER~ to start the beginner guide.",
+	welcome_glife = "Welcome on ~g~GLife~w~!",
+	you_are_playing_server_x_with_x = "You are playing on server ~b~#%s~w~ with ~b~%s players~w~.",
+	start_beginner_guide = "Start the beginner guide",
+	play_now = "~g~Play now!",
+	interact_npc_fast_travel = "Interact with the fast travel NPC",
+
+	-- Tutorial
+	tutorial_beginner_end_msg = "~r~Thank you for your time!\n~w~Have fun playing Extinction, if you have any question use the chat or find us on discord.",
+	tutorial_beginner_start_msg = "~r~Welcome on GLife Extinction!\n~w~This short guide aims to explain how to begin on this gamemode.",
+	tutorial_beginner_camera_01 = "~r~~BLIP_557~ ~r~Main safezone\n~w~This is a safe area where you can shop and store items, but also personalize your equipment and trade with other players.",
+	tutorial_beginner_camera_02 = "~BLIP_568~ ~r~Storage chests\n~w~Here you can access your private storage and store your precious items.",
+	tutorial_beginner_camera_03 = "~BLIP_567~~BLIP_556~~BLIP_658~ ~r~NPC Shops\n~w~You can buy and sell your items in many shops like the weapon, vehicle or equipment dealer.",
+	tutorial_beginner_camera_04 = "~BLIP_84~ ~r~Public bounties\n~w~If you manage to find and kill the target, you will get the associated reward.",
+	tutorial_beginner_camera_05 = "~BLIP_176~ ~r~Hostile world\n~w~You will meet zombies and hostile players. They will all want to get you killed, but they are the best way to get XP and great loot.",
+	tutorial_beginner_camera_06 = "~BLIP_303~ ~r~World redzones\n~w~There you can find better loot and earn more experiences from your kills.",
+	tutorial_beginner_camera_07 = "~BLIP_648~ ~r~Darkzone Island\n~w~Here you cannot save items nor flee easily, but it is the best place to find high-tier loot like MK2 weapons or snipers.",
+	tutorial_beginner_camera_08 = "~BLIP_575~ ~r~Loot and exploration opportunities\n~w~You can fight for airdrop crates but also explore and beat dungeon boss.",
+	tutorial_beginner_training_01 = "~g~You joined the training room.\n~w~Jump with ~INPUT_JUMP~ when you are ready.",
+	tutorial_beginner_training_02 = "~g~Let's use the inventory.\n~w~Press ~%s~ to open your inventory.",
+	tutorial_beginner_training_03 = "~g~Equip a weapon.\n~w~Open the inventory and drag a weapon in the shortcut bar.\nPress the corresponding key ~b~1/2/3/4/5/6/7~w~.\n~r~If you do not have any weapon use ~b~/kit newbie.",
+	tutorial_beginner_training_04 = "~g~Fill your weapon ammo.\n~w~Equip a gun and put a box of ammo in your shortcut bar. Then press the shortcut key.",
+	tutorial_beginner_training_05 = "~g~Finally vehicles.\n~w~You can spawn vehicles just like you equip a weapon. Once spawned, you can store it with ~%s~ while driving it. Press the key to confirm.",
+	tutorial_beginner_training_success_01 = "~g~Great job, we can begin now!",
+	tutorial_beginner_training_success_02 = "~g~Nice, you got it.\n~w~It is the same process to use all items.",
+	tutorial_beginner_training_success_03 = "~g~Nice, you got it.\n~w~It is the same process to use all items.",
+	tutorial_beginner_training_success_04 = "~g~Nice, you got it.\n~w~We are done now.",
+
+    -- Darkzone stuff
+    contaminated = "contaminado",
+    darkzone_boat_leaving_in = "Barcos a sairem em",
+    darkzone_exit = "Sair do spot",
+    purificator = "Purificador",
+    you_entered_the_darkzone = "~r~Entraste na darkzone.\n~w~Estão ~b~%s jogadores~w~ dentro.",
+    you_left_the_darkzone = "~r~Saiste da darkzone.",
+    cannot_enter_darkzone_time = "~r~A darkzone ainda não está aberta, aguarda.",
+    darkzone_is_full = "~r~A darkzone está cheia, por favor aguarda.",
+    darkzone_exit_allowed = "~r~Os barcos de saída chegaram, corre se quiseres escapar.",
+    darkzone_close_time = "A fechar em",
+    darkzone_surviving_since = "Sobrevivente à",
+    darkzone_points = "Pontos",
+    darkzone_points_x = "~r~Pontos darkzone: ~w~+%s",
+    darkzone_landing_in_x = "Abertura em ~b~%s minutos~w~.\nSe houver jogadores suficientes.",
+    darkzone_open_press_context = "A darkzone está aberta~w~.\nPressiona ~INPUT_CONTEXT~ para entrares ~m~na darkzone~w~.",
+    darkzone_outside_warning = "~r~Estás fora da darkzone, volta ou irás morrer.",
+    darkzone_close_warning = "~r~A darkzone vai fechar brevemente~w~.\nNão deves ficar muito mais tempo.",
+    darkzone_close_damage = "Darkzone fechada, toda a zona está contaminada.",
+    darkzone_not_enough_points_to_exit = "Precisas de ~r~%sx pontos~w~ para sair da darkzone.",
+    press_e_to_exit_the_darkzone = "Pressiona ~INPUT_CONTEXT~ para sair da darkzone.\n~r~Precisas de x%s pontos da darkzone.",
+    use_purificator = "usar purificador",
+    darkzone_not_enough_points_to_start_purificator = "Precisas de ~r~%sx pontos~w~ para começares a purificar.",
+    darkzone_not_enough_points_to_refill_purificator = "Precisas de ~r~%sx pontos~w~ para encher o purificador.",
+    darkzone_too_far_from_purificator = "~r~Estás longe do purificador.",
+    darkzone_cant_remove_while_running_purificator = "~r~Não podes remover nada enquanto o purificador estiver a trabalhar.",
+    darkzone_purificator_running = "~r~Não podes colocar nada enquanto o purificador estiver a trabalhar.",
+    darkzone_purificator_running_refill = "~r~Não podes encher o purificador enquanto estiver a trabalhar..",
+    darkzone_put_x_in_purificator = "Colocaste ~r~%s~w~ no purificador.",
+    darkzone_you_took_x_from_purificator = "Retiraste ~r~%s~w~ do purificador.",
+    darkzone_purificator_does_not_need_refill = "Não precisas de ~r~encher este purificador~w~.",
+    darkzone_refilled_purificator_x = "Usaste ~r~x%s pontos~w~ para encher o purificador.",
+    darkzone_open = "A darkzone está aberta.\n~r~Encontra um transportador numa zona segura.",
+    darkzone_item_clean = "Este item já está descontaminado.\n~r~Só podes colocar items contaminados.",
 }
  
 AddLanguage("pt", my_language)

@@ -1,5 +1,3 @@
---SIMPLIFIED CHINESE TRANSLATION BY TITANSIX (Josh B.) for EXTINCTION FIVEM MODIFICATION. ANY UNAUTHORIZED USE IS DISALLOWED. DO NOT REMOVE THIS TAG.
-
 local my_language = {
 	give_vehicle = "您添加~b~%s~w~到您的库存",
 	store_vehicle_command = "将车辆存放",
@@ -53,7 +51,6 @@ local my_language = {
 
 	-- perms
 	kick_member = "删除成员",
-	invite_someone = "请帖",
 	edit_member = "编辑成员",
 	edit_rank = "编辑等级",
 	create_rank = "创造等级",
@@ -505,6 +502,9 @@ local my_language = {
 	["calibre_12"] = "Calibre 12",
 	["45_acp"] = ".45 ACP",
 	["5_56mm"] = "5.56mm",
+	rocket = "Rocket",
+	flare = "Flare",
+	grenade = "Grenade Ammo",
 	-- Food
 	["fish_1"] = "大嘴鲈鱼",
 	["fish_2"] = "虹鳟鱼",
@@ -544,6 +544,7 @@ local my_language = {
 	repair_tool = "修理包",
 	jvn = "JVN",
 	engine_veh = "发动机",
+	bag = "Sac",
 	wheel_veh = "轮",
 	vetement = "服装",
 	bloc_note = "记事本",
@@ -554,8 +555,10 @@ local my_language = {
 	gaz_mask = "防毒面具",
 	filter = "过滤",
 	tattoo_tool = "纹身工具",
-	drug_med = "药品",
-	antizin = "抗僵尸药物",
+	drug_med = "Drug",
+	drug_antizin = "Antizin shot",
+	drug_stamina = "Stamina shot",
+	drug_berserker = "Health shot",
 
 	pickup_spikestrip = "捡起尖刺",
 	you_dropped_spikestrip = "你掉了 ~g~尖刺~w~.",
@@ -565,6 +568,7 @@ local my_language = {
 	kill_notif = "~m~被杀",
 	you_killed = "你杀了 ~r~%s~w~",
 	already_used_reset_only = "~r~您已经重置了角色.\n~w~只有 %s~w~ 会员可以重置自己的性格不止一次.",
+	already_used_reset_only2 = "~r~You already did that.\n~w~Only %s~w~ members can do that more than one time.",
 
 	hud_options = "HUD选项",
 	advanced_hud = "显示高级HUD",
@@ -586,6 +590,9 @@ local my_language = {
 	skin_gold = "金色",
 	skin_blue = "蓝色",
 	skin_orange = "橙色",
+
+	weapon_katana = "Katana",
+	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
 	airdrop_coming = "~r~一个是空投到达，看看你的地图.",

@@ -672,20 +672,6 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	preferred_badge_set = "You have set your ~g~preferred badge~w~.",
 	preferred_badge_not_set = "~r~Unable to set your preferred badge.",
 
-	marketplace_received_money_sales = "You received ~g~$%s~w~ from ~b~%s~w~ sale(s).",
-	marketplace_no_sales = "~r~You have not sold anything.",
-	marketplace_you_paid_for = "You paid ~g~$%s~w~ for ~b~%s~w~.",
-
-	deleted_sell_offer = "~b~You deleted your sell offer.",
-	deleted_buy_offer = "~b~You deleted your sell offer.",
-	deleted_sell_offers = "~b~You deleted your sell offers.",
-	deleted_buy_offers = "~b~You deleted your sell offers.",
-
-	marketplace_offer_does_not_exist = "~r~This offer does not exist.",
-
-	marketplace_create_sell_offer = "You created a sell offer for ~b~%sx %s ~w~for ~g~$%s~w~ per unit.",
-	marketplace_create_buy_offer = "You created a buy offer for ~b~%sx %s ~w~for ~g~$%s~w~ per unit.",
-
 	i_want_to_enter_in_my_property = "I want to enter in my property.",
 	i_want_to_exit_private_world = "I want to return in the public world.",
 	public_world = "Public World",
@@ -906,7 +892,6 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	dungeon_cooldown_between = "Please wait ~r~%s minutes~w~ before starting a dungeon again.",
 	set_as_default = "Set as default custom for vehicle model",
 	car_custom_presets_saved = "Your customization presets for ~g~%s~w~ have been saved.",
-	marketplace_you_received_x_x = "You received ~b~%sx ~g~%s~w~.",
 
 	above_level_x_no_longer_possible_loot_safe = "Player above rank %s cannot loot zombies in safezones.",
 	preferred_component_desc = "This set will be the default set of all %s weapon you hold.",
@@ -943,7 +928,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	loot_crate_light = "Light Loot Crate",
 	loot_crate_medium = "Medium Loot Crate",
 	loot_crate_high = "High Loot Crate",
-	
+
 	dailymission_killzombieinzoneid = "Zombies killed in the zone",
 	dailymission_dungeonbosskilled = "Dungeon boss killed",
 

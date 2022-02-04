@@ -613,6 +613,7 @@ local my_language = {
     max_prestige_reached = "~r~Du har opnået det sidste prestige.",
     prestige_info_cmd = [[^3Prestige leveling system^7
 Du er på nuværende tidspunkt prestige ^4%s^7 og level ^5%s^7.
+
 Hivs du har opnået det maksimale level (%s) kan du vælge imellem prestige og nulstille din XP udvikling og start fra level 0.
 At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre loot, nye genstande, flere penge eller mere inventar plads.
 ^2Hvis du ville prestige og vende tilbage til level 0 tast ^1/setprestige^2
@@ -670,20 +671,6 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
 
     preferred_badge_set = "Du har sat dit ~g~foretrukkende emblem~w~.",
     preferred_badge_not_set = "~r~Mislykkeds at sætte dit foretrukkende emblem.",
-
-    marketplace_received_money_sales = "Du har modtaget ~g~$%s~w~ fra ~b~%s~w~ salg.",
-    marketplace_no_sales = "~r~Du har ikke solgt noget.",
-    marketplace_you_paid_for = "Du betalte ~g~$%s~w~ for ~b~%s~w~.",
-
-    deleted_sell_offer = "~b~Du har slettet dine markedssalg.",
-    deleted_buy_offer = "~b~Du har slettet dine markedssalg.",
-    deleted_sell_offers = "~b~Du har slettet dine markedssalg.",
-    deleted_buy_offers = "~b~Du har slettet dine markedssalg.",
-
-    marketplace_offer_does_not_exist = "~r~Dette tilbud eksisterer ikke.",
-
-    marketplace_create_sell_offer = "Du har oprettet et salg for ~b~%sx %s ~w~for ~g~$%s~w~ per enhed.",
-    marketplace_create_buy_offer = "Du har oprettet et købssalg for ~b~%sx %s ~w~for ~g~$%s~w~ per enhed.",
 
     i_want_to_enter_in_my_property = "Jeg ville gerne tilgå min ejendom.",
     i_want_to_exit_private_world = "Jeg ville gerne vende tilbage til den offentlige verden.",
@@ -905,7 +892,6 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
     dungeon_cooldown_between = "Vent venligst ~r~%s minutter~w~ før du starter en dungeon igen.",
     set_as_default = "Set as default custom for vehicle model",
     car_custom_presets_saved = "Your customization presets for ~g~%s~w~ have been saved.",
-    marketplace_you_received_x_x = "You received ~b~%sx ~g~%s~w~.",
 
     above_level_x_no_longer_possible_loot_safe = "Player above rank %s cannot loot zombies in safezones.",
     preferred_component_desc = "This set will be the default set of all %s weapon you hold.",
