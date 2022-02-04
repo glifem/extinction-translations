@@ -1265,8 +1265,22 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	full_for_item_ui = "Il n'y a pas ^0assez de place^7 pour cet item.",
 	no_enough_money_ui = "Vous n'avez ^0pas assez d'argent^7.",
 
+	gpoints_shop = "Boutique GLife Points",
+	no_enough_glife_points = "~r~Vous n'avez pas assez de points GLife.",
+	you_paid_basket_gpoints = "Vous avez payé ~r~%s Points GLife~w~ pour votre panier.",
+	glife_points_balance_x = "Points GLife: ~r~%s",
+
 	bet_player_x_won_x = "~g~%s ~w~a gagné ~g~$%s~w~.",
 	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",
+
+	cloth_warning_game_build = "~r~Vous jouez sur un serveur utilisant une version obsolète du jeu. Il est possible que certains vêtements soient invisibles.",
+	back_accessory = "Accessoire supplémentaire",
+	armor_item = "Pièce d'armure",
+	citizen_modified = "Vous jouez avec des fichiers de jeu modifiés. Assurez-vous que votre installation FiveM/GTA 5 n'a pas été modifiée pour inclure des composants d'armes personnalisés. (Dossier citizen/autres fichiers)",
+	grayzone_warning = "💀 ~r~Attention, tous les joueurs sont hostiles en dehors des safezones.",
+
+	redzone_votemap = "Tapez ~r~/redzone_vote~w~ pour voter pour la prochaine ~r~map redzone~w~.",
+	darkzone_votemap = "La ~b~darkzone~w~ ouvrira bientôt, tapez ~b~/darkzone_vote~w~ pour voter pour la prochaine ~b~map darkzone~w~.",
 }
 
 AddLanguage("fr", my_language)

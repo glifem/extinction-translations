@@ -1278,6 +1278,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	armor_item = "Armor item",
 	citizen_modified = "You are playing with modified game files. Make sure your FiveM/GTA 5 installation is not modified to include custom weapon components. (Citizen folder/other game files)",
 	grayzone_warning = "💀 ~r~Be careful all players are hostile outside the safezones.",
+
+	redzone_votemap = "Type ~r~/redzone_vote~w~ to vote for the next ~r~redzone map~w~.",
+	darkzone_votemap = "The ~b~darkzone~w~ will open soon, type ~b~/darkzone_vote~w~ to vote for the next ~b~darkzone map~w~.",
 }
 
 AddLanguage("en", my_language)
