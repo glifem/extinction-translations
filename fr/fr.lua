@@ -856,7 +856,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	-- Darkzone stuff
 	contaminated = "contaminé",
-	darkzone_boat_leaving_in = "Départ des bateaux",
+	darkzone_boat_leaving_in = "Départ de la darkzone",
 	darkzone_exit = "Spot de sortie",
 	purificator = "Purificateur",
 	you_entered_the_darkzone = "~r~Vous êtes entré dans la darkzone.\n~w~Il y a actuellement ~b~%s joueurs~w~ à l'intérieur.",
@@ -1190,7 +1190,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	leave_the_table = "quitter la table",
 	dealer_hand = "Croupier",
 	split_hand = "Split hand",
-	hand = "Hand",
+	hand = "Votre main",
 	stand = "Stand",
 	hit = "Hit",
 	double_down = "Double down",
@@ -1226,23 +1226,14 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	game_already_started = "~r~La partie est déjà lancée.",
 	party_not_started = "~r~Vous n'avez pas lancé la partie.",
 	not_enough_participants = "~r~Il n'y a pas suffisamment de participants.",
-	success_x_chips = "~g~Victoire!~w~ Vous avez gagné ~b~%s~w~ jetons",
-	you_won_but_no_bet = "~r~Vous avez gagné mais votre mise est introuvable.",
 	you_lost = "~r~Vous avez perdu!",
-	casino_total_gain_loss = "Total des pertes: ~g~%s~w~ jetons.\n~w~Total des gains: ~g~%s~w~ jetons.",
-	refund_chips = "Vous avez été remboursé de ~g~%s jetons~w~.",
 	max_participants_game_4casino = "~r~Il y a déjà 4 participants.",
-	trade_chips_for_x = "Vous avez échangé ~g~$%s~w~ contre ~g~%s jetons~w~.",
-	you_traded_chips_for_x = "Vous avez échangé ~g~%s jetons~w~ contre ~g~$%s~w~.",
-	left_table_refund = "Vous avez quitté la table et récupéré vos ~b~%s jetons~w~.",
-	roulette_num_chips = "Numéro: ~b~%s\n~g~+%s jetons",
+	roulette_num_chips = "Numéro: ~b~%s\n~g~+$%s",
 	roulette_num_lost = "Numéro: ~b~%s\n~r~Rien gagné.",
 	casino_x_joined_game = "~g~%s~w~ a rejoint la partie.",
 	cannot_bet_now = "~r~Vous ne pouvez pas miser maintenant, patientez.",
 	spectators_cannot_bet = "~r~Les spectateurs ne peuvent pas miser",
-	not_enough_chips = "~r~Vous n'avez pas suffisamment de jetons.",
-	bet_validated_x = "Votre mise de ~g~%s jetons~w~ a été validée. (%s)",
-	x_bet_x_game = "~g~%s~w~ a misé ~g~%s~w~ jetons. (%s)",
+	bet_validated_x = "Votre mise de ~g~$%s~w~ a été validée. (%s)",
 
 	join_br = "Rejoindre Battle Royale",
 	new_game_starting_x_press_x_join_soon = "Une nouvelle partie commence bientôt, pour être téléporté dans le lobby automatiquement avant le début du jeu ~y~appuyez sur X~w~.",
@@ -1265,8 +1256,33 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	full_for_item_ui = "Il n'y a pas ^0assez de place^7 pour cet item.",
 	no_enough_money_ui = "Vous n'avez ^0pas assez d'argent^7.",
 
+	gpoints_shop = "Boutique GLife Points",
+	no_enough_glife_points = "~r~Vous n'avez pas assez de points GLife.",
+	you_paid_basket_gpoints = "Vous avez payé ~r~%s Points GLife~w~ pour votre panier.",
+	glife_points_balance_x = "Points GLife: ~r~%s",
+
 	bet_player_x_won_x = "~g~%s ~w~a gagné ~g~$%s~w~.",
 	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",
+
+	cloth_warning_game_build = "~r~Vous jouez sur un serveur utilisant une version obsolète du jeu. Il est possible que certains vêtements soient invisibles.",
+	back_accessory = "Accessoire supplémentaire",
+	armor_item = "Pièce d'armure",
+	citizen_modified = "Vous jouez avec des fichiers de jeu modifiés. Assurez-vous que votre installation FiveM/GTA 5 n'a pas été modifiée pour inclure des composants d'armes personnalisés. (Dossier citizen/autres fichiers)",
+	grayzone_warning = "💀 ~r~Attention, tous les joueurs sont hostiles en dehors des safezones.",
+
+	redzone_votemap = "Tapez ~r~/redzone_vote~w~ pour voter pour la prochaine ~r~map redzone~w~.",
+	darkzone_votemap = "La ~b~darkzone~w~ ouvrira bientôt, tapez ~b~/darkzone_vote~w~ pour voter pour la prochaine ~b~map darkzone~w~.",
+	darkzone_open_press_context2 = "Appuyez sur ~INPUT_CONTEXT~ pour atterir ~m~sur la darkzone~w~.\nMode: ~r~%s",
+	legacy_darkzone = "Hardcore Darkzone",
+	classic_darkzone = "Casual Darkzone",
+	darkzone_exit_allowed2 = "~r~Des véhicules sont arrivés pour sortir de la darkzone, courez si vous voulez vous échapper..",
+	max_slots = "Max slots",
+	crew_set_favorite_cloth = "Définir la tenue favorite",
+	crew_reset_favorite_cloth = "Réinitialiser la tenue favorite",
+	crew_favorite_cloth_desc = "Définit votre tenue comme le vêtement par défaut de tous les membres du crew ayant le même ped que vous.",
+	crew_favorite_cloth_deleted = "~r~Vous avez retiré la tenue préférée du crew.",
+	crew_favorite_cloth_added = "~r~Vous avez ajouté votre tenue comme tenue préférée du crew.",
+
 }
 
 AddLanguage("fr", my_language)
