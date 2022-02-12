@@ -13,5 +13,6 @@
     "kill_leader": "Kill leader",
     "dungeon_completed": "Dungeon completed",
     "gungame_kills": "Player kills",
-    "gungame_rank": "Game rank"
+    "gungame_rank": "Game rank",
+    "external-server": "External server"
 }
