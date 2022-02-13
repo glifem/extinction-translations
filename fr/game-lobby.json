@@ -13,5 +13,6 @@
     "kill_leader": "Kill leader",
     "dungeon_completed": "Donjon terminé",
     "gungame_kills": "Joueurs tués",
-    "gungame_rank": "Placement de jeu"
+    "gungame_rank": "Placement de jeu",
+    "external-server": "Serveur externe"
 }
