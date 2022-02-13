@@ -1283,6 +1283,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	crew_favorite_cloth_deleted = "~r~Vous avez retiré la tenue préférée du crew.",
 	crew_favorite_cloth_added = "~r~Vous avez ajouté votre tenue comme tenue préférée du crew.",
 
+	top_gungame = "Top Gungame",
+	top_ffa = "Top FFA",
 }
 
 AddLanguage("fr", my_language)

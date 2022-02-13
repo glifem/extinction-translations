@@ -1282,6 +1282,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	crew_favorite_cloth_desc = "Sets your outfit as the default outfit for all crew members with the same ped model as you.",
 	crew_favorite_cloth_deleted = "~r~You removed the crew favorite outfit",
 	crew_favorite_cloth_added = "~r~You added your outfit as the crew favorite outfit",
+
+	top_gungame = "Top Gungame",
+	top_ffa = "Top FFA",
 }
 
 AddLanguage("en", my_language)
