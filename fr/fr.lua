@@ -1285,6 +1285,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	top_gungame = "Top Gungame",
 	top_ffa = "Top FFA",
+
+	poll12_q1 = "Souhaitez-vous que l'arme M60 soit réintégrée dans le jeu ?",
+	poll12_q2 = "Voulez-vous que la méta guérison / 200 hp / système de bandage soit supprimée et que l'on rajoute les kevlars ?",
+	poll12_q3 = "Souhaitez-vous supprimer l'animation/temps pour spawn un véhicule ?",
 }
 
 AddLanguage("fr", my_language)

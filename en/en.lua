@@ -1285,6 +1285,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	top_gungame = "Top Gungame",
 	top_ffa = "Top FFA",
+
+	poll12_q1 = "Would you like M60 weapon to be added back in the game?",
+	poll12_q2 = "Would you like the healing meta / 200 hp / bandage system to be removed and add back kevlars?",
+	poll12_q3 = "Would you like to delete the cooldown when spawning a vehicle?",
 }
 
 AddLanguage("en", my_language)
