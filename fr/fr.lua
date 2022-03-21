@@ -1318,6 +1318,19 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	you_bring_back_flag_to_base = "Vous avez le drapeau ennemi, amenez-le à notre base !",
 	you_bring_back_our_flag_to_base = "Vous avez notre drapeau, ramenez-le à notre base !",
 	escrot_carrier_our_flag_to_base = "On a récupéré notre drapeau, escortez ~g~%s~s~ jusqu'à notre base.",
+	time_elapsed = "Temps écoulé",
+
+	squad_invite = "Vous avez été invité à rejoindre une escouade.",
+	squad = "Escouade",
+
+	crew_invite = "Vous avez été invité à rejoindre un crew.",
+	crew = "Crew",
+
+	trade_invite = "Vous avez été invité à faire un échange.",
+	trade = "Échange",
+
+	league_lobby_invite = "Vous avez été invité à rejoindre un lobby league.",
+	league_party = "Lobby League",
 }
 
 AddLanguage("fr", my_language)

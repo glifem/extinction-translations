@@ -1318,6 +1318,30 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	you_bring_back_flag_to_base = "You have the enemy flag, bring it to our base!",
 	you_bring_back_our_flag_to_base = "You got our flag, bring it back to our base!",
 	escrot_carrier_our_flag_to_base = "We got back our flag, escrot ~g~%s~w~ to our base.",
+	time_elapsed = "Time elapsed",
+
+	squad_invite = "You have been invited to join a squad.",
+	squad = "Squad",
+
+	crew_invite = "You have been invited to join a crew.",
+	crew = "Crew",
+
+	trade_invite = "You have been invited to make a trade.",
+	trade = "Trade",
+
+	league_lobby_invite = "You have been invited to join a league lobby.",
+	league_party = "League Lobby",
+	league_random_mode_summary = "A random mode will be selected once the game is ready to start.",
+	league_random_mode_title = "Random mode",
+	league_ban_mode_summary = "All teams will be able to ban a gamemode once the game is ready to start. Once all teams banned enough mode a random mode will be selected.",
+	league_ban_mode_ban_title = "Random / Ban mode",
+	league_random_map = "Random map",
+	league_ban_map = "Ban / Random map",
+	spectator = "Spectator",
+	hardpoint_summary = "Players are divided into different teams, a zone will appear on the map. The goal is to control the zone for the maximum amount of time. The team reaching the limit of points wins.",
+	hardpoint_title = "Hardpoint",
+	domination_summary = "Players are divided into different teams, there are multiple flags on the map. The goal is to control the maximum amount of flags and get as many points as possible. The team reaching the limit of points wins.",
+	domination_title = "Domination",
 }
 
 AddLanguage("en", my_language)
