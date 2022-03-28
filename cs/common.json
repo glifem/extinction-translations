@@ -3,5 +3,6 @@
 	"enter-your-message": "Zadej zprávu",
 	"delete": "Smazat",
 	"send": "Odeslat",
-	"search": "Hledat"
+	"search": "Hledat",
+    "sure-to-delete": "Seš si jistý, že to chceš smazat?"
 }

@@ -42,5 +42,6 @@
 	"description": "Description",
 	"confirm": "Confirmer",
 	"refresh": "Actualiser",
-	"surrender": "Abandonner"
+	"surrender": "Abandonner",
+    "sure-to-delete": "Vous êtes sûr de supprimer?"
 }
