@@ -43,5 +43,13 @@
 	"description": "Description",
 	"confirm": "Confirm",
 	"refresh": "Refresh",
-	"surrender": "Surrender"
+	"surrender": "Surrender",
+	"weapons": "Weapons",
+	"vehicles": "Vehicles",
+    "sure-to-delete": "Sure to delete?",
+	"unknown": "Unknown",
+	"play": "Play",
+	"players": "Players",
+	"mode": "Mode",
+	"map": "Map"
 }

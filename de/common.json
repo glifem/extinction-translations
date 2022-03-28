@@ -3,5 +3,6 @@
 	"enter-your-message": "Nachricht eingeben",
 	"delete": "Löschen",
 	"send": "Senden",
-	"search": "Suchen"
+	"search": "Suchen",
+    "sure-to-delete": "Wirklich löschen?"
 }
