@@ -1367,6 +1367,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	duration_10m = "10 minutes",
 	duration_15m = "15 minutes",
 	duration_30m = "30 minutes",
+
+	poll14_q1 = "Devrions-nous conserver le nouveau système d'enregistrement des hits/tirs? C'est ainsi que l'enregistrement des dégâts et des balles fonctionne actuellement."
 }
 
 AddLanguage("en", my_language)
