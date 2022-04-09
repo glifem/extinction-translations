@@ -1408,6 +1408,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	list_of_objects = "Object list",
 	list_of_vehicles = "Vehicle list",
 	list_of_peds = "Ped list",
+
+	poll14_q1 = "Should we keep the new hit/shot registration system? This is how the damage and bullet registration works now.",
+	weapon_explosion = "Explosion",
 }
 
 AddLanguage("en", my_language)

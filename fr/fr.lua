@@ -1367,6 +1367,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	duration_10m = "10 minutes",
 	duration_15m = "15 minutes",
 	duration_30m = "30 minutes",
+
+	poll14_q1 = "Devrions-nous conserver le nouveau système d'enregistrement des hits/tirs? C'est ainsi que l'enregistrement des dégâts et des balles fonctionne actuellement."
 }
 
 AddLanguage("fr", my_language)
