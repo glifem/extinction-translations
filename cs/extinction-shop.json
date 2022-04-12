@@ -1,6 +1,11 @@
 {
 	"special_offer": "Speciální nabídka",
 	"basket_value": "Košík",
-	"sell_everything": "Prodat vše",
-	"buy_everything": "Koupit vše"
+	"sell_everything_inventory": "Prodat vše",
+	"buy_everything": "Koupit vše",
+	"shop-content": "Obsah obchodu",
+	"basket-content": "Obsah košíku",
+	"shopping-cart": "Nákupní vozík",
+	"cart-empty": "Nemáš nic v nákupním vozíku.",
+	"balance": "Zustatek: {{amount}}"
 }
