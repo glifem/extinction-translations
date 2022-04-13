@@ -4,15 +4,15 @@
     "with": "s",
     "description": "Popisek",
     "discussion": "Diskuze",
-    "leave-a-comment": "Zanechat komentář",
-    "how-make-extinction-better": "Jak můžeme vylepšit Extinction?",
-    "enter-suggestion-here": "Zadej sem tvůj nápad",
-    "describe-your-suggestion": "Popiš svůj nápad",
+    "leave-a-comment": "Zanechat komentar",
+    "how-make-extinction-better": "Jak muzeme vylepšit Extinction?",
+    "enter-suggestion-here": "Zadej sem tvuj nápad",
+    "describe-your-suggestion": "Popiš svuj nápad",
 	"most-wanted": "Nejvíce žádané",
-    "recent": "Nejnovější",
+    "recent": "Nejnovejsi",
     "my-votes": "Moje hlasy",
     "any-tag": "Všechno",
     "accepted": "Schváleno",
     "rejected": "Zamítnuto",
-    "completed": "Dokončeno"
+    "completed": "Dokonceno"
 }
