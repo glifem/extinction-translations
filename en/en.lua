@@ -1486,6 +1486,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	max_deluxo_squad_size_reached = "~r~Your squad must be limited to two members in the Deluxo Arena.",
 	darkzone_shop = "Darkzone shop",
 	arena_shop = "Arena shop",
+	deluxo_arena_end_winners_x = "^1The Deluxo Arena event ended.\n^1%s"
 }
 
 AddLanguage("en", my_language)
