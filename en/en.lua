@@ -1448,6 +1448,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	story_quest = "Story quest",
 	interact_with_item = "interact with this item",
 	unlocking_item = "Unlocking item",
+
+	deluxo_arena_end_winners_x = "^1The Deluxo Arena event ended.\n^1%s"
 }
 
 AddLanguage("en", my_language)
