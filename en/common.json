@@ -51,5 +51,10 @@
 	"play": "Play",
 	"players": "Players",
 	"mode": "Mode",
-	"map": "Map"
+	"map": "Map",
+	"end_in": "End in",
+	"start_in": "Start in",
+	"hours": "hours",
+	"minutes": "minutes",
+	"rank-required": "Rank {{rank}} required"
 }
