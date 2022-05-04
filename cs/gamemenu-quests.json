@@ -1,12 +1,12 @@
 {
-	"xp-reward": "XP odměna",
-	"items-reward": "Věcná odměna",
-	"other-reward": "Jiná odměna",
+	"xp-reward": "XP odmena",
+	"items-reward": "Odmena v podobe predmetu",
+	"other-reward": "Jiná odmena",
 	"take-quest": "VZÍT ÚKOL",
-	"finish-quest": "DOKONČIT ÚKOL",
+	"finish-quest": "DOKONCIT UKOL",
 	"give-up": "Vzdát se",
 	"objectives": "Cíle",
-	"daily-missions": "denní úkoly",
+	"daily-missions": "denní ukoly",
 	"active": "aktivní",
-	"close-quests": "další úkoly"
+	"close-quests": "další ukoly"
 }

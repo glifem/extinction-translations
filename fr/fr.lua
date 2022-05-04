@@ -1331,6 +1331,44 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	league_lobby_invite = "Vous avez été invité à rejoindre un lobby league.",
 	league_party = "Lobby League",
+	league_random_mode_summary = "Un mode aléatoire sera sélectionné une fois que le jeu sera prêt à démarrer.",
+	league_random_mode_title = "Mode aléatoire",
+	league_ban_mode_summary = "Toutes les équipes auront la possibilité de bannir un mode de jeu une fois que le jeu sera prêt à commencer. Une fois que toutes les équipes auront banni suffisamment de mode, un mode aléatoire sera sélectionné.",
+	league_ban_mode_title = "Random / Ban mode",
+	league_random_map = "Random map",
+	league_ban_map = "Ban / Random map",
+	spectator = "Spectateur",
+	hardpoint_summary = "Les joueurs sont répartis en différentes équipes, une zone apparaît sur la carte. Le but est de contrôler la zone pendant un maximum de temps. L'équipe qui atteint la limite de points gagne.",
+	hardpoint_title = "Point stratégique",
+	domination_summary = "Les joueurs sont divisés en différentes équipes, il y a plusieurs drapeaux sur la carte. Le but est de contrôler le maximum de drapeaux et d'obtenir le plus de points possible. L'équipe qui atteint la limite de points gagne.",
+	domination_title = "Domination",
+	open_party_settings = "ouvrir les paramètres de la partie",
+	league_players_not_ready = "Tous les joueurs doivent être prêts à commencer le jeu.",
+	league_kicked_from_party = "Vous avez été viré du lobby.",
+	league_no_longer_owner = "Vous n'êtes plus le propriétaire du lobby.",
+	league_party_full = "Le lobby privée est complète.",
+	league_now_owner = "Vous êtes maintenant le propriétaire du lobby",
+	league_party_deleted = "La partie privée a été supprimée.",
+	redzone_dm_kill_enemy = "Tuez les joueurs les plus hostiles dans la zone de combat.",
+	redzone_dm_get_in_zone = "Conduisez jusqu'à la zone de combat et tuez le plus de joueurs.",
+
+	redzone_deathmatch_title = "Redzone Deathmatch",
+	redzone_deathmatch_summary = "Les joueurs sont répartis en différentes équipes, une zone rouge apparaît sur la carte. Le but est de tuer le plus de joueurs dans cette zone. L'équipe avec le maximum de tués gagne.",
+
+	manage_kits = "Gérer vos kits",
+	too_far_spawn_area = "~r~Vous êtes trop loin du spawn pour utiliser ce menu.",
+	league_mode_changed = "~b~Le mode de jeu du lobby a changé.",
+	edit_spawning_kit = "pour modifier votre kit de spawn",
+	duration_2m = "2 minutes",
+	duration_3m = "3 minutes",
+	duration_4m = "4 minutes",
+	duration_5m = "5 minutes",
+	duration_6m = "6 minutes",
+	duration_10m = "10 minutes",
+	duration_15m = "15 minutes",
+	duration_30m = "30 minutes",
+
+	poll14_q1 = "Devrions-nous conserver le nouveau système d'enregistrement des hits/tirs? C'est ainsi que l'enregistrement des dégâts et des balles fonctionne actuellement."
 }
 
 AddLanguage("fr", my_language)

@@ -1,4 +1,18 @@
 {
-    "gun_game": "Gun Game",
-    "spawn": "Spawn"
+    "gungame": "Gun Game",
+    "spawn": "Spawn",
+    "battleroyale": "Battle Royale",
+    "extinction": "Extinction",
+    "choose-gamemode": "Vyber si mod",
+    "no-server-available": "Žádný server dostupný",
+    "vote-for-the-next-x-map": "Hlasuj pro další mapu: {{name}}",
+    "vote-done": "Hlasování je u konce",
+    "ffa": "FFA",
+    "battleroyale_rank": "Uroven",
+    "player_kills": "Zabito hracu",
+    "kill_leader": "Kill leader",
+    "dungeon_completed": "Dungeon dokoncen",
+    "gungame_kills": "Zabito hracu",
+    "gungame_rank": "Uroven",
+    "external-server": "Jiný server"
 }
