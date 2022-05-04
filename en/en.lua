@@ -1486,11 +1486,13 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	max_deluxo_squad_size_reached = "~r~Your squad must be limited to two members in the Deluxo Arena.",
 	darkzone_shop = "Darkzone shop",
 	arena_shop = "Arena shop",
-	deluxo_arena_end_winners_x = "^1The Deluxo Arena event ended.\n^1%s",
 	purge_fight_start = "The purge starts, be the last player standing!",
 	purge_starting_soon = "The purge is starting in a few seconds, be ready!",
 	purged_ended_x_survivor = "This purge ended, you were the ~r~#%s survivor~w~.",
 	left_purge_fight_queue = "~r~You left the purge fight queue.",
+	deluxo_arena_end_winners_x = "^1The Deluxo Arena event ended.\n^1%s",
+	safezone_already_unlocked = "~r~This safezone outpost is already unlocked.",
+	squad_already_involved_quest = "~r~Your squad is already involved in a quest.",
 }
 
 AddLanguage("en", my_language)
