@@ -2,5 +2,9 @@
     "active-mode": "Active mode",
     "select-area-be-in": "Select the area you want to be in",
     "daily-challenges": "Daily challenges",
-    "weekly-challenges": "Weekly challenges"
+    "weekly-challenges": "Weekly challenges",
+    "damage-history": "Damage history",
+    "with-x-hits_one": "with {{count}} hit",
+    "with-x-hits_other": "with {{count}} hits",
+    "killed-by": "Killed by"
 }
