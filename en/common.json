@@ -56,5 +56,7 @@
 	"start_in": "Start in",
 	"hours": "hours",
 	"minutes": "minutes",
-	"rank-required": "Rank {{rank}} required"
+	"rank-required": "Rank {{rank}} required",
+	"unable-to-find-player": "Unable to find a player from this ID",
+	"found-player-x": "Found {{name}} from this ID"
 }
