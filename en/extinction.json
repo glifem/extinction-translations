@@ -1,4 +1,8 @@
 {
     "active-mode": "Active mode",
-    "select-area-be-in": "Select the area you want to be in"
+    "select-area-be-in": "Select the area you want to be in",
+    "damage-history": "Damage history",
+    "with-x-hits_one": "with {{count}} hit",
+    "with-x-hits_other": "with {{count}} hits",
+    "killed-by": "Killed by"
 }
