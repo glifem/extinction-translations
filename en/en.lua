@@ -1660,6 +1660,16 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	category_weapon_accessory = "Weapon Accessory",
 	category_misc = "Misc",
 	selected_components_saved_as_presets = "The components you select will be apply as presets for your weapons.",
+	press_numpad_key_to_asign = "Press a ~r~NUMPAD number~w~ to assign this emote to the key.",
+	emote_binded_to_x = "Emote binded to ~r~NUMPAD %s",
+	play_emote = "Play emote",
+	spawn_looting_drone = "Spawn your looting drone",
+	open_armory = "open the armory",
+	weapon_skin_for_x_x = "Weapon skin for ~b~%s~w~ (%s)",
+	emote_for_x = "Emote ~b~%s",
+	ped_skin_for_x = "Ped skin ~b~%s",
+	battlepass_rewards_x = "~y~<C>Battlepass Reward</C>\n~w~",
+	loot_crate_legendary = "Legendary Loot Crate",
 }
 
 AddLanguage("en", my_language)
