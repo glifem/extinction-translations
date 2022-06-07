@@ -1681,6 +1681,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	bet_too_low_x = "You must bet at least ~r~$%s~w~.",
 	bet_limit_x = "You can bet a maximum of ~r~$%s~w~.",
 	reached_max_daily_earning = "~r~You have reached the maximum daily earning limit.\n~w~Come back tomorrow.",
+	quest_completed_rewards_x = "You completed the quest.\n~y~<C>Quest Reward</C>\n~w~%s",
 }
 
 AddLanguage("en", my_language)
