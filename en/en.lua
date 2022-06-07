@@ -1670,6 +1670,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	ped_skin_for_x = "Ped skin ~b~%s",
 	battlepass_rewards_x = "~y~<C>Battlepass Reward</C>\n~w~",
 	loot_crate_legendary = "Legendary Loot Crate",
+	quest_completed_rewards_x = "You completed the quest.\n~y~<C>Quest Reward</C>\n~w~%s",
 }
 
 AddLanguage("en", my_language)
