@@ -1384,8 +1384,6 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	-- NPC dialogues
 	good_bye = "Good bye.",
 	i_am_here_for_a_job = "I am here for a job.",
-	military_quest_npc_01_random_dialogue_01_text = "What it is like to be working for the military?",
-	military_quest_npc_01_random_dialogue_01_answer = "That's great you get a nice salary, clothes, food and you can sleep in the barracks. We often go outside for missions and we feel very safe here. You really should join us.",
 	talk_with_npc = "talk",
 	default_npc_answer = "Hello my friend it is a great day today!",
 	good_luck_with_job = "I have got a job for you. You can find more information in your quest journal. Good luck!",
@@ -1682,6 +1680,29 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	bet_limit_x = "You can bet a maximum of ~r~$%s~w~.",
 	reached_max_daily_earning = "~r~You have reached the maximum daily earning limit.\n~w~Come back tomorrow.",
 	quest_completed_rewards_x = "You completed the quest.\n~y~<C>Quest Reward</C>\n~w~%s",
+	as_long_item_inventory_respirator = "~r~The respirator is enabled as long as you keep it in your inventory.\n~w~You can breath underwater.",
+	underwater_respirator = "Underwater Respirator",
+	-- Military
+	military_quest_npc_01_random_dialogue_01_text = "What it is like to be working for the military?",
+	military_quest_npc_01_random_dialogue_01_answer = "That's great you get a nice salary, clothes, food and you can sleep in the barracks. We often go outside for missions and we feel very safe here. You really should join us.",
+	military_quest_npc_02_random_dialogue_01_text = "What it is like to be working for the military?",
+	military_quest_npc_02_random_dialogue_01_answer = "That's great you get a nice salary, clothes, food and you can sleep in the barracks. We often go outside for missions and we feel very safe here. You really should join us.",
+	military_quest_npc_03_random_dialogue_01_text = "What it is like to be working for the military?",
+	military_quest_npc_03_random_dialogue_01_answer = "That's great you get a nice salary, clothes, food and you can sleep in the barracks. We often go outside for missions and we feel very safe here. You really should join us.",
+
+	milicia_quest_npc_01_random_dialogue_01_text = "What it is like to be working for the milicia?",
+	milicia_quest_npc_01_random_dialogue_01_answer = "That's great you get a nice salary, clothes, food and you can sleep in the barracks. We often go outside for missions and we feel very safe here. You really should join us.",
+	milicia_quest_npc_02_random_dialogue_01_text = "What it is like to be working for the milicia?",
+	milicia_quest_npc_02_random_dialogue_01_answer = "That's great you get a nice salary, clothes, food and you can sleep in the barracks. We often go outside for missions and we feel very safe here. You really should join us.",
+	milicia_quest_npc_03_random_dialogue_01_text = "What it is like to be working for the milicia?",
+	milicia_quest_npc_03_random_dialogue_01_answer = "That's great you get a nice salary, clothes, food and you can sleep in the barracks. We often go outside for missions and we feel very safe here. You really should join us.",
+
+	random_quest = "Simple Quest",
+	safezone_capture_quest = "Safezone Capture",
+	military = "Military",
+	milice = "Milice",
+	milicia = "Milicia",
+	bandit = "Bandit",
 }
 
 AddLanguage("en", my_language)
