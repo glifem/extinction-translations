@@ -69,5 +69,8 @@
 	"no-image": "Aucune image",
 	"add-image": "Ajouter image",
 	"victory": "Victoire",
-	"stage": "Étape"
+	"stage": "Étape",
+	"levels": "Niveaux",
+	"timeline-levels": "Avantages à débloquer en fonction de vos niveaux et de ceux de votre crew.",
+	"character-levels": "Niveaux personnage"
 }

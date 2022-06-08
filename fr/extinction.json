@@ -1,0 +1,17 @@
+{
+    "active-mode": "Mode sélectionné",
+    "select-area-be-in": "Sélectionnez la zone dans laquelle vous souhaitez être",
+    "daily-challenges": "Défis journaliers",
+    "weekly-challenges": "Défis hebdomadaires",
+    "damage-history": "Historique des dégâts",
+    "with-x-hits_one": "avec {{count}} coup",
+    "with-x-hits_other": "avec {{count}} coups",
+    "killed-by": "Tué par",
+    "new-quests": "Nouvelles quêtes",
+    "active-tier": "Tier actuel",
+    "purchase-battlepass": "Acheter le Battle Pass",
+    "current-tier-progress": "Progression du niveau actuel",
+    "free": "Gratuit",
+    "premium": "Premium",
+    "next-airdrop": "Prochain airdrop"
+}
