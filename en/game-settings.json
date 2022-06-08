@@ -34,5 +34,7 @@
 	"killSoundEffectEnabled": "Kill sound",
 	"killSoundEffectEnabled_desc": "Choose whether or not kill sound effect is enabled",
 	"hitmarkerScale": "Hitmarker scale",
-	"hitmarkerScale_desc": "Set the hitmarker scale"
+	"hitmarkerScale_desc": "Set the hitmarker scale",
+	"trashDisabled": "Trash talking chat is disabled",
+	"trashDisabled_desc": "Choose whether or not trash talking chat is hidden"
 }

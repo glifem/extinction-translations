@@ -9,5 +9,6 @@
     "objectives-completed": "Objectives completed",
     "mission-in-progress": "Mission in progress",
     "confirm": "Confirm",
-    "show": "Show"
+    "show": "Show",
+	"no-quests-available": "No quests available"
 }

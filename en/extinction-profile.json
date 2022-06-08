@@ -70,5 +70,8 @@
 	"no-image": "No image",
 	"add-image": "Add image",
 	"victory": "Victory",
-	"stage": "Stage"
+	"stage": "Stage",
+	"levels": "Levels",
+	"timeline-levels": "Timeline of perks to unlock with your levels and crew levels.",
+	"character-levels": "Character levels"
 }

@@ -6,5 +6,13 @@
     "damage-history": "Damage history",
     "with-x-hits_one": "with {{count}} hit",
     "with-x-hits_other": "with {{count}} hits",
-    "killed-by": "Killed by"
+    "killed-by": "Killed by",
+    "new-quests": "New quests",
+    "active-tier": "Active tier",
+    "purchase-battlepass": "Purchase Battle Pass",
+    "complete-daily-weekly-quests-to-progress": "Complete daily and weekly missions to progress",
+    "current-tier-progress": "Current tier progress",
+    "free": "Free",
+    "premium": "Premium",
+    "next-airdrop": "Next airdrop"
 }
