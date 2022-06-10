@@ -1122,7 +1122,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	vote_removed_x = "Vote removed for ~r~%s~w~.",
 	vote_added_x = "Vote added for ~g~%s~w~.",
 
-	armor_full = "~b~Armor full.",
+	armor_full = "Your armor ~r~is already fully~w~ restored.",
 	spawning_vehicle = "Spawning vehicle",
 	opening_chest = "Opening chest",
 	cannot_loot_greenzone_public_world = "~r~You cannot loot zombies in the greezone.\n~w~Talk to the transporter to go to a private world.",
@@ -1703,6 +1703,15 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	milice = "Milicia",
 	milicia = "Milicia",
 	bandit = "Bandit",
+
+	purge_joined_queue = "~b~You have joined the purge fight queue.\n~w~Once a match is found you will automatically join it.",
+	kevlar_already_equipped = "~r~You already have an armor equipped.",
+	kevlar_not_equipped = "~r~You don't have any armor equipped.",
+	medium_kevlar_ext = "Medium Armor",
+	heavy_kevlar_ext = "Heavy Armor",
+	bind_armor_extinction = "Unequip your armor",
+	you_equiped_armor_x = "You equipped your ~b~%s~w~.",
+	you_unequiped_armor_x = "You unequipped your ~b~%s~w~.",
 }
 
 AddLanguage("en", my_language)
