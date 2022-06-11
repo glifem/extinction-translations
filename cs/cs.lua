@@ -1122,7 +1122,6 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si muz
 	vote_removed_x = "Hlas odstranen pro ~r~%s~w~.",
 	vote_added_x = "Hlas pridan pro ~g~%s~w~.",
 
-	armor_full = "~b~Plný armor.",
 	spawning_vehicle = "Spawnování auta",
 	opening_chest = "Otevírání skladu",
 	cannot_loot_greenzone_public_world = "~r~Nemuzes lootit zombíky v greenzone.\n~w~Bez za teleportérem a jdi do private sveta.",

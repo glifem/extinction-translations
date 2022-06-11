@@ -1123,7 +1123,6 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	vote_removed_x = "Vote supprimé pour ~r~%s~w~.",
 	vote_added_x = "Vote ajouté pour ~g~%s~w~.",
 
-	armor_full = "~b~Armure pleine.",
 	spawning_vehicle = "Création du véhicule",
 	opening_chest = "Ouverture du coffre",
 	cannot_loot_greenzone_public_world = "~r~Vous ne pouvez pas fouiller les zombies en zone verte.\n~w~Parlez avec le transporteur pour vous rendre dans un monde privé.",
@@ -1703,6 +1702,16 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	milice = "Milice",
 	milicia = "Milice",
 	bandit = "Bandit",
+
+	purge_joined_queue = "~b~You have joined the purge fight queue.\n~w~Once a match is found you will automatically join it.",
+	kevlar_already_equipped = "~r~You already have an armor equipped.",
+	kevlar_not_equipped = "~r~You don't have any armor equipped.",
+	medium_kevlar_ext = "Medium Armor",
+	heavy_kevlar_ext = "Heavy Armor",
+	bind_armor_extinction = "Unequip your armor",
+	you_equiped_armor_x = "You equipped your ~b~%s~w~.",
+	you_unequiped_armor_x = "You unequipped your ~b~%s~w~.",
+	armor_full = "Votre ~b~armure~w~ est déjà complètement restorée.",
 }
 
 AddLanguage("fr", my_language)

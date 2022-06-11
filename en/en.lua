@@ -1122,7 +1122,6 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	vote_removed_x = "Vote removed for ~r~%s~w~.",
 	vote_added_x = "Vote added for ~g~%s~w~.",
 
-	armor_full = "Your armor ~r~is already fully~w~ restored.",
 	spawning_vehicle = "Spawning vehicle",
 	opening_chest = "Opening chest",
 	cannot_loot_greenzone_public_world = "~r~You cannot loot zombies in the greezone.\n~w~Talk to the transporter to go to a private world.",
