@@ -1729,6 +1729,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	bind_armor_extinction = "Unequip your armor",
 	you_equiped_armor_x = "You equipped your ~b~%s~w~.",
 	you_unequiped_armor_x = "You unequipped your ~b~%s~w~.",
+	airport = "Airport",
 }
 
 AddLanguage("en", my_language)
