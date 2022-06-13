@@ -13,5 +13,20 @@
     "current-tier-progress": "Progression du niveau actuel",
     "free": "Gratuit",
     "premium": "Premium",
-    "next-airdrop": "Prochain airdrop"
+    "next-airdrop": "Prochain airdrop",
+    "purchase-gcoins": "Acheter GCoins",
+    "popular": "Populaire",
+    "payment": "Paiement",
+    "basket": "Panier",
+    "payment-method": "Mode de paiement",
+    "add-another-item": "Ajouter un autre article",
+    "proceed": "Proceed",
+    "continue": "Continuer",
+    "paymentmethod_a": "Cartes de crédit/débit / Stripe (recommandé)",
+    "paymentmethod_b": "PayPal / Paysafe / Autre",
+    "paymentmethod_c": "Cryptocurrency (lent)",
+    "complete-payment-browser": "Effectuez le paiement dans votre navigateur",
+    "payment-error": "Une erreur s'est produite, essayez à nouveau dans quelques secondes",
+    "fivem-id-required": "Vous devez avoir un compte FiveM lié pour acheter des GCoins",
+    "go-back": "Revenir en arrière"
 }
