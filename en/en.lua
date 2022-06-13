@@ -1729,6 +1729,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	you_equiped_armor_x = "You equipped your ~b~%s~w~.",
 	you_unequiped_armor_x = "You unequipped your ~b~%s~w~.",
 	airport = "Airport",
+	cargocrate_taken_by = "^1%s has taken %s from the cargo crate.",
 }
 
 AddLanguage("en", my_language)

@@ -1712,6 +1712,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	you_equiped_armor_x = "You equipped your ~b~%s~w~.",
 	you_unequiped_armor_x = "You unequipped your ~b~%s~w~.",
 	armor_full = "Votre ~b~armure~w~ est déjà complètement restorée.",
+	cargocrate_taken_by = "^1%s a pris %s de la caisse du cargo.",
 }
 
 AddLanguage("fr", my_language)
