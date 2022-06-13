@@ -1123,7 +1123,6 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	vote_removed_x = "Vote supprimé pour ~r~%s~w~.",
 	vote_added_x = "Vote ajouté pour ~g~%s~w~.",
 
-	armor_full = "~b~Armure pleine.",
 	spawning_vehicle = "Création du véhicule",
 	opening_chest = "Ouverture du coffre",
 	cannot_loot_greenzone_public_world = "~r~Vous ne pouvez pas fouiller les zombies en zone verte.\n~w~Parlez avec le transporteur pour vous rendre dans un monde privé.",
@@ -1615,9 +1614,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mission_kill_player_gungame_simple = "Tuez ^1%s^7 joueurs en Gungame",
 	mission_kill_player_gungame_weapon = "Tuez ^1%s^7 joueurs en Gungame avec %s",
 	mission_play_gungame = "Terminez ^1%s^7 parties de Gungame",
-	mission_darkzone_survive_time = "Survivew ^1%s^7 minutes dans la darkzone",
-	mission_loot_items_simple = "Récoltez ^1%s^7 objects",
-	mission_loot_items_category = "Récoltez ^1%s^7 objects de cette catégorie (%s)",
+	mission_darkzone_survive_time = "Survivez ^1%s^7 minutes dans la darkzone",
+	mission_loot_items_simple = "Récoltez ^1%s^7 objets",
+	mission_loot_items_category = "Récoltez ^1%s^7 objets de cette catégorie (%s)",
 	mission_loot_items_building_simple = "Récoltez ^1%s^7 objets depuis les bâtiments",
 	mission_loot_items_building_category = "Récoltez ^1%s^7 objets depuis les bâtiments de cette catégorie (%s)",
 	mission_sell_offer_simple = "Vendez ^1%s^7 objets au marché",
@@ -1640,8 +1639,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mission_kill_top_player_weapon = "Tuez ^1%s^7 joueurs de n'importe quel top 100 avec %s",
 	mission_kill_top_crew_simple = "Tuez ^1%s^7 joueurs de n'importe quel crew du classement des 100 meilleurs crew",
 	mission_kill_top_crew_weapon = "Tuez ^1%s^7 joueurs de n'importe quel crew du classement des 100 meilleurs crew avec %s",
-	mission_loot_items_player_simple = "Loot ^1%s^7 items from players",
-	mission_loot_items_player_category = "Loot ^1%s^7 items from players from this category (%s)",
+	mission_loot_items_player_simple = "Récoltez ^1%s^7 objets depuis le sac d'un joueur",
+	mission_loot_items_player_category = "Récoltez ^1%s^7 objets depuis le sac d'un joueur de cette catégorie (%s)",
 	mission_win_gungame = "Remportez ^1%s^7 partie(s) de gungame",
 	mission_win_purge_fight = "Remportez ^1%s^7 partie(s) de purge fight",
 	mission_br_played = "Jouer ^1%s^7 partie de Battle Royale",
@@ -1703,6 +1702,16 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	milice = "Milice",
 	milicia = "Milice",
 	bandit = "Bandit",
+
+	purge_joined_queue = "~b~You have joined the purge fight queue.\n~w~Once a match is found you will automatically join it.",
+	kevlar_already_equipped = "~r~You already have an armor equipped.",
+	kevlar_not_equipped = "~r~You don't have any armor equipped.",
+	medium_kevlar_ext = "Medium Armor",
+	heavy_kevlar_ext = "Heavy Armor",
+	bind_armor_extinction = "Unequip your armor",
+	you_equiped_armor_x = "You equipped your ~b~%s~w~.",
+	you_unequiped_armor_x = "You unequipped your ~b~%s~w~.",
+	armor_full = "Votre ~b~armure~w~ est déjà complètement restorée.",
 }
 
 AddLanguage("fr", my_language)
