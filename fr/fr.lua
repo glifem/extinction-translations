@@ -1758,6 +1758,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	["vagos2"] = "Vagos 2",
 	["vespucci-police"] = "Vespucci Police",
 	["villa"] = "Villa",
+	loot_spot = "Spoot de Loot"
 }
 
 AddLanguage("fr", my_language)

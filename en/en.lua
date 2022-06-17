@@ -1758,6 +1758,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	["vagos2"] = "Vagos 2",
 	["vespucci-police"] = "Vespucci Police",
 	["villa"] = "Villa",
+	loot_spot = "Loot Spot",
 }
 
 AddLanguage("en", my_language)
