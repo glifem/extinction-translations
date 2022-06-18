@@ -1760,6 +1760,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	["villa"] = "Villa",
 	loot_spot = "Loot Spot",
 	["highway-ls"] = "Highway LS",
+	sku_ped_not_unlocked = "You do not own this ped."
 }
 
 AddLanguage("en", my_language)

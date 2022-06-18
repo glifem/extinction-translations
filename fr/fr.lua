@@ -1760,6 +1760,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	["villa"] = "Villa",
 	loot_spot = "Spoot de Loot",
 	["highway-ls"] = "Autoroute LS",
+	sku_ped_not_unlocked = "Vous ne possédez pas ce ped."
 }
 
 AddLanguage("fr", my_language)
