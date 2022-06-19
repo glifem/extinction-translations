@@ -1761,7 +1761,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	loot_spot = "Spoot de Loot",
 	["highway-ls"] = "Autoroute LS",
 	sku_ped_not_unlocked = "Vous ne possédez pas ce ped.",
-	cargo_ship_event_start = "Un bateau cargo transportant une ~y~Caisse Militaire légendaire~w~ est arrivé."
+	cargo_ship_event_start = "Un bateau cargo transportant une ~y~Caisse Militaire légendaire~w~ est arrivé.",
+	attack_convoy_steal_x_x = "Nous avons besoin de quelqu'un pour attaquer le convoi d'un ^1%s^7. Un allié nous a donné leur route, trouvez-la et ramenez le %s à notre base.",
+	drone_cooldown_x = "Vous devez patienter ~r~%s~w~ avant que vous puissiez utiliser ce drone à nouveau.",
 }
 
 AddLanguage("fr", my_language)

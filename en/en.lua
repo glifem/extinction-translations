@@ -1761,7 +1761,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	loot_spot = "Loot Spot",
 	["highway-ls"] = "Highway LS",
 	sku_ped_not_unlocked = "You do not own this ped.",
-	cargo_ship_event_start = "A cargoship transporting a ~y~Legendary Military Crate~w~ arrived."
+	cargo_ship_event_start = "A cargoship transporting a ~y~Legendary Military Crate~w~ arrived.",
+	attack_convoy_steal_x_x = "We need someone to attack a ^1%s's convoy^7. An ally gave us their route, find it and bring back the convoy %s to our base.",
+	drone_cooldown_x = "You must wait ~r~%s~w~ before you can use this drone again.",
 }
 
 AddLanguage("en", my_language)
