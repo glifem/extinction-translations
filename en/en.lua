@@ -1764,6 +1764,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	cargo_ship_event_start = "A cargoship transporting a ~y~Legendary Military Crate~w~ arrived.",
 	attack_convoy_steal_x_x = "We need someone to attack a ^1%s's convoy^7. An ally gave us their route, find it and bring back the convoy %s to our base.",
 	drone_cooldown_x = "You must wait ~r~%s~w~ before you can use this drone again.",
+	safezone_outpost_1 = "Outpost 1",
+	safezone_outpost_2 = "Outpost 2",
+	safezone_outpost_3 = "Outpost 3",
+	safezone_outpost_4 = "Outpost 4",
+	safezone_outpost_5 = "Outpost 5",
+	damage_outside_zone = "~r~Damaged for being outside of the zone"
 }
 
 AddLanguage("en", my_language)

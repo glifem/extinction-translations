@@ -1764,6 +1764,12 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	cargo_ship_event_start = "Un bateau cargo transportant une ~y~Caisse Militaire légendaire~w~ est arrivé.",
 	attack_convoy_steal_x_x = "Nous avons besoin de quelqu'un pour attaquer le convoi d'un ^1%s^7. Un allié nous a donné leur route, trouvez-la et ramenez le %s à notre base.",
 	drone_cooldown_x = "Vous devez patienter ~r~%s~w~ avant que vous puissiez utiliser ce drone à nouveau.",
+	safezone_outpost_1 = "Avant-poste 1",
+	safezone_outpost_2 = "Avant-poste 2",
+	safezone_outpost_3 = "Avant-poste 3",
+	safezone_outpost_4 = "Avant-poste 4",
+	safezone_outpost_5 = "Avant-poste 5",
+	damage_outside_zone = "~r~Malus pour avoir été en dehors de la zone"
 }
 
 AddLanguage("fr", my_language)
