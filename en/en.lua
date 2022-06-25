@@ -1769,7 +1769,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	safezone_outpost_3 = "Outpost 3",
 	safezone_outpost_4 = "Outpost 4",
 	safezone_outpost_5 = "Outpost 5",
-	damage_outside_zone = "~r~Damaged for being outside of the zone"
+	damage_outside_zone = "~r~Damaged for being outside of the zone",
+	duel_fairground = "Fairground",
 }
 
 AddLanguage("en", my_language)

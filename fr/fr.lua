@@ -1769,7 +1769,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	safezone_outpost_3 = "Avant-poste 3",
 	safezone_outpost_4 = "Avant-poste 4",
 	safezone_outpost_5 = "Avant-poste 5",
-	damage_outside_zone = "~r~Malus pour avoir été en dehors de la zone"
+	damage_outside_zone = "~r~Malus pour avoir été en dehors de la zone",
+	duel_fairground = "Fête foraine",
 }
 
 AddLanguage("fr", my_language)
