@@ -1771,6 +1771,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	safezone_outpost_5 = "Avant-poste 5",
 	damage_outside_zone = "~r~Malus pour avoir été en dehors de la zone",
 	duel_fairground = "Fête foraine",
+	poll15_q1 = "Quelle meta Extinction devrait etre?",
+	poll15_q1_a1 = "Meta bandage (comme actuellement)",
+	poll15_q1_a2 = "Meta kevlar (comme les anciennes saisons)",
 }
 
 AddLanguage("fr", my_language)

@@ -1771,6 +1771,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	safezone_outpost_5 = "Outpost 5",
 	damage_outside_zone = "~r~Damaged for being outside of the zone",
 	duel_fairground = "Fairground",
+	poll15_q1 = "Which meta Extinction should be?",
+	poll15_q1_a1 = "Bandage meta (like right now)",
+	poll15_q1_a2 = "Kevlar meta (like old seasons)",
 }
 
 AddLanguage("en", my_language)
