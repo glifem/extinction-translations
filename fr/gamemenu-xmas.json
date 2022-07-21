@@ -1,9 +1,9 @@
 {
-    "xmas-event": "Christmas event",
+    "xmas-event": "Evenement de Noël",
     "complete-all-message": "Choisissez la quête par laquelle vous voulez commencer. Si vous réussissez toutes les quêtes, vous recevrez un cadeau secret.",
-    "expire-in": "Expire in {{hours}} hours",
-    "completed": "Completed",
-    "expired": "Expired",
+    "expire-in": "Expire dans {{hours}} heures",
+    "completed": "Complété",
+    "expired": "Expiré",
     "day": "Jour",
     "get-secret-reward": "Obtenir la récompense secrète"
 }
