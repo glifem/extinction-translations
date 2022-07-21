@@ -1278,7 +1278,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	take_flag = "Capture du drapeau",
 	deliver_flag = "Livraison du drapeau",
 	kill_carrier_flag = "Transporteur tué",
-	kill_player = "Joueut tué",
+	kill_player = "Joueur tué",
 	capture_other_team_flag = "Capturez le drapeau de l'autre équipe et amenez-le à notre base.",
 	kill_carrier_flag_stolen = "Notre drapeau a été volé, tuez ~r~%s~s~ et ramène-le à la base !",
 	escrot_carrier_flag_to_base = "On a volé le drapeau ennemi, escortez ~g~%s~s~ jusqu'à notre base.",
