@@ -1,5 +1,6 @@
 {
 	"Language": "French",
+	"enter-your-message": "Entrez votre message",
 	"send": "Envoyer",
 	"delete": "Supprimer",
 	"search": "Rechercher",
@@ -8,8 +9,8 @@
 	"item": "Item",
 	"use": "Utiliser",
 	"used": "Expiré",
-	"overview": "Overview",
-	"level": "Level",
+	"overview": "Vue d'ensemble",
+	"level": "Niveau",
 	"crew": "Crew",
 	"country": "Pays",
 	"bank": "Banque",
@@ -43,5 +44,19 @@
 	"confirm": "Confirmer",
 	"refresh": "Actualiser",
 	"surrender": "Abandonner",
-    "sure-to-delete": "Vous êtes sûr de supprimer?"
+	"weapons": "Armes",
+	"vehicles": "Véhicules",
+    "sure-to-delete": "Vous êtes sûr de supprimer?",
+	"unknown": "Inconnu",
+	"play": "Jouer",
+	"players": "Joueurs",
+	"mode": "Mode",
+	"map": "Map",
+	"end_in": "Fini dans",
+	"start_in": "Commence dans",
+	"hours": "heures",
+	"minutes": "minutes",
+	"rank-required": "Vous devez avoir le rang {{rank}}",
+	"unable-to-find-player": "Impossible de trouver un joueur avec cet ID",
+	"found-player-x": "Trouvé {{name}} à partir de cet ID"
 }
