@@ -10,5 +10,6 @@
     "mission-in-progress": "Mission en cours",
     "confirm": "Confirmer",
     "show": "Voir",
-	"no-quests-available": "Aucune quête commencée"
+	"no-quests-available": "Aucune quête commencée",
+	"abort": "Abandonner"
 }
