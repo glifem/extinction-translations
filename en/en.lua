@@ -1774,6 +1774,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	poll15_q1 = "Which meta Extinction should be?",
 	poll15_q1_a1 = "Bandage meta (like right now)",
 	poll15_q1_a2 = "Kevlar meta (like old seasons)",
+	duo_only = "Duo only",
 }
 
 AddLanguage("en", my_language)
