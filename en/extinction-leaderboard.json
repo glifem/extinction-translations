@@ -24,5 +24,8 @@
 	"all-leaderboards": "All leaderboards for crew and players",
 	"players": "Players",
 	"crews": "Crews",
-	"top": "Top"
+	"top": "Top",
+	"killed_players_deluxo_arena_stats": "Killed players in deluxo arena",
+	"killed_players_cargoship_stats": "Killed players in cargoship",
+	"killed_players_airdrop_stats": "Killed players in airdrop"
 }
