@@ -1775,6 +1775,12 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	poll15_q1_a1 = "Meta bandage (comme actuellement)",
 	poll15_q1_a2 = "Meta kevlar (comme les anciennes saisons)",
 	duo_only = "Duo seulement",
+	duel_nuketown = "Nuketown",
+	duel_nature = "Nature",
+	duel_shipment = "Shipment",
+	duel_voxel = "Voxel",
+	drug_zombie = "Flesh shot",
+	afk_rewarded_x = "Vous avez reçu ~g~$%s~w~ pour votre AFK.",
 }
 
 AddLanguage("fr", my_language)

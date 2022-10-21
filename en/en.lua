@@ -1775,6 +1775,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	poll15_q1_a1 = "Bandage meta (like right now)",
 	poll15_q1_a2 = "Kevlar meta (like old seasons)",
 	duo_only = "Duo only",
+	duel_nuketown = "Nuketown",
+	duel_nature = "Nature",
+	duel_shipment = "Shipment",
+	duel_voxel = "Voxel",
+	drug_zombie = "Flesh shot",
+	afk_rewarded_x = "You received ~g~$%s~w~ for being AFK.",
 }
 
 AddLanguage("en", my_language)
