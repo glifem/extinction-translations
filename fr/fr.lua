@@ -1780,7 +1780,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	duel_shipment = "Shipment",
 	duel_voxel = "Voxel",
 	drug_zombie = "Flesh shot",
-	afk_rewarded_x = "Vous avez reçu ~g~$%s~w~ pour votre AFK.",
+	afk_rewarded_x = "(BETA) Vous avez reçu ~g~$%s~w~ pour votre AFK.",
 }
 
 AddLanguage("fr", my_language)

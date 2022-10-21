@@ -36,5 +36,9 @@
 	"hitmarkerScale": "Taille Hitmarker",
 	"hitmarkerScale_desc": "Définir la taille des hitmarkers",
 	"trashDisabled": "Langage vulgaire désactivé dans le chat",
-	"trashDisabled_desc": "Choisissez si le langage vulgaire est désactivé dans le chat"
+	"trashDisabled_desc": "Choisissez si le langage vulgaire est désactivé dans le chat",
+	"interfaceOpacity": "Opacité de l'interface",
+	"interfaceOpacity_desc": "Définit l'opacité de l'interface",
+	"interfaceItemStyle": "Style des items",
+	"interfaceItemStyle_desc": "Définit le style des items de l'inventaire"
 }

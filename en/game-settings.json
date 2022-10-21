@@ -36,5 +36,9 @@
 	"hitmarkerScale": "Hitmarker scale",
 	"hitmarkerScale_desc": "Set the hitmarker scale",
 	"trashDisabled": "Trash talking chat is disabled",
-	"trashDisabled_desc": "Choose whether or not trash talking chat is hidden"
+	"trashDisabled_desc": "Choose whether or not trash talking chat is hidden",
+	"interfaceOpacity": "Interface opacity",
+	"interfaceOpacity_desc": "Sets the opacity of the interface",
+	"interfaceItemStyle": "Interface item style",
+	"interfaceItemStyle_desc": "Sets the style of the inventory items"
 }

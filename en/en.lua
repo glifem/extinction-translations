@@ -1780,7 +1780,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	duel_shipment = "Shipment",
 	duel_voxel = "Voxel",
 	drug_zombie = "Flesh shot",
-	afk_rewarded_x = "You received ~g~$%s~w~ for being AFK.",
+	afk_rewarded_x = "(BETA) You received ~g~$%s~w~ for being AFK.",
 }
 
 AddLanguage("en", my_language)
