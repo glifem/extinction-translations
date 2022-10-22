@@ -1645,7 +1645,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mission_win_purge_fight = "Remportez ^1%s^7 partie(s) de purge fight",
 	mission_br_played = "Jouer ^1%s^7 partie de Battle Royale",
 	mission_dungeon_boss_kill = "Terminer ^1%s^7 donjon(s) en tuant le boss final.",
-	mission_play_time = "Jouer pendant ^1%s^7 minutes",
+	mission_play_time = "Jouer pendant ^1%s^7 heures",
 	mission_loot_crate_simple = "Ouvrez ^1%s^7 caisse(s) de butin",
 	mission_sell_items_simple = "Achetez ^1%s^7 objets à n'importe quel magasin NPC",
 	mission_sell_items_category = "Vendez ^1%s^7 objets de cette catégorie à n'importe quel magasin NPC (%s)",
@@ -1781,6 +1781,12 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	duel_voxel = "Voxel",
 	drug_zombie = "Flesh shot",
 	afk_rewarded_x = "(BETA) Vous avez reçu ~g~$%s~w~ pour votre AFK.",
+	nuketown = "Nuketown",
+	arena_01 = "Arène 1",
+	arena_02 = "Arène 2",
+	arena_03 = "Arène 3",
+	arena_04 = "Arène 4",
+	arena_05 = "Arène 5",
 }
 
 AddLanguage("fr", my_language)
