@@ -1787,6 +1787,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	arena_03 = "Arena 3",
 	arena_04 = "Arena 4",
 	arena_05 = "Arena 5",
+	poll17_q1 = "Which hitreg do you prefer?",
+	poll17_q1_a1 = "GLife Hitreg",
+	poll17_q1_a2 = "GTA Hitreg / FiveM hitreg",
+	poll17_q2 = "What price for kevlar do you prefer?",
+	poll17_q2_a1 = "Current price (20 0000$)",
+	poll17_q2_a2 = "Small price (5000 $)",
 }
 
 AddLanguage("en", my_language)
