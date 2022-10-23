@@ -50,10 +50,10 @@
 	"get-gcoins": "Get GCoins",
 	"no_crew": "No crew",
 	"extinction-stats": "Extinction stats",
-	"redzone-stats": "Redzone stats",
-	"darkzone-stats": "Darkzone stats",
-	"account-stats": "Account stats",
-	"gungame-stats": "Gungame stats",
+	"redzone-stats": "Redzone",
+	"darkzone-stats": "Darkzone",
+	"account-stats": "Account",
+	"gungame-stats": "Gungame",
 	"battleroyale-stats": "Battleroyale stats",
 	"total_playtime": "Total playtime",
 	"favorite_server": "Favorite server",
@@ -73,5 +73,11 @@
 	"stage": "Stage",
 	"levels": "Levels",
 	"timeline-levels": "Timeline of perks to unlock with your levels and crew levels.",
-	"character-levels": "Character levels"
+	"character-levels": "Character levels",
+	"deluxoarena-stats": "Deluxo Arena",
+	"cargoship-stats": "Cargo Ship",
+	"airdrop-stats": "Airdrop",
+	"ranked_ratio": "Ranked KD/A",
+	"ranked_kill": "Ranked kills",
+	"ranked_death": "Ranked deaths"
 }

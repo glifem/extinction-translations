@@ -73,5 +73,11 @@
 	"stage": "Étape",
 	"levels": "Niveaux",
 	"timeline-levels": "Avantages à débloquer en fonction de vos niveaux et de ceux de votre crew.",
-	"character-levels": "Niveaux personnage"
+	"character-levels": "Niveaux personnage",
+	"deluxoarena-stats": "Deluxo Arena",
+	"cargoship-stats": "Cargo Ship",
+	"airdrop-stats": "Airdrop",
+	"ranked_ratio": "Classé KD/A",
+	"ranked_kill": "Classé joueurs tués",
+	"ranked_death": "Classé morts"
 }
