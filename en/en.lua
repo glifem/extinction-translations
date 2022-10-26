@@ -1793,6 +1793,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	poll17_q2 = "What price for kevlar do you prefer?",
 	poll17_q2_a1 = "Current price (20 0000$)",
 	poll17_q2_a2 = "Small price (5000 $)",
+	reward_x_for_kill = "~g~+$%s~w~ for this kill.",
+	afk_notif_any_time = "You can AFK any time and get reward while staying online.\n~g~Type /afk",
 }
 
 AddLanguage("en", my_language)

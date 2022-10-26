@@ -1793,6 +1793,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	poll17_q2 = "Quel prix pour le kevlar préférez-vous ?",
 	poll17_q2_a1 = "Prix actuel (20 0000$)",
 	poll17_q2_a2 = "Petit prix (5000 $)",
+	reward_x_for_kill = "~g~+$%s~w~ pour ce kill.",
+	afk_notif_any_time = "Vous pouvez AFK à tout moment et obtenir une récompense en restant en ligne.\n~g~Tapez /afk",
 }
 
 AddLanguage("fr", my_language)
