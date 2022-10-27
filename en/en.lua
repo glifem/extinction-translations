@@ -1222,6 +1222,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	deleted_sell_offers = "You ^0deleted^7 your sell offers.",
 	deleted_buy_offers = "You ^0deleted^7 your sell offers.",
 	no_enough_money_ui = "You can't ^0afford that^7.",
+	not_enough_of_x = "~r~You don't have enough of %s",
+	not_enough_of_x_in_chest = "~r~You don't have enough of %s in the chest",
 
 	gpoints_shop = "GLife Points shop",
 	no_enough_glife_points = "~r~You do not have enough glife points.",

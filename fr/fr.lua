@@ -1222,6 +1222,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	marketplace_create_buy_offer = "Vous avez créé une offre d'achat pour ^0%sx %s ^7de ^0$%s^7 par unité.",
 	full_for_item_ui = "Il n'y a pas ^0assez de place^7 pour cet item.",
 	no_enough_money_ui = "Vous n'avez ^0pas assez d'argent^7.",
+	not_enough_of_x = "~r~Vous n'avez pas assez de %s",
+	not_enough_of_x_in_chest = "~r~Vous n'avez pas assez de %s dans le coffre",
 
 	gpoints_shop = "Boutique GLife Points",
 	no_enough_glife_points = "~r~Vous n'avez pas assez de points GLife.",
