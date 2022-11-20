@@ -658,6 +658,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	you_muted_this_player = "~b~Vous avez muté ce joueur.",
 	you_unmuted_this_player = "~b~Vous avez démuté ce joueur.",
 
+	you_renamed_this_character_to = "Vous avez renommé le charID %s en %s",
+	
 	already_purchased = "~r~Vous avez déjà acheté cet item.",
 	weapon_camo_preview = "Vous prévisualisez le modèle de base de l'arme, certaines pièces jointes sont manquantes.\n~INPUT_CELLPHONE_CANCEL~ pour quitter l'aperçu.",
 
