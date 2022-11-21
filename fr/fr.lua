@@ -109,6 +109,7 @@ local my_language = {
 	character_id = "ID personnage",
 	server_id = "ID serveur",
 	report = "Signaler",
+	you_already_reported = "~r~Vous avez déjà fait un report récemment. Veuillez patienter.",
 	rename = "Renommer",
 	trade_with = "Troc",
 
@@ -1795,6 +1796,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	poll17_q2_a2 = "Petit prix (5000 $)",
 	reward_x_for_kill = "~g~+$%s~w~ pour ce kill.",
 	afk_notif_any_time = "Vous pouvez AFK à tout moment et obtenir une récompense en restant en ligne.\n~g~Tapez /afk",
+	gangwar_title = "Gang War",
+	gangwar_summary = "Deux factions s'affrontent sur une carte divisée en différentes zones et bases. Contrôler une base vous donne des points. La faction avec le plus de points à la fin du minuteur gagne.",
 }
 
 AddLanguage("fr", my_language)
