@@ -5,6 +5,11 @@
     "leagues": "Leagues",
     "my-league": "My league",
     "invited-by": "{{author}} invited you to play",
+	"send-message": "Send message",
+	"invite-player": "Invite player",
+	"add-friend": "Add friend",
+	"remove-friend": "Remove friend",
+	"online": "Online",
     "join": "Join",
     "master": "Master",
     "platinium": "Platinium",
@@ -28,6 +33,17 @@
     "spectator": "Spectator",
     "invite-players": "Invite players",
     "invitations": "Invitations",
-    "settings": "Settings"
-
+    "settings": "Settings",
+	"mode-quickplay": "Quickplay",
+	"mode-private-match": "Private Match",
+	"mode-breakthrough": "Breakthrough",
+	"mode-convoy": "Convoy",
+	"mode-supply-war": "Supply War",
+	"mode-gangwar": "Gang War",
+	"mode-quickplay-desc": "Play a rotation of all gamemodes and map types.",
+	"mode-private-match-desc": "Play a private match with your friends.",
+	"mode-breakthrough-desc": "Capture the enemy base.",
+	"mode-convoy-desc": "Protect your convoy from the enemy.",
+	"mode-supply-war-desc": "Capture the enemy supply.",
+	"mode-gangwar-desc": "Capture the enemy base."
 }
