@@ -1,9 +1,9 @@
 {
     "xmas-event": "Christmas event",
-    "complete-all-message": "Choose the quest you want to start with. Completing all quests will get you a secret gift.",
+    "complete-all-message": "Choose the quest you want to start with. Completing all quests will get you a special character/Ped.",
     "expire-in": "Expire in {{hours}} hours",
     "completed": "Completed",
     "expired": "Expired",
     "day": "Day",
-    "get-secret-reward": "Get the secret reward"
+    "get-secret-reward": "Get the final reward"
 }
