@@ -45,5 +45,6 @@
 	"press-x-to-start": "Appuyez sur <span>{{key}}</span> pour jouer.",
     "press-x-to-exit-afk": "Appuyez sur <span>{{key}}</span> pour quitter le mode AFK.",
 	"enter": "Entrer",
-	"back": "Retour"
+	"back": "Retour",
+	"edit-your-kits": "Éditer vos kits"
 }
