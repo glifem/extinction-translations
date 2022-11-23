@@ -1170,6 +1170,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	start_in = "Début dans",
 	you_won_x_x = "Vous avez gagné ~g~x%s %s~w~.",
 	you_lost_your_bet = "~r~Vous avez perdu votre pari.",
+	you_draw = "~y~Égalité ! ~w~Votre argent a été rendu.",
 	invalid_bet = "~r~Le montant de votre pari n'est pas valide.",
 	bet_limit = "~r~Vous ne pouvez pas parier ce montant.",
 	you_left_the_table = "~r~Vous avez quitté la table.",
@@ -1230,7 +1231,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	glife_points_balance_x = "Points GLife: ~r~%s",
 
 	bet_player_x_won_x = "~g~%s ~w~a gagné ~g~$%s~w~.",
-	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",
+	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",,
+	bet_player_x_draw = "~y~%s ~w~a récupéré son argent."
 
 	cloth_warning_game_build = "~r~Vous jouez sur un serveur utilisant une version obsolète du jeu. Il est possible que certains vêtements soient invisibles.",
 	back_accessory = "Accessoire supplémentaire",
