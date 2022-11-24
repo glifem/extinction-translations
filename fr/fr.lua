@@ -942,7 +942,11 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	player_already_muted = "~r~Ce joueur est déjà mute.",
 	player_not_muted = "~r~Ce joueur n'est pas mute.",
 	you_are_muted = "~r~Vous êtes muté.",
-
+	
+	you_jail_player = "~b~Vous avez jail ~g~%s~w.",
+	you_unjail_player = "~b~Vous avez unjail ~g~%s~w.",
+	you_are_jailed = "~r~Vous ne pouvez pas faire ça, vous êtes jail.",	
+	
 	open_mailbox = "ouvrir la boîte aux lettres",
 	you_entered_crew_pro = "~g~Vous êtes entré dans le bunker de votre crew.",
 
