@@ -1656,10 +1656,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mission_dungeon_boss_kill = "Terminer ^1%s^7 donjon(s) en tuant le boss final.",
 	mission_play_time = "Jouer pendant ^1%s^7 heures",
 	mission_loot_crate_simple = "Ouvrez ^1%s^7 caisse(s) de butin",
-	mission_sell_items_simple = "Achetez ^1%s^7 objets à n'importe quel magasin NPC",
-	mission_sell_items_category = "Vendez ^1%s^7 objets de cette catégorie à n'importe quel magasin NPC (%s)",
+	mission_sell_items_simple = "Vendez ^1%s^7 objets à n'importe quelle boutique PNJ",
+	mission_sell_items_category = "Vendez ^1%s^7 objets de cette catégorie à n'importe quelle boutique PNJ (%s)",
 	mission_buy_items_simple = "Achetez ^1%s^7 objets dans n'importe quelle boutique de PNJ",
-	mission_buy_items_category = "Achetez ^1%s^7 objets dans n'importe quel magasin NPC de cette catégorie (%s)",
+	mission_buy_items_category = "Achetez ^1%s^7 objets dans n'importe quelle boutique PNJ de cette catégorie (%s)",
 	mission_use_item_simple = "Utilisez ^1%s^7 objets",
 	mission_use_item_category = "Utilisez ^1%s^7 objets de cette catégorie (%s)",
 	category_all = "Tous",
@@ -1808,6 +1808,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	afk_notif_any_time = "Vous pouvez AFK à tout moment et obtenir une récompense en restant en ligne.\n~g~Tapez /afk",
 	gangwar_title = "Gang War",
 	gangwar_summary = "Deux factions s'affrontent sur une carte divisée en différentes zones et bases. Contrôler une base vous donne des points. La faction avec le plus de points à la fin du minuteur gagne.",
+	ped_not_allowed_kevlar_lobby = "~r~Votre personnage/ped n'est pas autorisé dans le lobby Kevlar.\n~r~Changez de Ped ou rejoignez le lobby Bandage.",
+	add_friend_title = "Ajouter un ami",
+	
 }
 
 AddLanguage("fr", my_language)
