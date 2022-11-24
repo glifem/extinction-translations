@@ -944,6 +944,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	player_not_muted = "~r~This player is not muted.",
 	you_are_muted = "~r~You are muted.",
 
+	you_jail_player = "~b~You jailed ~g~%s~w.",
+    	you_unjail_player = "~b~You unjailed ~g~%s~w.",
+    	you_are_jailed = "~r~You can't do that, you are Jailed.",
+	
 	open_mailbox = "open the mailbox",
 	you_entered_crew_pro = "~g~You entered your crew bunker.",
 
