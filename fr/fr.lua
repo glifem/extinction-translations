@@ -109,6 +109,7 @@ local my_language = {
 	character_id = "ID personnage",
 	server_id = "ID serveur",
 	report = "Signaler",
+	you_already_reported = "~r~Vous avez déjà fait un report récemment. Veuillez patienter.",
 	rename = "Renommer",
 	trade_with = "Troc",
 
