@@ -657,7 +657,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	toggle_mute_player = "Toggle Mute",
 	you_muted_this_player = "~b~You muted this player.",
 	you_unmuted_this_player = "~b~You unmuted this player.",
-
+	
 	already_purchased = "~r~You have already purchased this item.",
 	weapon_camo_preview = "You are previsualizing the weapon base model, some attachments are missing.\n~INPUT_CELLPHONE_CANCEL~ to exit the preview.",
 
@@ -941,6 +941,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	player_already_muted = "~r~This player is already muted.",
 	player_not_muted = "~r~This player is not muted.",
 	you_are_muted = "~r~You are muted.",
+	
+	you_jail_player = "~b~You jailed ~g~%s~w.",
+	you_unjail_player = "~b~You unjailed ~g~%s~w.",
+	you_are_jailed = "~r~You can't do that, you are Jailed.",
 
 	open_mailbox = "open the mailbox",
 	you_entered_crew_pro = "~g~You entered your crew bunker.",
