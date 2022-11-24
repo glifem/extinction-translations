@@ -31,7 +31,7 @@
 	"misc": "Autre",
 	"Daily Missions": "Missions quotidiennes",
 	"settings": "Options",
-	"crew_profile": "Profil de crew",
+	"crew_profile": "Crew",
 	"trade": "Échange",
 	"my_marketplace_offers": "Mes offres marché",
 	"new_marketplace_offer": "Nouvelle offre marché",
@@ -45,5 +45,6 @@
 	"press-x-to-start": "Appuyez sur <span>{{key}}</span> pour jouer.",
     "press-x-to-exit-afk": "Appuyez sur <span>{{key}}</span> pour quitter le mode AFK.",
 	"enter": "Entrer",
-	"back": "Retour"
+	"back": "Retour",
+	"edit-your-kits": "Éditer vos kits"
 }

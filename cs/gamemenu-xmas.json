@@ -1,9 +1,9 @@
 {
     "xmas-event": "Vanocni event",
-    "complete-all-message": "Vyber si ukol se kterým chceš začít. Splnenim všech ukolu dostaneš nejaky dárek.",
+    "complete-all-message": "Choose the quest you want to start with. Completing all quests will get you a special character/Ped.",
     "expire-in": "Vyprší za {{hours}} hodin",
     "completed": "Splneno",
     "expired": "Vypršelo",
     "day": "Den",
-    "get-secret-reward": "Získat tajnou odmenu"
+    "get-secret-reward": "Get the final reward"
 }
