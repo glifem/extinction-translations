@@ -1297,7 +1297,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	trade_invite = "Vous avez été invité à faire un échange.",
 	trade = "Échange",
 
-	league_lobby_invite = "Vous avez été invité à rejoindre un lobby league.",
+	league_lobby_invite = "vous a invité à rejoindre son lobby.",
+	league_lobby_friend_request = "vous a envoyé une demande d'ami.",
 	league_party = "Lobby League",
 	league_random_mode_summary = "Un mode aléatoire sera sélectionné une fois que le jeu sera prêt à démarrer.",
 	league_random_mode_title = "Mode aléatoire",
