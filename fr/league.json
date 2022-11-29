@@ -10,6 +10,10 @@
 	"add-friend": "Ajouter en ami",
 	"remove-friend": "Retirer ami",
 	"online": "En ligne",
+	"offline": "Hors ligne",
+	"playing_extinction": "Joue à Extinction",
+	"playing_gungame": "Joue en Gun Game",
+	"playing_battleroyale": "Joue en Battle Royale",
     "join": "Rejoindre",
     "master": "Master",
     "platinium": "Platine",
@@ -45,6 +49,9 @@
 	"mode-breakthrough-desc": "Capture the enemy base.",
 	"mode-convoy-desc": "Protect your convoy from the enemy.",
 	"mode-supply-war-desc": "Capture the enemy supply.",
-	"mode-gangwar-desc": "Capture the enemy base."
-
+	"mode-gangwar-desc": "Capture the enemy base.",
+	"in-party": "Dans le groupe",
+	"kick-player": "Expulser",
+	"set-leader": "Définir comme chef",
+	"leave-group": "Quitter le groupe"
 }
