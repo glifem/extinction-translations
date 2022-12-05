@@ -1296,7 +1296,8 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si muz
 	trade_invite = "Byl jsi pozván k obchodování.",
 	trade = "Obchodování",
 
-	league_lobby_invite = "Byl jsi pozván do lobby ligy.",
+	league_lobby_invite = "sent you an invitation to its party.",
+	league_lobby_friend_request = "sent you a friend request.",
 	league_party = "Lobby ligy",
 	league_random_mode_summary = "Náhodný mod bude vybrán až se odstartuje hra.",
 	league_random_mode_title = "Náhodný mod",
