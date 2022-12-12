@@ -1338,7 +1338,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	duration_30m = "30 minutes",
 
 	-- Map editor
-	dynamic = "Dyanmic",
+	dynamic = "Dynamic",
 	no_collision = "Collision disabled",
 	crosshair_disabled = "Crosshair disabled",
 	autosave_disabled = "Autosave disabled",
@@ -1812,6 +1812,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	add_friend_title = "Add friend",
 	snowDisabled = "Snow disabled",
 	snowDisabled_desc = "Disable the snow effect.",
+	no_longer_need_ammo = "~r~You no longer need to use this type of ammo with your weapons.",
 }
 
 AddLanguage("en", my_language)
