@@ -1597,6 +1597,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mission_kill_player_zone_weapon = "Tuez ^1%s^7 joueurs (%s) avec %s",
 	mission_zombie_kill_simple = "Tuez ^1%s^7 zombies",
 	mission_zombie_kill_weapon = "Tuez ^1%s^7 zombies avec %s",
+	mission_zombie_kill_simple_zone = "Tuez ^1%s^7 zombies (%s)",
+	mission_zombie_kill_simple_zone_weapon = "Tuez ^1%s^7 zombies (%s) avec %s",
 	mission_zombie_armored_kill_simple = "Tuez ^1%s^7 zombies en armure",
 	mission_zombie_armored_kill_weapon = "Tuez ^1%s^7 zombies en armure avec %s",
 	mission_zombie_boomer_kill_simple = "Tuez ^1%s^7 zombies boomer",
