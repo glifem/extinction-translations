@@ -1817,6 +1817,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	snowDisabled = "Désactiver la neige",
 	snowDisabled_desc = "Désactive la neige sur la carte.",
 	no_longer_need_ammo = "~r~Vous n'avez plus besoin d'utiliser ce type de munitions avec vos armes.",
+	desert = "Désert",
 }
 
 AddLanguage("fr", my_language)
