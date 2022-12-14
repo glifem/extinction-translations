@@ -658,6 +658,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	you_muted_this_player = "~b~Vous avez muté ce joueur.",
 	you_unmuted_this_player = "~b~Vous avez démuté ce joueur.",
 
+	you_renamed_this_character_to = "Vous avez renommé le charID %s en %s",
+	
 	already_purchased = "~r~Vous avez déjà acheté cet item.",
 	weapon_camo_preview = "Vous prévisualisez le modèle de base de l'arme, certaines pièces jointes sont manquantes.\n~INPUT_CELLPHONE_CANCEL~ pour quitter l'aperçu.",
 
@@ -942,6 +944,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	player_already_muted = "~r~Ce joueur est déjà mute.",
 	player_not_muted = "~r~Ce joueur n'est pas mute.",
 	you_are_muted = "~r~Vous êtes muté.",
+	
+	you_jail_player = "~b~Vous avez jail ~g~%s~w.",
+    	you_unjail_player = "~b~Vous avez unjail ~g~%s~w.",
+    	you_are_jailed = "~r~Vous ne pouvez pas faire ça, vous êtes jail.",
 
 	open_mailbox = "ouvrir la boîte aux lettres",
 	you_entered_crew_pro = "~g~Vous êtes entré dans le bunker de votre crew.",
@@ -1170,6 +1176,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	start_in = "Début dans",
 	you_won_x_x = "Vous avez gagné ~g~x%s %s~w~.",
 	you_lost_your_bet = "~r~Vous avez perdu votre pari.",
+	you_draw = "~y~Égalité ! ~w~Votre argent a été rendu.",
 	invalid_bet = "~r~Le montant de votre pari n'est pas valide.",
 	bet_limit = "~r~Vous ne pouvez pas parier ce montant.",
 	you_left_the_table = "~r~Vous avez quitté la table.",
@@ -1223,6 +1230,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	marketplace_create_buy_offer = "Vous avez créé une offre d'achat pour ^0%sx %s ^7de ^0$%s^7 par unité.",
 	full_for_item_ui = "Il n'y a pas ^0assez de place^7 pour cet item.",
 	no_enough_money_ui = "Vous n'avez ^0pas assez d'argent^7.",
+	not_enough_of_x = "~r~Vous n'avez pas assez de %s",
+	not_enough_of_x_in_chest = "~r~Vous n'avez pas assez de %s dans le coffre",
 
 	gpoints_shop = "Boutique GLife Points",
 	no_enough_glife_points = "~r~Vous n'avez pas assez de points GLife.",
@@ -1230,7 +1239,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	glife_points_balance_x = "Points GLife: ~r~%s",
 
 	bet_player_x_won_x = "~g~%s ~w~a gagné ~g~$%s~w~.",
-	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",
+	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",,
+	bet_player_x_draw = "~y~%s ~w~a récupéré son argent."
 
 	cloth_warning_game_build = "~r~Vous jouez sur un serveur utilisant une version obsolète du jeu. Il est possible que certains vêtements soient invisibles.",
 	back_accessory = "Accessoire supplémentaire",
