@@ -1176,6 +1176,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	start_in = "Start in",
 	you_won_x_x = "You won ~g~x%s %s~w~.",
 	you_lost_your_bet = "~r~You lost your bet.",
+	you_draw = "~y~Draw ! ~w~Your money has been returned.",
 	invalid_bet = "~r~You cannot bet less than $%s.",
 	bet_limit = "~r~You cannot bet more than $%s.",
 	you_left_the_table = "~r~You left the table",
@@ -1239,6 +1240,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	bet_player_x_won_x = "~g~%s ~w~won ~g~$%s~w~.",
 	bet_player_x_lost_x = "~r~%s ~w~lost ~r~$%s~w~.",
+	bet_player_x_draw = "~y~%s ~w~money was ~y~returned~w~."
 
 	cloth_warning_game_build = "~r~You are playing on a server using a outdated game build. It is possible some cloth may be invisible.",
 	back_accessory = "Extra accessory item",
