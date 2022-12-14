@@ -40,5 +40,7 @@
 	"interfaceOpacity": "Opacité de l'interface",
 	"interfaceOpacity_desc": "Définit l'opacité de l'interface",
 	"interfaceItemStyle": "Style des items",
-	"interfaceItemStyle_desc": "Définit le style des items de l'inventaire"
+	"interfaceItemStyle_desc": "Définit le style des items de l'inventaire",
+	"hitmarkerSoundVolume": "Volume des hitmarkers",
+    	"hitmarkerSoundVolume_desc": "Définit le volume des hitmarkers. Par défaut : 50%"
 }

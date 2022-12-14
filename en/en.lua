@@ -657,7 +657,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	toggle_mute_player = "Toggle Mute",
 	you_muted_this_player = "~b~You muted this player.",
 	you_unmuted_this_player = "~b~You unmuted this player.",
-
+	
+	you_renamed_this_character_to = "You have renamed the charID %s to %s",
+	
 	already_purchased = "~r~You have already purchased this item.",
 	weapon_camo_preview = "You are previsualizing the weapon base model, some attachments are missing.\n~INPUT_CELLPHONE_CANCEL~ to exit the preview.",
 
@@ -943,6 +945,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	player_not_muted = "~r~This player is not muted.",
 	you_are_muted = "~r~You are muted.",
 
+	you_jail_player = "~b~You jailed ~g~%s~w.",
+    	you_unjail_player = "~b~You unjailed ~g~%s~w.",
+    	you_are_jailed = "~r~You can't do that, you are Jailed.",
+	
 	open_mailbox = "open the mailbox",
 	you_entered_crew_pro = "~g~You entered your crew bunker.",
 
@@ -1223,6 +1229,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	deleted_sell_offers = "You ^0deleted^7 your sell offers.",
 	deleted_buy_offers = "You ^0deleted^7 your sell offers.",
 	no_enough_money_ui = "You can't ^0afford that^7.",
+	not_enough_of_x = "~r~You don't have enough of %s",
+	not_enough_of_x_in_chest = "~r~You don't have enough of %s in the chest",
 
 	gpoints_shop = "GLife Points shop",
 	no_enough_glife_points = "~r~You do not have enough glife points.",
