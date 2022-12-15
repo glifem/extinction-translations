@@ -1239,8 +1239,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	glife_points_balance_x = "Points GLife: ~r~%s",
 
 	bet_player_x_won_x = "~g~%s ~w~a gagné ~g~$%s~w~.",
-	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",,
-	bet_player_x_draw = "~y~%s ~w~a récupéré son argent."
+	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",
+	bet_player_x_draw = "~y~%s ~w~a récupéré son argent.",
 
 	cloth_warning_game_build = "~r~Vous jouez sur un serveur utilisant une version obsolète du jeu. Il est possible que certains vêtements soient invisibles.",
 	back_accessory = "Accessoire supplémentaire",
@@ -1832,6 +1832,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	snowDisabled_desc = "Désactive la neige sur la carte.",
 	no_longer_need_ammo = "~r~Vous n'avez plus besoin d'utiliser ce type de munitions avec vos armes.",
 	desert = "Désert",
+	offshore_money = "Argent offshore",
 }
 
 AddLanguage("fr", my_language)
