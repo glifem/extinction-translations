@@ -35,12 +35,14 @@
 	"killSoundEffectEnabled_desc": "Choisissez si le son du kill est activé ou non",
 	"hitmarkerScale": "Taille Hitmarker",
 	"hitmarkerScale_desc": "Définir la taille des hitmarkers",
-	"trashDisabled": "Langage vulgaire désactivé dans le chat",
-	"trashDisabled_desc": "Choisissez si le langage vulgaire est désactivé dans le chat",
 	"interfaceOpacity": "Opacité de l'interface",
 	"interfaceOpacity_desc": "Définit l'opacité de l'interface",
 	"interfaceItemStyle": "Style des items",
 	"interfaceItemStyle_desc": "Définit le style des items de l'inventaire",
 	"hitmarkerSoundVolume": "Volume des hitmarkers",
-    	"hitmarkerSoundVolume_desc": "Définit le volume des hitmarkers. Par défaut : 50%"
+    "hitmarkerSoundVolume_desc": "Définit le volume des hitmarkers. Par défaut : 50%",
+	"snowDisabled": "Désactiver la neige",
+	"snowDisabled_desc": "Désactive la neige sur la carte.",
+	"visualPresets": "Presets Pack Visuel",
+	"visualPresets_desc": "Sélectionnez les préréglages optimisés avec lesquels vous voulez jouer. Bon pour l'amélioration des FPS et les paramètres PVP."
 }

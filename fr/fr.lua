@@ -1828,11 +1828,23 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	gangwar_summary = "Deux factions s'affrontent sur une carte divisée en différentes zones et bases. Contrôler une base vous donne des points. La faction avec le plus de points à la fin du minuteur gagne.",
 	ped_not_allowed_kevlar_lobby = "~r~Votre personnage/ped n'est pas autorisé dans le lobby Kevlar.\n~r~Changez de Ped ou rejoignez le lobby Bandage.",
 	add_friend_title = "Ajouter un ami",
-	snowDisabled = "Désactiver la neige",
-	snowDisabled_desc = "Désactive la neige sur la carte.",
 	no_longer_need_ammo = "~r~Vous n'avez plus besoin d'utiliser ce type de munitions avec vos armes.",
 	desert = "Désert",
 	offshore_money = "Argent offshore",
+	use_computer = "utiliser l'ordinateur",
+	leave_hq = "quitter le QG",
+
+	-- Property stuff
+	available_actions = "Actions disponibles",
+	create_property = "Créer une propriété",
+	interiors = "Intérieurs",
+	floors = "Liste des étages",
+	edit_floors = "editer etage(s)",
+	this_property_is_a_garage = "Cette propriété est un garage",
+	property_modification = "edition maison",
+	entrance = "Entrée",
+	duplicate_floor = "Dupliquer l'étage",
+	save = "Sauvegarder",
 }
 
 AddLanguage("fr", my_language)

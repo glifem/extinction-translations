@@ -35,12 +35,14 @@
 	"killSoundEffectEnabled_desc": "Choose whether or not kill sound effect is enabled",
 	"hitmarkerScale": "Hitmarker scale",
 	"hitmarkerScale_desc": "Set the hitmarker scale",
-	"trashDisabled": "Trash talking chat is disabled",
-	"trashDisabled_desc": "Choose whether or not trash talking chat is hidden",
 	"interfaceOpacity": "Interface opacity",
 	"interfaceOpacity_desc": "Sets the opacity of the interface",
 	"interfaceItemStyle": "Interface item style",
 	"interfaceItemStyle_desc": "Sets the style of the inventory items",
 	"hitmarkerSoundVolume": "Volume of hitmarkers",
-        "hitmarkerSoundVolume_desc": "Defines the volume of the hitmarkers. Default: 50%."
+    "hitmarkerSoundVolume_desc": "Defines the volume of the hitmarkers. Default: 50%.",
+	"snowDisabled": "Snow disabled",
+	"snowDisabled_desc": "Disable the snow effect.",
+	"visualPresets": "Visual Pack Presets",
+	"visualPresets_desc": "Select the optimized pack presets you want to play with. Good for FPS boost and PVP settings."
 }

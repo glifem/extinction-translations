@@ -1826,11 +1826,23 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	afk_notif_any_time = "You can AFK any time and get reward while staying online.\n~g~Type /afk",
 	ped_not_allowed_kevlar_lobby = "~r~This ped is not allowed in the Kevlar Lobby.\n~r~Change your ped or join the bandage lobby.",
 	add_friend_title = "Add friend",
-	snowDisabled = "Snow disabled",
-	snowDisabled_desc = "Disable the snow effect.",
 	no_longer_need_ammo = "~r~You no longer need to use this type of ammo with your weapons.",
 	desert = "Desert",
 	offshore_money = "Offshore money",
+	use_computer = "use computer",
+	leave_hq = "leave the headquarter",
+
+	-- Property stuff
+	available_actions = "Available actions",
+	create_property = "Create a property",
+	interiors = "Interiors",
+	floors = "Floors",
+	edit_floors = "Edit floors",
+	this_property_is_a_garage = "This is a garage",
+	property_modification = "property modification",
+	entrance = "Entrance",
+	duplicate_floor = "Duplicate floor",
+	save = "Save",
 }
 
 AddLanguage("en", my_language)
