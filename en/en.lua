@@ -860,7 +860,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	darkzone_open = "Darkzone landing are available.\n~r~Find a transporter in any safezone.",
 	darkzone_item_clean = "This item is already clean.\n~r~You can only put contaminated items.",
 
-	dungeon_cooldown_between = "Please wait ~r~%s minutes~w~ before starting a dungeon again.",
+	dungeon_cooldown_between = "Please wait ~r~%s~w~ before starting a dungeon again.",
 	set_as_default = "Set as default custom for vehicle model",
 	car_custom_presets_saved = "Your customization presets for ~g~%s~w~ have been saved.",
 	marketplace_you_received_x_x = "You received ^0%sx %s^7.",
@@ -1845,6 +1845,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	save = "Save",
 
 	no_fivem_id_battlepass = "You need to link a FiveM account to progress in the battlepass.",
+	report_for_cheating = "Report for cheating",
+	x_reported_you_for_cheating = "~r~<C>%s</C>~w~ reported you for cheating.",
+	resethead_cooldown_between = "Please wait ~r~%s~w~ before changing your models again.",
 }
 
 AddLanguage("en", my_language)
