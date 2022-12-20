@@ -1843,6 +1843,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	entrance = "Entrance",
 	duplicate_floor = "Duplicate floor",
 	save = "Save",
+
+	no_fivem_id_battlepass = "You need to link a FiveM account to progress in the battlepass.",
 }
 
 AddLanguage("en", my_language)

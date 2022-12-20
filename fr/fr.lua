@@ -1845,6 +1845,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	entrance = "Entrée",
 	duplicate_floor = "Dupliquer l'étage",
 	save = "Sauvegarder",
+
+	no_fivem_id_battlepass = "Vous devez lier un compte FiveM pour progresser dans le battlepass.",
 }
 
 AddLanguage("fr", my_language)
