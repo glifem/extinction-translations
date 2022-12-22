@@ -65,5 +65,7 @@
 	"visual_bulletImpact": "Impact de balle",
 	"visual_bulletImpact_desc": "Désactiver tous les effets d'impact de balle.",
 	"visual_cloudhat": "Nuage",
-	"visual_cloudhat_desc": "Désactiver tous les nuages."
+	"visual_cloudhat_desc": "Désactiver tous les nuages.",
+	"defaultSpawnLoadout": "Spawn avec le loadout par défaut",
+	"defaultSpawnLoadout_desc": "Choisissez si vous souhaites spawn avec les armes et véhicules par défaut d'Extinction"
 }

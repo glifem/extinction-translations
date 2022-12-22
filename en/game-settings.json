@@ -65,5 +65,7 @@
 	"visual_bulletImpact": "Bullet impact",
 	"visual_bulletImpact_desc": "Disable all bullet impact effects.",
 	"visual_cloudhat": "Cloud hat",
-	"visual_cloudhat_desc": "Disable all clouds."
+	"visual_cloudhat_desc": "Disable all clouds.",
+	"defaultSpawnLoadout": "Spawn with default loadout",
+	"defaultSpawnLoadout_desc": "Choose whether or not you spawn with the default Extinction weapons and vehicles"
 }
