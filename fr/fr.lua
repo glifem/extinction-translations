@@ -658,6 +658,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	you_muted_this_player = "~b~Vous avez muté ce joueur.",
 	you_unmuted_this_player = "~b~Vous avez démuté ce joueur.",
 
+	you_renamed_this_character_to = "Vous avez renommé le charID %s en %s",
+	
 	already_purchased = "~r~Vous avez déjà acheté cet item.",
 	weapon_camo_preview = "Vous prévisualisez le modèle de base de l'arme, certaines pièces jointes sont manquantes.\n~INPUT_CELLPHONE_CANCEL~ pour quitter l'aperçu.",
 
@@ -857,8 +859,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	darkzone_refilled_purificator_x = "Vous avez utilisé ~r~x%s points~w~ pour activer le purificateur.",
 	darkzone_open = "Les atterrissages en Darkzone sont disponibles.\n~r~Trouvez un transporteur dans n'importe quelle safezone.",
 	darkzone_item_clean = "Cet objet est déjà propre.\n~r~Vous ne pouvez mettre que des articles contaminés.",
-	
-	dungeon_cooldown_between = "Veuillez patienter ~r~%s minutes~w~ avant de recommencer le donjon une nouvelle fois.",
+
+	dungeon_cooldown_between = "Veuillez patienter ~r~%s~w~ avant de recommencer le donjon une nouvelle fois.",
 	set_as_default = "Défini comme customisation personnalisée par défaut pour le modèle de véhicule",
 	car_custom_presets_saved = "Votre présélection de personnalisation pour ~g~%s~w~ ont été sauvegardés.",
 	marketplace_you_received_x_x = "Vous avez reçu ~b~%sx ~g~%s~w~.",
@@ -942,6 +944,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	player_already_muted = "~r~Ce joueur est déjà mute.",
 	player_not_muted = "~r~Ce joueur n'est pas mute.",
 	you_are_muted = "~r~Vous êtes muté.",
+	
+	you_jail_player = "~b~Vous avez jail ~g~%s~w.",
+    	you_unjail_player = "~b~Vous avez unjail ~g~%s~w.",
+    	you_are_jailed = "~r~Vous ne pouvez pas faire ça, vous êtes jail.",
 
 	open_mailbox = "ouvrir la boîte aux lettres",
 	you_entered_crew_pro = "~g~Vous êtes entré dans le bunker de votre crew.",
@@ -1170,6 +1176,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	start_in = "Début dans",
 	you_won_x_x = "Vous avez gagné ~g~x%s %s~w~.",
 	you_lost_your_bet = "~r~Vous avez perdu votre pari.",
+	you_draw = "~y~Égalité ! ~w~Votre argent a été rendu.",
 	invalid_bet = "~r~Le montant de votre pari n'est pas valide.",
 	bet_limit = "~r~Vous ne pouvez pas parier ce montant.",
 	you_left_the_table = "~r~Vous avez quitté la table.",
@@ -1233,6 +1240,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	bet_player_x_won_x = "~g~%s ~w~a gagné ~g~$%s~w~.",
 	bet_player_x_lost_x = "~r~%s ~w~a perdu ~r~$%s~w~.",
+	bet_player_x_draw = "~y~%s ~w~a récupéré son argent.",
 
 	cloth_warning_game_build = "~r~Vous jouez sur un serveur utilisant une version obsolète du jeu. Il est possible que certains vêtements soient invisibles.",
 	back_accessory = "Accessoire supplémentaire",
@@ -1599,14 +1607,20 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mission_kill_player_zone_weapon = "Tuez ^1%s^7 joueurs (%s) avec %s",
 	mission_zombie_kill_simple = "Tuez ^1%s^7 zombies",
 	mission_zombie_kill_weapon = "Tuez ^1%s^7 zombies avec %s",
+	mission_zombie_kill_simple_zone_weapon = "Tuez ^1%s^7 zombies (%s) avec %s",
+	mission_zombie_kill_simple_zone = "Tuez ^1%s^7 zombies (%s)",
 	mission_zombie_armored_kill_simple = "Tuez ^1%s^7 zombies en armure",
 	mission_zombie_armored_kill_weapon = "Tuez ^1%s^7 zombies en armure avec %s",
+	mission_zombie_armored_kill_simple_zone = "Tuez ^1%s^7 zombies en armure (%s)",
 	mission_zombie_boomer_kill_simple = "Tuez ^1%s^7 zombies boomer",
 	mission_zombie_boomer_kill_weapon = "Tuez ^1%s^7 zombies boomer avec %s",
+	mission_zombie_boomer_kill_simple_zone = "Tuez ^1%s^7 zombies boomer (%s)",
 	mission_zombie_hazmat_kill_simple = "Tuez ^1%s^7 zombies hazmat",
 	mission_zombie_hazmat_kill_weapon = "Tuez ^1%s^7 zombies hazmat avec %s",
+	mission_zombie_hazmat_kill_simple_zone = "Tuez ^1%s^7 zombies hazmat (%s)",
 	mission_zombie_survivor_kill_simple = "Tuez ^1%s^7 zombies survivants",
 	mission_zombie_survivor_kill_weapon = "Tuez ^1%s^7 zombies survivants avec %s",
+	mission_zombie_survivor_kill_simple_zone = "Tuez ^1%s^7 zombies survivants (%s)",
 	mission_kill_headshot_simple = "Tuez ^1%s^7 joueurs avec un headshot",
 	mission_kill_headshot_weapon = "Tuez ^1%s^7 joueurs avec un headshot avec %s",
 	mission_kill_headshot_zone = "Tuez ^1%s^7 joueurs avec un headshot (%s)",
@@ -1814,8 +1828,28 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	gangwar_summary = "Deux factions s'affrontent sur une carte divisée en différentes zones et bases. Contrôler une base vous donne des points. La faction avec le plus de points à la fin du minuteur gagne.",
 	ped_not_allowed_kevlar_lobby = "~r~Votre personnage/ped n'est pas autorisé dans le lobby Kevlar.\n~r~Changez de Ped ou rejoignez le lobby Bandage.",
 	add_friend_title = "Ajouter un ami",
-	snowDisabled = "Désactiver la neige",
-	snowDisabled_desc = "Désactive la neige sur la carte.",
+	no_longer_need_ammo = "~r~Vous n'avez plus besoin d'utiliser ce type de munitions avec vos armes.",
+	desert = "Désert",
+	offshore_money = "Argent offshore",
+	use_computer = "utiliser l'ordinateur",
+	leave_hq = "quitter le QG",
+
+	-- Property stuff
+	available_actions = "Actions disponibles",
+	create_property = "Créer une propriété",
+	interiors = "Intérieurs",
+	floors = "Liste des étages",
+	edit_floors = "editer etage(s)",
+	this_property_is_a_garage = "Cette propriété est un garage",
+	property_modification = "edition maison",
+	entrance = "Entrée",
+	duplicate_floor = "Dupliquer l'étage",
+	save = "Sauvegarder",
+
+	no_fivem_id_battlepass = "Vous devez lier un compte FiveM pour progresser dans le battlepass.",
+	report_for_cheating = "Signaler pour cheat",
+	x_reported_you_for_cheating = "~r~<C>%s</C>~w~ vous a signalé pour cheat.",
+	resethead_cooldown_between = "Vous devez attendre ~r~%s~w~ avant de pouvoir réinitialiser votre model.",
 }
 
 AddLanguage("fr", my_language)

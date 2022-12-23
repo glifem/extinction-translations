@@ -10,6 +10,10 @@
 	"add-friend": "Add friend",
 	"remove-friend": "Remove friend",
 	"online": "Online",
+	"offline": "Offline",
+	"playing_extinction": "Playing Extinction",
+	"playing_gungame": "Playing Gun Game",
+	"playing_battleroyale": "Playing Battle Royale",
     "join": "Join",
     "master": "Master",
     "platinium": "Platinium",
@@ -45,5 +49,9 @@
 	"mode-breakthrough-desc": "Capture the enemy base.",
 	"mode-convoy-desc": "Protect your convoy from the enemy.",
 	"mode-supply-war-desc": "Capture the enemy supply.",
-	"mode-gangwar-desc": "Capture the enemy base."
+	"mode-gangwar-desc": "Capture the enemy base.",
+	"in-party": "In party",
+	"kick-player": "Kick player",
+	"set-leader": "Set leader",
+	"leave-group": "Leave group"
 }
