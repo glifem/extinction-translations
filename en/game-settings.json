@@ -40,7 +40,7 @@
 	"interfaceItemStyle": "Interface item style",
 	"interfaceItemStyle_desc": "Sets the style of the inventory items",
 	"hitmarkerSoundVolume": "Volume of hitmarkers",
-    "hitmarkerSoundVolume_desc": "Defines the volume of the hitmarkers. Default: 50%.",
+    	"hitmarkerSoundVolume_desc": "Defines the volume of the hitmarkers. Default: 50%.",
 	"snowDisabled": "Snow disabled",
 	"snowDisabled_desc": "Disable the snow effect.",
 	"visualPresets": "Visual Pack Presets",
@@ -67,5 +67,7 @@
 	"visual_cloudhat": "Cloud hat",
 	"visual_cloudhat_desc": "Disable all clouds.",
 	"defaultSpawnLoadout": "Spawn with default loadout",
-	"defaultSpawnLoadout_desc": "Choose whether or not you spawn with the default Extinction weapons and vehicles"
+	"defaultSpawnLoadout_desc": "Choose whether or not you spawn with the default Extinction weapons and vehicles",
+	"voiceDeathEnabled": "Voice chat to death",
+	"voiceDeathEnabled_desc": "Choose if you want to activate your microphone when you die."
 }
