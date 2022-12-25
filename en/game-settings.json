@@ -69,5 +69,7 @@
 	"defaultSpawnLoadout": "Spawn with default loadout",
 	"defaultSpawnLoadout_desc": "Choose whether or not you spawn with the default Extinction weapons and vehicles",
 	"voiceDeathEnabled": "Voice chat to death",
-	"voiceDeathEnabled_desc": "Choose if you want to activate your microphone when you die."
+	"voiceDeathEnabled_desc": "Choose if you want to activate your microphone when you die.",
+	"voiceDisabledOnSafezone": "Disable voice chat in Safezone",
+	"voiceDisabledOnSafezone_desc": "Choose to disable voice chat in the Safezone"
 }
