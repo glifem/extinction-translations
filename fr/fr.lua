@@ -1850,6 +1850,12 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	report_for_cheating = "Signaler pour cheat",
 	x_reported_you_for_cheating = "~r~<C>%s</C>~w~ vous a signalé pour cheat.",
 	resethead_cooldown_between = "Vous devez attendre ~r~%s~w~ avant de pouvoir réinitialiser votre model.",
+
+	-- Titles
+	preferred_title_set_x = "Votre titre préféré est fixé à ~g~%s~w~.",
+	preferred_title_not_set = "~r~(ERREUR) ~w~Votre titre n'a pas pu être mis à jour.",
+	preferred_title_cleared = "~b~Titre préféré réinitialisé.",
+	clear_equipped_title  = "Réinitialiser le titre",
 }
 
 AddLanguage("fr", my_language)
