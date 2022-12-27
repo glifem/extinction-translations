@@ -40,7 +40,7 @@
 	"interfaceItemStyle": "Style des items",
 	"interfaceItemStyle_desc": "Définit le style des items de l'inventaire",
 	"hitmarkerSoundVolume": "Volume des hitmarkers",
-    "hitmarkerSoundVolume_desc": "Définit le volume des hitmarkers. Par défaut : 50%",
+    	"hitmarkerSoundVolume_desc": "Définit le volume des hitmarkers. Par défaut : 50%",
 	"snowDisabled": "Désactiver la neige",
 	"snowDisabled_desc": "Désactive la neige sur la carte.",
 	"visualPresets": "Presets Pack Visuel",
@@ -67,5 +67,9 @@
 	"visual_cloudhat": "Nuage",
 	"visual_cloudhat_desc": "Désactiver tous les nuages.",
 	"defaultSpawnLoadout": "Spawn avec le loadout par défaut",
-	"defaultSpawnLoadout_desc": "Choisissez si vous souhaites spawn avec les armes et véhicules par défaut d'Extinction"
+	"defaultSpawnLoadout_desc": "Choisissez si vous souhaites spawn avec les armes et véhicules par défaut d'Extinction",
+	"voiceDeathEnabled": "Chat Vocal a la mort",
+	"voiceDeathEnabled_desc": "Choisissez si vous souhaitez activer votre microphone a votre mort.",
+	"voiceDisabledOnSafezone": "Désactiver le chat vocal en Safezone.",
+	"voiceDisabledOnSafezone_desc": "Choisissez de désactiver le chat vocal dans la Safezone."
 }
