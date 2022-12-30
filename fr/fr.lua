@@ -1100,6 +1100,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	["killhouse"] = "Killhouse",
 	["kortz"] = "Kortz",
 	["labs"] = "Humane Labs",
+	["legion-square"] = "Place des cubes",
 	["lost-territory"] = "Lost territory",
 	["madrazo"] = "Fuenta Blanca",
 	["military-base"] = "Base militaire",
