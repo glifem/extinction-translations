@@ -1817,6 +1817,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	arena_03 = "Arène 3",
 	arena_04 = "Arène 4",
 	arena_05 = "Arène 5",
+	["east-hood"] = "Quartier Est",
 	poll17_q1 = "Quel hitreg préférez-vous ?",
 	poll17_q1_a1 = "GLife Hitreg",
 	poll17_q1_a2 = "GTA Hitreg / FiveM hitreg",
