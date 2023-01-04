@@ -1111,6 +1111,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si muz
 	["sandy-motel"] = "Sandy motel",
 	["sandy-shore"] = "Sandy Shore",
 	["sawmill"] = "Sawmill",
+	["trailer-park"] = "Trailer park",
 	["transport-station"] = "Transport station",
 	["trash"] = "Junkyard",
 	["unicorn"] = "Unicorn",
