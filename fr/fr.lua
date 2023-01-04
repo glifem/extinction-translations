@@ -1112,6 +1112,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	["sandy-motel"] = "Motel Sandy",
 	["sandy-shore"] = "Sandy Shore",
 	["sawmill"] = "Scierie",
+	["scrapyard"] = "Casse",
 	["trailer-park"] = "Parc de caravanes",
 	["transport-station"] = "Station de transport",
 	["trash"] = "Casse",
