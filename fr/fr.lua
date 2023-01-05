@@ -1212,7 +1212,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	bet_validated_x = "Votre mise de ~g~$%s~w~ a été validée. (%s)",
 
 	join_br = "Rejoindre Battle Royale",
-	new_game_starting_x_press_x_join_soon = "Une nouvelle partie commence bientôt, pour être téléporté dans le lobby automatiquement avant le début du jeu ~y~appuyez sur X~w~.",
+	new_game_starting_x_press_x_join_soon = "Une nouvelle partie commence bientôt, pour être téléporté dans le lobby automatiquement avant le début du jeu ~y~appuyez sur N~w~.",
 	registered_teleported_before_start = "~b~Vous serez téléporté dans le lobby avant le début de la partie.",
 	lobby = "~y~Lobby",
 
