@@ -1100,6 +1100,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	["killhouse"] = "Killhouse",
 	["kortz"] = "Kortz",
 	["labs"] = "Humane Labs",
+	["legion-square"] = "Legion Square",
 	["lost-territory"] = "Lost territory",
 	["madrazo"] = "Fuenta Blanca",
 	["military-base"] = "Military Base",
@@ -1816,6 +1817,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	arena_03 = "Arena 3",
 	arena_04 = "Arena 4",
 	arena_05 = "Arena 5",
+	["east-hood"] = "East Hood",
 	poll17_q1 = "Which hitreg do you prefer?",
 	poll17_q1_a1 = "GLife Hitreg",
 	poll17_q1_a2 = "GTA Hitreg / FiveM hitreg",
@@ -1848,6 +1850,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	report_for_cheating = "Report for cheating",
 	x_reported_you_for_cheating = "~r~<C>%s</C>~w~ reported you for cheating.",
 	resethead_cooldown_between = "Please wait ~r~%s~w~ before changing your models again.",
+
+	-- Titles
+	preferred_title_set_x = "Preferred title set to ~g~%s~w~.",
+	preferred_title_not_set = "~r~(ERROR) ~w~Preferred title not set.",
+	preferred_title_cleared = "~b~Preferred title cleared.",
+	clear_equipped_title  = "Clear title",
 }
 
 AddLanguage("en", my_language)
