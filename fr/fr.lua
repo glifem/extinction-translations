@@ -1858,6 +1858,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	preferred_title_not_set = "~r~(ERREUR) ~w~Votre titre n'a pas pu être mis à jour.",
 	preferred_title_cleared = "~b~Titre préféré réinitialisé.",
 	clear_equipped_title  = "Réinitialiser le titre",
+	new_invisible = "Nouveau Invisible",
 }
 
 AddLanguage("fr", my_language)

@@ -1856,6 +1856,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	preferred_title_not_set = "~r~(ERROR) ~w~Preferred title not set.",
 	preferred_title_cleared = "~b~Preferred title cleared.",
 	clear_equipped_title  = "Clear title",
+	new_invisible = "New invisible",
 }
 
 AddLanguage("en", my_language)
