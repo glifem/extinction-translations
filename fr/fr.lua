@@ -1804,8 +1804,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	damage_outside_zone = "~r~Malus pour avoir été en dehors de la zone",
 	duel_fairground = "Fête foraine",
 	poll15_q1 = "Quelle meta Extinction devrait etre?",
-	poll15_q1_a1 = "Meta bandage (comme actuellement)",
-	poll15_q1_a2 = "Meta kevlar (comme les anciennes saisons)",
+	poll15_q1_a1 = "Meta bandage",
+	poll15_q1_a2 = "Meta kevlar",
 	duo_only = "Duo seulement",
 	duel_nuketown = "Nuketown",
 	duel_nature = "Nature",
@@ -1861,6 +1861,11 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	preferred_title_cleared = "~b~Titre préféré réinitialisé.",
 	clear_equipped_title  = "Réinitialiser le titre",
 	new_invisible = "Nouveau Invisible",
+
+	poll19_q1 = "Voulez-vous une nouvelle saison avec un wipe inventaire et argent complet?",
+	poll19_q2 = "Quel genre d'économie voulez-vous si nous faisons une nouvelle saison ?",
+	poll19_q2_a1 = "Loot facile pour les fusils, pistolets etc. mais très difficile pour les RPG, les snipers et les Deluxo.",
+	poll19_q2_a2 = "Loot facile pour les fusils, pistolets etc. et pas très difficile RPG & Snipers & Deluxo",
 }
 
 AddLanguage("fr", my_language)
