@@ -1864,8 +1864,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	poll19_q1 = "Voulez-vous une nouvelle saison avec un wipe inventaire et argent complet?",
 	poll19_q2 = "Quel genre d'économie voulez-vous si nous faisons une nouvelle saison ?",
-	poll19_q2_a1 = "Loot facile pour les fusils, pistolets etc. mais très difficile pour les RPG, les snipers et les Deluxo.",
-	poll19_q2_a2 = "Loot facile pour les fusils, pistolets etc. et pas très difficile RPG & Snipers & Deluxo",
+	poll19_q2_a1 = "Loot facile pour fusils, SMG etc. - Très difficile pour RPG, snipers Deluxo.",
+	poll19_q2_a2 = "Loot facile pour fusils, SMG etc. - Moyen pour RPG & Snipers & Deluxo",
 }
 
 AddLanguage("fr", my_language)

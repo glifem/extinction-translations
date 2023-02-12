@@ -1862,8 +1862,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	poll19_q1 = "Would you like a new season with a full inventory / money wipe?",
 	poll19_q2 = "What kind of economy would you like if we make a new season?",
-	poll19_q2_a1 = "Easy loot for rifle, pistols etc.. but very hard for RPG & Snipers & Deluxo",
-	poll19_q2_a2 = "Easy loot for rifle, pistols etc.. and not very hard RPG & Snipers & Deluxo",
+	poll19_q2_a1 = "Easy rifle, pistols etc.. Very hard RPG & Snipers & Deluxo",
+	poll19_q2_a2 = "Easy rifle, pistols etc.. Not very hard RPG & Snipers & Deluxo",
 
 	freeroam_public_nopvp = "Public #%s (No PVP)",
 	freeroam_public_pvp = "Public #%s (PVP)",
