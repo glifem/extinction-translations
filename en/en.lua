@@ -1804,8 +1804,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	damage_outside_zone = "~r~Damaged for being outside of the zone",
 	duel_fairground = "Fairground",
 	poll15_q1 = "Which meta Extinction should be?",
-	poll15_q1_a1 = "Bandage meta (like right now)",
-	poll15_q1_a2 = "Kevlar meta (like old seasons)",
+	poll15_q1_a1 = "Bandage meta",
+	poll15_q1_a2 = "Kevlar meta",
 	duo_only = "Duo only",
 	duel_nuketown = "Nuketown",
 	duel_nature = "Nature",
@@ -1859,6 +1859,11 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	preferred_title_cleared = "~b~Preferred title cleared.",
 	clear_equipped_title  = "Clear title",
 	new_invisible = "New invisible",
+
+	poll19_q1 = "Would you like a new season with a full inventory / money wipe?",
+	poll19_q2 = "What kind of economy would you like if we make a new season?",
+	poll19_q2_a1 = "Easy loot for rifle, pistols etc.. but very hard for RPG & Snipers & Deluxo",
+	poll19_q2_a2 = "Easy loot for rifle, pistols etc.. and not very hard RPG & Snipers & Deluxo",
 }
 
 AddLanguage("en", my_language)
