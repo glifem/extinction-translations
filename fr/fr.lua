@@ -861,7 +861,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	darkzone_item_clean = "Cet objet est déjà propre.\n~r~Vous ne pouvez mettre que des articles contaminés.",
 
 	dungeon_cooldown_between = "Veuillez patienter ~r~%s~w~ avant de recommencer le donjon une nouvelle fois.",
-	set_as_default = "Défini comme customisation personnalisée par défaut pour le modèle de véhicule",
+	set_as_default = "Défini comme customisation par défaut",
 	car_custom_presets_saved = "Votre présélection de personnalisation pour ~g~%s~w~ ont été sauvegardés.",
 	marketplace_you_received_x_x = "Vous avez reçu ~b~%sx ~g~%s~w~.",
 
