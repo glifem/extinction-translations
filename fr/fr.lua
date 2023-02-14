@@ -1887,7 +1887,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	invalid_mode = "Mode invalide.",
 	invalid_options = "Les options / flags sont invalides.",
 	invalid_weapon = "Les armes sont invalides.",
-	freeroam_lobby_intro = "%s pour utiliser le menu joueur.\n%s pour ouvrir le menu pour changer de lobby.",
+	freeroam_lobby_intro = "%s pour utiliser le menu joueur.\n%s pour ouvrir le menu pour changer de lobby.\n%s pour noclip.",
 	interaction_menu = "Menu d'interaction",
 	my_player = "Mon joueur",
 	my_vehicle = "Mon véhicule",
@@ -1957,6 +1957,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	flag_wep_custom = "Arme personnalisée",
 	flag_no_tp_player = "Pas de TP joueur",
 	flag_no_custom_ped = "Pas de peds",
+	flag_disable_combat_roll = "Pas de roulade",
 	freeroam_no_ped_creation = "~r~Vous ne pouvez pas utiliser les peds dans tous les lobby freeroam, vous avez donc besoin d'un nouveau personnage juste pour ce mode.",
 	give_or_remove_weapon = "Donner / Retirer une arme",
 	refresh_component_presets = "Rafraîchir les composants",
@@ -1970,6 +1971,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	respawn_safe_coords = "Respawn loin",
 	freeroam_invincible_dynamic = "L'invincibilité est activée automatiquement dans les lobbies non-pvp.",
 	vehicles = "Véhicules",
+	teleportation = "Téléportation",
 }
 
 AddLanguage("fr", my_language)
