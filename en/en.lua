@@ -1995,6 +1995,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	saved_vehicle = "Saved vehicle",
 	save_current_vehicle = "Save current vehicle",
 	freeroam_saved_vehicle = "You registered ~g~%s~w~ as ~g~%s~w~ in your saved vehicles.",
+	remote_player = "Remote player",
+	freeroam_menu = "Freeroam menu",
 }
 
 AddLanguage("en", my_language)

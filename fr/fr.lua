@@ -1995,6 +1995,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	saved_vehicle = "Véhicule sauvegardé",
 	save_current_vehicle = "Sauvegarder le véhicule actuel",
 	freeroam_saved_vehicle = "Vous avez enregistré ~g~%s~w~ ~g~%s~w~ dans vos véhicules sauvegardés.",
+	remote_player = "Joueur cible",
 }
 
 AddLanguage("fr", my_language)
