@@ -1992,6 +1992,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	hitmarkerScale = "Hitmarker scale",
 	all_veh_categories = "All categories",
 	saved_vehicles = "Saved vehicles",
+	saved_vehicle = "Saved vehicle",
 	save_current_vehicle = "Save current vehicle",
 	freeroam_saved_vehicle = "You registered ~g~%s~w~ as ~g~%s~w~ in your saved vehicles.",
 }

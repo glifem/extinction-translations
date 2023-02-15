@@ -1992,6 +1992,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	hitmarkerScale = "Taille des hitmarkers",
 	all_veh_categories = "Toutes les catégories",
 	saved_vehicles = "Véhicules sauvegardés",
+	saved_vehicle = "Véhicule sauvegardé",
 	save_current_vehicle = "Sauvegarder le véhicule actuel",
 	freeroam_saved_vehicle = "Vous avez enregistré ~g~%s~w~ ~g~%s~w~ dans vos véhicules sauvegardés.",
 }
