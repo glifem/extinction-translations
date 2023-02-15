@@ -1994,9 +1994,16 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	saved_vehicles = "Saved vehicles",
 	saved_vehicle = "Saved vehicle",
 	save_current_vehicle = "Save current vehicle",
-	freeroam_saved_vehicle = "You registered ~g~%s~w~ as ~g~%s~w~ in your saved vehicles.",
 	remote_player = "Remote player",
 	freeroam_menu = "Freeroam menu",
+	freeroam_saved_vehicle = "You registered ~g~%s~w~ in your saved vehicles (~b~%s~w~).",
+	other_player_other_gamemode = "You cannot teleport to this player he is in ~r~%s~w~.",
+	saved_peds = "Saved peds",
+	respawn_with_variation = "You will respawn with these variations",
+	save_current_ped = "Save current ped",
+	save_ped_variations = "Save the model and variations of this ped.",
+	freeroam_saved_ped = "You registered ~g~%s~w~ in your saved peds (~b~%s~w~).",
+	saved_ped = "Saved ped",
 }
 
 AddLanguage("en", my_language)

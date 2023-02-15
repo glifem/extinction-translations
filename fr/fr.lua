@@ -1994,8 +1994,15 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	saved_vehicles = "Véhicules sauvegardés",
 	saved_vehicle = "Véhicule sauvegardé",
 	save_current_vehicle = "Sauvegarder le véhicule actuel",
-	freeroam_saved_vehicle = "Vous avez enregistré ~g~%s~w~ ~g~%s~w~ dans vos véhicules sauvegardés.",
 	remote_player = "Joueur cible",
+	freeroam_saved_vehicle = "Vous avez enregistré ~g~%s~w~ dans vos véhicules sauvegardés (~b~%s~w~).",
+	other_player_other_gamemode = "Vous ne pouvez pas téléporter ce joueur car il est dans le mode ~r~%s~w~.",
+	saved_peds = "Peds sauvegardés",
+	respawn_with_variation = "Vous allez respawn avec ces variations",
+	save_current_ped = "Sauvegarder le ped actuel",
+	save_ped_variations = "Sauvegardez le modèle et les variations de ce ped.",
+	freeroam_saved_ped = "Vous avez enregistré ~g~%s~w~ dans vos peds sauvegardés (~b~%s~w~).",
+	saved_ped = "Ped sauvegardé",
 }
 
 AddLanguage("fr", my_language)
