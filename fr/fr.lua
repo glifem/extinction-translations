@@ -2003,6 +2003,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	save_ped_variations = "Sauvegardez le modèle et les variations de ce ped.",
 	freeroam_saved_ped = "Vous avez enregistré ~g~%s~w~ dans vos peds sauvegardés (~b~%s~w~).",
 	saved_ped = "Ped sauvegardé",
+	flag_siphon_mode = "Mode sangsue",
 }
 
 AddLanguage("fr", my_language)

@@ -2004,6 +2004,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	save_ped_variations = "Save the model and variations of this ped.",
 	freeroam_saved_ped = "You registered ~g~%s~w~ in your saved peds (~b~%s~w~).",
 	saved_ped = "Saved ped",
+	flag_siphon_mode = "Siphon mode",
 }
 
 AddLanguage("en", my_language)
