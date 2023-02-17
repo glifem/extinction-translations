@@ -2447,6 +2447,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	beginner_handling = "Beginner style",
 	player = "Player",
 	delete = "Delete",
+	rockstar_editor = "Rockstar Editor",
+	start_recording = "Start Recording",
+	stop_recording = "Stop Recording",
+	open_rockstar_editor = "Open Rockstar Editor",
 }
 
 AddLanguage("en", my_language)

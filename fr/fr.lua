@@ -2446,6 +2446,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	beginner_handling = "Tenue débutant",
 	player = "Joueur",
 	delete = "Supprimer",
+	rockstar_editor = "Rockstar Editor",
+	start_recording = "Lancer l'enregistrement",
+	stop_recording = "Stopper l'enregistrement",
+	open_rockstar_editor = "Ouvrir le Rockstar Editor",
 }
 
 AddLanguage("fr", my_language)
