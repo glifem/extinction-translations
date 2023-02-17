@@ -1,0 +1,18 @@
+{
+	"default_lobby_title": "Amical & Course",
+	"default_lobby_desc": "Environnement amical avec le PvP désactivé. Vous pouvez faire apparaître tous les véhicules, utiliser les outils de mapping, utiliser le mode photo ou participer à des courses.",
+	"default_lobby_blip_0": "Courses",
+	"default_lobby_blip_1": "Éditeur de carte et intérieurs",
+	"default_lobby_blip_2": "Tous les véhicules",
+	"default_convoy_title": "PvP Pistolet",
+	"default_convoy_desc": "PvP avec les pistolets et des armes de mêlée uniquement. Vous ne pouvez également faire apparaître que des voitures, les armes ont du recul et vous ne pouvez pas utiliser d'armure.",
+	"default_convoy_blip_0": "PvP activé",
+	"default_convoy_blip_1": "Pistolets et armes de mêlée",
+	"default_convoy_blip_2": "Véhicules normaux",
+	"default_pvp_title": "PvP illimité",
+	"default_pvp_desc": "PvP avec n'importe quelle arme qu'ils veulent. Aucune restriction, aucune règle, juste du PvP pur. Toutes les armes du jeu, y compris tous les véhicules armés, sont activées.",
+	"default_pvp_blip_0": "Armure / Kevlar",
+	"default_pvp_blip_1": "Véhicules armés",
+	"default_pvp_blip_2": "Tous les véhicules",
+	"select_lobby_want": "Sélectionnez le mode auquel vous souhaitez participer."
+}
