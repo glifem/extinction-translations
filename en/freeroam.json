@@ -1,0 +1,18 @@
+{
+	"default_lobby_title": "Friendly & Racing",
+	"default_lobby_desc": "This is a lobby for people who wants to play in a friendly environment with pvp disabled. You can spawn all vehicles, use mapping tools, use photo mode or participate in races.",
+	"default_lobby_blip_0": "Races",
+	"default_lobby_blip_1": "Map Editor & Interiors",
+	"default_lobby_blip_2": "All vehicles",
+	"default_convoy_title": "PvP Pistol",
+	"default_convoy_desc": "A lobby for players who want to fight with pistols and melee weapons only. You can also only spawn specific cars, weapons have recoil and you cannot use armor.",
+	"default_convoy_blip_0": "PvP Enabled",
+	"default_convoy_blip_1": "Pistols & Melee",
+	"default_convoy_blip_2": "Normal vehicles",
+	"default_pvp_title": "Unlimited PvP",
+	"default_pvp_desc": "A lobby for players who want to fight with any weapon they want. No restrictions, no rules, just pure PvP. All game weapons including all armed vehicles are enabled.",
+	"default_pvp_blip_0": "Armor / Kevlar",
+	"default_pvp_blip_1": "Armed vehicles",
+	"default_pvp_blip_2": "All vehicles",
+	"select_lobby_want": "Select the type of lobby you want to join."
+}
