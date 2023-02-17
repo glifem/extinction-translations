@@ -61,5 +61,7 @@
 	"minutes": "minutes",
 	"rank-required": "Vous devez avoir le rang {{rank}}",
 	"unable-to-find-player": "Impossible de trouver un joueur avec cet ID",
-	"found-player-x": "Trouvé {{name}} à partir de cet ID"
+	"found-player-x": "Trouvé {{name}} à partir de cet ID",
+	"yes": "Oui",
+	"no": "Non"
 }
