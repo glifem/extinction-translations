@@ -2003,6 +2003,31 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	save_ped_variations = "Sauvegardez le modèle et les variations de ce ped.",
 	freeroam_saved_ped = "Vous avez enregistré ~g~%s~w~ dans vos peds sauvegardés (~b~%s~w~).",
 	saved_ped = "Ped sauvegardé",
+
+	-- Race
+	race_too_late = "~r~Trop tard revenez à la prochaine course!",
+	race_join_game_x = "~b~rejoindre la course",
+	num_st = "%ser",
+	num_nd = "%sème",
+	num_rd = "%sème",
+	num_th = "%sème",
+	race_participant_x_finished_x = "~b~%s~w~ a fini la course ~g~%s.",
+	race_x_won_x = "~b~%s~w~ a gagné la course et a reçu ~g~$%s~w~.",
+	checkpoints = "Checkpoints",
+	vehicles_spawn = "Spawn des véhicules",
+	race_info = "Info de la course",
+	race_id = "ID course",
+	lap = "Tours",
+	girl_spawn = "PNJ Spawn",
+	map_position = "Position Map",
+	race_creator_instructions_checkpoints = "~INPUT_VEH_EXIT~ pour supprimer le dernier checkpoint\n~INPUT_CONTEXT~ pour ajouter un checkpoint",
+	race_creator_instructions_vehicles = "~INPUT_VEH_EXIT~ pour supprimer le dernier véhicule\n~INPUT_CONTEXT~ pour ajouter un véhicule",
+	race_respawn_vehicle = "Maintenez ~INPUT_VEH_EXIT~ pour respawn à tout moment de la course.",
+	add_vehicle = "Ajouter véhicule",
+	join_races = "Rejoindre les courses",
+	race_cross = "Course Terrain de cross",
+	race_filou = "Course Dock",
+	race_formula_airport = "Course Aéroport F1",
 }
 
 AddLanguage("fr", my_language)
