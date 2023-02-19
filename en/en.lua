@@ -2456,7 +2456,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	toggle_for_world = "Activate in world",
 	drift_enabled = "Toggle drift",
 	drift_mode = "Drift Power",
-	drift_mode_press_shift = "Press SHIFT in a vehicle to drift",
+	drift_mode_press_space = "Press SPACE in a vehicle to drift",
 }
 
 AddLanguage("en", my_language)

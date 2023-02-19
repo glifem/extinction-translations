@@ -2455,7 +2455,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	toggle_for_world = "Activer dans le monde",
 	drift_enabled = "Activer drift",
 	drift_mode = "Puissance du drift",
-	drift_mode_press_shift = "Appuyez sur SHIFT dans une voiture pour drift",
+	drift_mode_press_space = "Appuyez sur SPACE dans une voiture pour drift",
 }
 
 AddLanguage("fr", my_language)
