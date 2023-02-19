@@ -2451,6 +2451,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	start_recording = "Start Recording",
 	stop_recording = "Stop Recording",
 	open_rockstar_editor = "Open Rockstar Editor",
+	weapons = "Weapons",
+	export_ymap = "Export as Ymap",
+	toggle_for_world = "Activate in world",
+	drift_enabled = "Toggle drift",
+	drift_mode = "Drift Power",
+	drift_mode_press_shift = "Press SHIFT in a vehicle to drift",
 }
 
 AddLanguage("en", my_language)
