@@ -14,5 +14,7 @@
     "dungeon_completed": "Dungeon completed",
     "gungame_kills": "Player kills",
     "gungame_rank": "Game rank",
-    "external-server": "External server"
+    "external-server": "External server",
+	"extinction_desc": "PvP / PvE server where you can fight against other players and zombies.",
+	"freeroam_desc": "Freeroam including special modes: map tools, pvp lobbies, racing etc."
 }
