@@ -1801,6 +1801,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	safezone_outpost_3 = "Avant-poste 3",
 	safezone_outpost_4 = "Avant-poste 4",
 	safezone_outpost_5 = "Avant-poste 5",
+	safezone_outpost_6 = "Avant-poste 6",
+	safezone_outpost_7 = "Avant-poste 7",
+	safezone_outpost_8 = "Avant-poste 8",
+	safezone_outpost_9 = "Avant-poste 9",
 	damage_outside_zone = "~r~Malus pour avoir été en dehors de la zone",
 	duel_fairground = "Fête foraine",
 	poll15_q1 = "Quelle meta Extinction devrait etre?",
@@ -2456,6 +2460,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	drift_enabled = "Activer drift",
 	drift_mode = "Puissance du drift",
 	drift_mode_press_space = "Appuyez sur SPACE dans une voiture pour drift",
+	marketplace_paid_transaction_fee = "Vous avez payé ^0$%s^7 (%s%%) comme frais de transaction.",
 }
 
 AddLanguage("fr", my_language)

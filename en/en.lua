@@ -1801,6 +1801,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	safezone_outpost_3 = "Outpost 3",
 	safezone_outpost_4 = "Outpost 4",
 	safezone_outpost_5 = "Outpost 5",
+	safezone_outpost_6 = "Outpost 6",
+	safezone_outpost_7 = "Outpost 7",
+	safezone_outpost_8 = "Outpost 8",
+	safezone_outpost_9 = "Outpost 9",
 	damage_outside_zone = "~r~Damaged for being outside of the zone",
 	duel_fairground = "Fairground",
 	poll15_q1 = "Which meta Extinction should be?",
@@ -2457,6 +2461,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	drift_enabled = "Toggle drift",
 	drift_mode = "Drift Power",
 	drift_mode_press_space = "Press SPACE in a vehicle to drift",
+	marketplace_paid_transaction_fee = "You paid ^0$%s^7 (%s%%) as a transaction fee.",
 }
 
 AddLanguage("en", my_language)
