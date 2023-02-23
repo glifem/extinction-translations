@@ -2461,6 +2461,16 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	drift_mode = "Puissance du drift",
 	drift_mode_press_space = "Appuyez sur SPACE dans une voiture pour drift",
 	marketplace_paid_transaction_fee = "Vous avez payé ^0$%s^7 (%s%%) comme frais de transaction.",
+	kick_from_lobby = "Exclure du lobby",
+	freeroam_kicked_from_lobby = "~r~Vous avez été exclu du lobby.",
+	freeroam_lobby_private = "~r~Ce lobby est privé.",
+	join_private_lobby = "Rejoindre un lobby privé",
+	freeroam_lobby_wrong_password = "~r~Le mot de passe est incorrect.",
+	freeroam_invite_player_in_lobby = "[server_id] Inviter un joueur dans le lobby",
+	freeroam_invite = "Vous avez été invité à rejoindre un lobby Freeroam.",
+	freeoram_invited_x = "Vous avez invité ~r~%s~w~ dans votre lobby Freeroam.",
+	invite_in_lobby = "Inviter dans le lobby",
+	freeroam_vehicle_disabled_lobby = "~r~Vous ne pouvez pas utiliser ce véhicule dans ce lobby.",
 }
 
 AddLanguage("fr", my_language)

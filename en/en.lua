@@ -2462,6 +2462,16 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	drift_mode = "Drift Power",
 	drift_mode_press_space = "Press SPACE in a vehicle to drift",
 	marketplace_paid_transaction_fee = "You paid ^0$%s^7 (%s%%) as a transaction fee.",
+	kick_from_lobby = "Kick from lobby",
+	freeroam_kicked_from_lobby = "~r~You have been kicked from the lobby.",
+	freeroam_lobby_private = "~r~This lobby is private.",
+	join_private_lobby = "Join private lobby",
+	freeroam_lobby_wrong_password = "~r~This password is wrong.",
+	freeroam_invite_player_in_lobby = "[server_id] Invite player in lobby",
+	freeroam_invite = "You have been invited to join a Freeroam lobby.",
+	freeoram_invited_x = "You invited ~r~%s~w~ to your freeroam lobby.",
+	invite_in_lobby = "Invite in lobby",
+	freeroam_vehicle_disabled_lobby = "~r~You can't use this vehicle in this lobby.",
 }
 
 AddLanguage("en", my_language)
