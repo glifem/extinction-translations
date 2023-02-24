@@ -17,6 +17,6 @@
 	"delete_desc": "Delete your squad",
 	"public-squads": "Public squads",
 	"squad-of-x": "{{name}}'s squad",
-	"squad-desc-x": "{{amount}}/{{limit}} members",
+	"squad-desc-x": "{{amount}} members",
 	"settings": "settings"
 }

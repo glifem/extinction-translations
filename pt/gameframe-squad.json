@@ -17,6 +17,6 @@
 	"delete_desc": "Apagar o teu Esquadrão",
 	"public-squads": "Esquadrões Públicos",
 	"squad-of-x": "Esquadrão do/a {{name}}",
-	"squad-desc-x": "{{amount}}/{{limit}} membros",
+	"squad-desc-x": "{{amount}} membros",
 	"settings": "Definições"
 }

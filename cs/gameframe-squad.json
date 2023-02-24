@@ -17,6 +17,6 @@
 	"delete_desc": "Smazat squad",
 	"public-squads": "Verejne squady",
 	"squad-of-x": "Squad hrace {{name}}",
-	"squad-desc-x": "{{amount}}/{{limit}} clenu",
+	"squad-desc-x": "{{amount}} clenu",
 	"settings": "nastavení"
 }

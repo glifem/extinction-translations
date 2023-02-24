@@ -17,6 +17,6 @@
 	"delete_desc": "Elimina Squadra",
 	"public-squads": "Squadre Pubblica",
 	"squad-of-x": "{{name}} squadra",
-	"squad-desc-x": "{{amount}}/{{limit}} membri",
+	"squad-desc-x": "{{amount}} membri",
 	"settings": "Impostazioni"
 }
