@@ -17,6 +17,6 @@
 	"delete_desc": "Takımı sil",
 	"public-squads": "Herkese açık takım",
 	"squad-of-x": "{{name}} Takımı",
-	"squad-desc-x": "{{amount}}/{{limit}} Üyeler",
+	"squad-desc-x": "{{amount}} Üyeler",
 	"settings": "Ayarlar"
 }

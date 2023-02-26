@@ -17,6 +17,6 @@
 	"delete_desc": "Supprimer votre escouade",
 	"public-squads": "Escouades publiques",
 	"squad-of-x": "Escouade de {{name}}",
-	"squad-desc-x": "{{amount}}/{{limit}} membres",
+	"squad-desc-x": "{{amount}} membres",
 	"settings": "options"
 }
