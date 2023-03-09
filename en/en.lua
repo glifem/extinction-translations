@@ -2473,6 +2473,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	freeoram_invited_x = "You invited ~r~%s~w~ to your freeroam lobby.",
 	invite_in_lobby = "Invite in lobby",
 	freeroam_vehicle_disabled_lobby = "~r~You can't use this vehicle in this lobby.",
+	left_duel_matchmaking = "~r~You left the duel matchmaking.",
+	joined_duel_matchmaking = "~g~You joined the duel matchmaking.",
 }
 
 AddLanguage("en", my_language)

@@ -2472,6 +2472,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	freeoram_invited_x = "Vous avez invité ~r~%s~w~ dans votre lobby Freeroam.",
 	invite_in_lobby = "Inviter dans le lobby",
 	freeroam_vehicle_disabled_lobby = "~r~Vous ne pouvez pas utiliser ce véhicule dans ce lobby.",
+	left_duel_matchmaking = "~r~Vous avez quitté le matchmaking duel.",
+	joined_duel_matchmaking = "~g~Vous avez rejoint le matchmaking duel.",
 }
 
 AddLanguage("fr", my_language)
