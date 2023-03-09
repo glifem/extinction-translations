@@ -22,7 +22,7 @@
     "add-another-item": "Add another item",
     "proceed": "Proceed",
     "continue": "Continue",
-    "paymentmethod_a": "Credit/Debit cards / Stripe (recommended)",
+    "paymentmethod_a": "Credit/Debit cards (recommended)",
     "paymentmethod_b": "PayPal / Paysafe / Other",
     "paymentmethod_c": "Cryptocurrency (slow)",
     "complete-payment-browser": "Complete the payment in your browser",
