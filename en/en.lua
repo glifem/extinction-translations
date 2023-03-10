@@ -2475,6 +2475,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	freeroam_vehicle_disabled_lobby = "~r~You can't use this vehicle in this lobby.",
 	left_duel_matchmaking = "~r~You left the duel matchmaking.",
 	joined_duel_matchmaking = "~g~You joined the duel matchmaking.",
+	new_season_announcement = "New season & wipe ~r~Saturday at 15:00~w~ UTC+1",
 }
 
 AddLanguage("en", my_language)
