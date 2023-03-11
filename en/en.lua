@@ -2476,6 +2476,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	left_duel_matchmaking = "~r~You left the duel matchmaking.",
 	joined_duel_matchmaking = "~g~You joined the duel matchmaking.",
 	addon_cloth_manual = "You must adapt the undershirts / arms for clothes modified via manual mode in the menu before",
+	new_season_announcement = "New season & wipe ~r~Saturday at 15:00~w~ UTC+1",
 }
 
 AddLanguage("en", my_language)

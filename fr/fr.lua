@@ -2475,6 +2475,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	left_duel_matchmaking = "~r~Vous avez quitté le matchmaking duel.",
 	joined_duel_matchmaking = "~g~Vous avez rejoint le matchmaking duel.",
 	addon_cloth_manual = "Vous devez adapter les sous-hauts / bras pour les vêtements moddés via le mode manuel dans le menu d'avant",
+	new_season_announcement = "Nouvelle saison & wipe ~r~Samedi 15h~w~",
 }
 
 AddLanguage("fr", my_language)
