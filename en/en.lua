@@ -2477,6 +2477,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	joined_duel_matchmaking = "~g~You joined the duel matchmaking.",
 	addon_cloth_manual = "You must adapt the undershirts / arms for clothes modified via manual mode in the menu before",
 	new_season_announcement = "New season & wipe ~r~Saturday at 15:00~w~ UTC+1",
+	poll20_q1 = "New meta: Unlimited healing/armor with F1/F2 like FFA/Freeroam instead of Kevlar/Bandage items?",
 }
 
 AddLanguage("en", my_language)
