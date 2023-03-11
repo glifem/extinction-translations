@@ -2477,6 +2477,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	addon_cloth_manual = "Vous devez adapter les sous-hauts / bras pour les vêtements moddés via le mode manuel dans le menu d'avant",
 	new_season_announcement = "Nouvelle saison & wipe ~r~Samedi 15h~w~",
 	poll20_q1 = "Nouvelle méta: Soins/Armure illimités avec F1/F2 comme en FFA/Freeroam au lieu des items Kevlar/Bandage?",
+	cloth_model2 = "Modèle #",
+	outfit_xno = "Tenue #",
 }
 
 AddLanguage("fr", my_language)
