@@ -2474,6 +2474,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	freeroam_vehicle_disabled_lobby = "~r~Vous ne pouvez pas utiliser ce véhicule dans ce lobby.",
 	left_duel_matchmaking = "~r~Vous avez quitté le matchmaking duel.",
 	joined_duel_matchmaking = "~g~Vous avez rejoint le matchmaking duel.",
+	addon_cloth_manual = "Vous devez adapter les sous-hauts / bras pour les vêtements moddés via le mode manuel dans le menu d'avant",
 }
 
 AddLanguage("fr", my_language)
