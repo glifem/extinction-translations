@@ -2480,6 +2480,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	poll20_q1 = "New meta: Unlimited healing/armor with F1/F2 like FFA/Freeroam instead of Kevlar/Bandage items?",
 	cloth_model2 = "Model #",
 	outfit_xno = "Outfit #",
+	cooldown_global_x = "Veuillez patienter ~r~%s secondes~w~ avant de le refaire.",
+	use_shortcut_healing = "You can now use ~r~F1~w~ & ~b~F2~w~ to heal yourself.",
 }
 
 AddLanguage("en", my_language)
