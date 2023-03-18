@@ -2479,7 +2479,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	poll20_q1 = "Nouvelle méta: Soins/Armure illimités avec F1/F2 comme en FFA/Freeroam au lieu des items Kevlar/Bandage?",
 	cloth_model2 = "Modèle #",
 	outfit_xno = "Tenue #",
-	cooldown_global_x = "Please wait ~r~%s seconds~w~ before doing this again.",
+	cooldown_global_x = "Veuillez patienter ~r~%s secondes~w~ avant de le refaire.",
 	use_shortcut_healing = "Vous pouvez maintenant utiliser ~r~F1~w~ & ~b~F2~w~ pour vous soigner.",
 }
 
