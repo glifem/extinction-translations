@@ -2481,6 +2481,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	outfit_xno = "Tenue #",
 	cooldown_global_x = "Veuillez patienter ~r~%s secondes~w~ avant de le refaire.",
 	use_shortcut_healing = "Vous pouvez maintenant utiliser ~r~F1~w~ & ~b~F2~w~ pour vous soigner.",
+	cant_split_similar_cards = "~r~Vous ne pouvez pas split avec des cartes différentes.",
 }
 
 AddLanguage("fr", my_language)

@@ -2482,6 +2482,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	outfit_xno = "Outfit #",
 	cooldown_global_x = "Please wait ~r~%s seconds~w~ before doing this again.",
 	use_shortcut_healing = "You can now use ~r~F1~w~ & ~b~F2~w~ to heal yourself.",
+	cant_split_similar_cards = "~r~You can't split with different cards.",
 }
 
 AddLanguage("en", my_language)
