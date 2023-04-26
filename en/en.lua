@@ -2510,6 +2510,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	ctf = "Capture the Flag",
 	battleroyale = "Battle Royale",
 	map = "Map",
+	league_cannot_change_team_between_rounds = "~r~You can't change teams between rounds.",
+	league_cannot_change_team_right_now = "~r~You can't change teams right now.",
+	leaderboard_4 = "4th",
+	leaderboard_5 = "5th",
 }
 
 AddLanguage("en", my_language)

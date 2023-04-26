@@ -2504,6 +2504,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	redzone_deathmatch = "Redzone Deathmatch",
 	ctf = "Capture the Flag",
 	battleroyale = "Battle Royale",
+	leaderboard_4 = "4ème",
+	leaderboard_5 = "5ème",
 }
 
 AddLanguage("fr", my_language)
