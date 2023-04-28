@@ -2506,6 +2506,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	battleroyale = "Battle Royale",
 	leaderboard_4 = "4ème",
 	leaderboard_5 = "5ème",
+	switch_player = "Changer de joueur",
+	join_ranked = "rejoindre la ranked",
 }
 
 AddLanguage("fr", my_language)

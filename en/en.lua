@@ -2514,6 +2514,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	league_cannot_change_team_right_now = "~r~You can't change teams right now.",
 	leaderboard_4 = "4th",
 	leaderboard_5 = "5th",
+	switch_player = "Switch player",
+	join_ranked = "join ranked",
 }
 
 AddLanguage("en", my_language)
