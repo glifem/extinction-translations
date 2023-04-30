@@ -2499,6 +2499,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	flag_no_healing = "No Healing avec des raccourcis",
 	flag_discord_whitelist = "Whitelist Discord",
 	flag_friendly_fire = "Tir allié",
+	flag_holster_anim = "Animation holster",
 	gangwar = "Gangwar",
 	tp_all = "Teleport all",
 	redzone_deathmatch = "Redzone Deathmatch",
