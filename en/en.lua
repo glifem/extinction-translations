@@ -2517,6 +2517,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	leaderboard_5 = "5th",
 	switch_player = "Switch player",
 	join_ranked = "join ranked",
+	matchmaking_searching = "Searching for a match...",
+	leave_matchmaking = "leave matchmaking",
+	duel_private = "Private duel",
 }
 
 AddLanguage("en", my_language)
