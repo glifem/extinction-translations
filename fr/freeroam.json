@@ -36,5 +36,6 @@
 	"save-lobby-changes": "Enregistrer les modifications du lobby",
 	"create-lobby": "Créer un lobby",
 	"weapons": "Armes",
-	"allowed-weapons": "Armes autorisées"
+	"allowed-weapons": "Armes autorisées",
+	"delete-lobby": "Supprimer le lobby"
 }

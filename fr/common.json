@@ -63,5 +63,9 @@
 	"unable-to-find-player": "Impossible de trouver un joueur avec cet ID",
 	"found-player-x": "Trouvé {{name}} à partir de cet ID",
 	"yes": "Oui",
-	"no": "Non"
+	"no": "Non",
+	"th": "ème",
+	"st": "er",
+	"nd": "nd",
+	"rd": "ème"
 }
