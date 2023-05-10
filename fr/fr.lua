@@ -2488,7 +2488,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	instructions_freeroam_league = "~INPUT_SELECT_WEAPON~ pour ouvrir le menu league.\n~INPUT_DETONATE~ pour quitter le lobby.",
 	instructions_freeroam_extra_arena = "~INPUT_VEH_EXIT~ pour quitter l'arène.",
 	enter_the_arena = "entrer dans l'arène",
-	your_team_x = "Votre équipe: ~r~%s",
+	your_team_x = "Votre équipe: ~r~%s ~w~(Round %s)",
 	preparation = "Préparation",
 	leave_lobby = "Quitter le lobby",
 	vmenu_item_use_vmenu_not_supported = "~r~Vous ne pouvez pas modifier cet item car il provient de vMenu.\n~w~Ce n'est pas encore supporté.",
