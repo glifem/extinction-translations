@@ -2513,6 +2513,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	matchmaking_searching = "Recherche d'un match...",
 	leave_matchmaking = "quitter le matchmaking",
 	duel_private = "Duel privé",
+	next_round = "Prochain round",
 }
 
 AddLanguage("fr", my_language)
