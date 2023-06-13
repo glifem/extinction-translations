@@ -2514,6 +2514,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	leave_matchmaking = "quitter le matchmaking",
 	duel_private = "Duel privé",
 	next_round = "Prochain round",
+	weapon_tecpistol = "Mitraillette tactique",
 }
 
 AddLanguage("fr", my_language)

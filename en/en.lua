@@ -2523,6 +2523,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	leave_matchmaking = "leave matchmaking",
 	duel_private = "Private duel",
 	next_round = "Next round",
+	weapon_tecpistol = "Tactical SMG",
 }
 
 AddLanguage("en", my_language)
