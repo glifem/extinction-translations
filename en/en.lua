@@ -2524,6 +2524,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	duel_private = "Private duel",
 	next_round = "Next round",
 	weapon_tecpistol = "Tactical SMG",
+	["roxwood-city"] = "Roxwood City",
+	["roxwood-port"] = "Roxwood Port",
 }
 
 AddLanguage("en", my_language)

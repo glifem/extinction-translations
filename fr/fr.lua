@@ -2515,6 +2515,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	duel_private = "Duel privé",
 	next_round = "Prochain round",
 	weapon_tecpistol = "Mitraillette tactique",
+	["roxwood-city"] = "Ville de Roxwood",
+	["roxwood-port"] = "Port de Roxwood",
 }
 
 AddLanguage("fr", my_language)
