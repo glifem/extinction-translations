@@ -40,7 +40,7 @@
 	"interfaceItemStyle": "Interface item style",
 	"interfaceItemStyle_desc": "Sets the style of the inventory items",
 	"hitmarkerSoundVolume": "Volume of hitmarkers",
-    	"hitmarkerSoundVolume_desc": "Defines the volume of the hitmarkers. Default: 50%.",
+    "hitmarkerSoundVolume_desc": "Defines the volume of the hitmarkers. Default: 50%.",
 	"snowDisabled": "Snow disabled",
 	"snowDisabled_desc": "Disable the snow effect.",
 	"visualPresets": "Visual Pack Presets",
@@ -71,5 +71,7 @@
 	"voiceDeathEnabled": "Voice chat to death",
 	"voiceDeathEnabled_desc": "Choose if you want to activate your microphone when you die.",
 	"voiceDisabledOnSafezone": "Disable voice chat in Safezone",
-	"voiceDisabledOnSafezone_desc": "Choose to disable voice chat in the Safezone"
+	"voiceDisabledOnSafezone_desc": "Choose to disable voice chat in the Safezone",
+	"hitmarkerStyle": "Hitmarker style",
+	"hitmarkerStyle_desc": "Choose the style of the hitmarker when damaging players"
 }
