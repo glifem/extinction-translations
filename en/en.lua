@@ -2576,6 +2576,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	show_player_blips = "Show player blips",
 	gamertag_distance = "Gamertag distance",
 	player_interaction = "Player interaction",
+
+	you_player_not_enough_gcoin_tradeable_x = "~r~Only purchased GCoins can be traded to other players.\n~w~Tradeable GCoins: ~b~%s",
 }
 
 AddLanguage("en", my_language)

@@ -2567,6 +2567,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	show_player_blips = "Afficher les blips des joueurs",
 	gamertag_distance = "Distance du gamertag",
 	player_interaction = "Interaction joueur",
+
+	you_player_not_enough_gcoin_tradeable_x = "~r~Seuls les GCoins achetés peuvent être échangés avec d'autres joueurs.\n~w~GCoins échangeables: ~b~%s",
 }
 
 AddLanguage("fr", my_language)
