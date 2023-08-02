@@ -37,5 +37,6 @@
 	"create-lobby": "Create lobby",
 	"weapons": "Weapons",
 	"allowed-weapons": "Allowed weapons",
-	"delete-lobby": "Delete lobby"
+	"delete-lobby": "Delete lobby",
+	"select-allowed-items": "Select allowed items"
 }
