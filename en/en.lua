@@ -2578,6 +2578,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	player_interaction = "Player interaction",
 
 	you_player_not_enough_gcoin_tradeable_x = "~r~Only purchased GCoins can be traded to other players.\n~w~Tradeable GCoins: ~b~%s",
+	freeroam_league_already_spawned_vehicle = "~r~You already spawned a vehicle.",
+	cannot_spawn_vehicle_in_vehicle = "~r~You can't spawn a vehicle while in a vehicle.",
 }
 
 AddLanguage("en", my_language)

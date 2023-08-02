@@ -2569,6 +2569,8 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	player_interaction = "Interaction joueur",
 
 	you_player_not_enough_gcoin_tradeable_x = "~r~Seuls les GCoins achetés peuvent être échangés avec d'autres joueurs.\n~w~GCoins échangeables: ~b~%s",
+	freeroam_league_already_spawned_vehicle = "~r~Vous avez déjà fait spawn un véhicule.",
+	cannot_spawn_vehicle_in_vehicle = "~r~Vous ne pouvez pas faire spawn un véhicule dans un véhicule.",
 }
 
 AddLanguage("fr", my_language)
