@@ -71,5 +71,6 @@
     "kick-from-lobby": "Expulser du lobby",
     "ban-from-lobby": "Bannir du lobby",
     "max-rounds": "Nombre maximum de rounds",
-    "automated": "Automatisé"
+    "automated": "Automatisé",
+    "duration-league": "Durée (en min)"
 }
