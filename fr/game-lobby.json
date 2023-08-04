@@ -16,5 +16,6 @@
     "gungame_rank": "Placement de jeu",
     "external-server": "Serveur externe",
 	"extinction_desc": "Serveur PvP / PvE où vous pouvez combattre d'autres joueurs et des zombies.",
-	"freeroam_desc": "Freeroam avec plusieurs modes: mapping, lobby pvp, course, etc."
+	"freeroam_desc": "Freeroam avec plusieurs modes: mapping, lobby pvp, course, etc.",
+    "create-league": "Créer une league"
 }
