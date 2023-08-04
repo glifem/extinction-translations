@@ -17,5 +17,6 @@
     "external-server": "Serveur externe",
 	"extinction_desc": "Serveur PvP / PvE où vous pouvez combattre d'autres joueurs et des zombies.",
 	"freeroam_desc": "Freeroam avec plusieurs modes: mapping, lobby pvp, course, etc.",
-    "create-league": "Créer une league"
+    "create-league": "Créer une league",
+    "no-leagues": "Aucune league"
 }
