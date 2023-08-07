@@ -46,5 +46,8 @@
     "press-x-to-exit-afk": "Appuyez sur <span>{{key}}</span> pour quitter le mode AFK.",
 	"enter": "Entrer",
 	"back": "Retour",
-	"edit-your-kits": "Éditer vos kits"
+	"edit-your-kits": "Éditer vos kits",
+	"loadout": "Équipement",
+	"loadout-subtitle": "Éditer et progresser dans votre équipement",
+	"progress": "Progression"
 }

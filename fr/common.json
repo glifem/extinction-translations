@@ -67,5 +67,7 @@
 	"th": "ème",
 	"st": "er",
 	"nd": "nd",
-	"rd": "ème"
+	"rd": "ème",
+	"disable": "Désactiver",
+	"set-active": "Définir comme actif"
 }
