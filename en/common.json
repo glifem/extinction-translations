@@ -67,5 +67,7 @@
 	"th": "th",
 	"st": "st",
 	"nd": "nd",
-	"rd": "rd"
+	"rd": "rd",
+	"disable": "Disable",
+	"set-active": "Set active"
 }
