@@ -2591,6 +2591,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	master_loadout = "Master",
 	cannot_trade_this_item = "You can't trade this item.",
 	cannot_store_this_item = "You can't store this item.",
+	item_x_broken = "Your ~r~%s~w~ is broken and cannot be used.",
+	durability_x_hours = "Durability: <C>~y~%s~w~ hours</C>",
+	durability_broken = "Durability: <C>~r~Broken</C>",
 }
 
 AddLanguage("en", my_language)

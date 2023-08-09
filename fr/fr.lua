@@ -2577,6 +2577,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	cannot_spawn_vehicle_in_vehicle = "~r~Vous ne pouvez pas faire spawn un véhicule dans un véhicule.",
 	cannot_trade_this_item = "Vous ne pouvez pas échanger cet item.",
 	cannot_store_this_item = "Vous ne pouvez pas stocker cet item.",
+	item_x_broken = "Votre ~r~%s~w~ est cassé et ne peut pas être utilisé.",
+	durability_x_hours = "Durabilité: <C>~y~%s~w~ heures</C>",
+	durability_broken = "Durabilité: <C>~r~Cassé</C>",
 }
 
 AddLanguage("fr", my_language)
