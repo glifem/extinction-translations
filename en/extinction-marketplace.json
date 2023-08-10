@@ -27,5 +27,7 @@
 	"items-inventory": "Items in your inventory",
 	"no-offer-for-item": "No offer for this item",
 	"no-items-inventory": "No items in your inventory",
-	"no-offers": "No offers"
+	"no-offers": "No offers",
+	"durability": "Durability",
+	"broken": "Broken"
 }

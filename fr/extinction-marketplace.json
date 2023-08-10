@@ -27,5 +27,7 @@
 	"items-inventory": "Items dans votre inventaire",
 	"no-offer-for-item": "Aucune offre pour cet item",
 	"no-items-inventory": "Aucun item dans votre inventaire",
-	"no-offers": "Aucune offre"
+	"no-offers": "Aucune offre",
+	"durability": "Durabilité",
+	"broken": "Cassé"
 }
