@@ -3,5 +3,6 @@
     "perks": "Avantages",
     "weapons": "Armes",
     "vehicles": "Véhicules",
-    "supplies": "Provisions"
+    "supplies": "Provisions",
+    "default-loadout": "Equipement par défaut"
 }
