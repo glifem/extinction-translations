@@ -2580,6 +2580,13 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	item_x_broken = "Votre ~r~%s~w~ est cassé et ne peut pas être utilisé.",
 	durability_x_hours = "Durabilité: <C>~y~%s~w~ heures</C>",
 	durability_broken = "Durabilité: <C>~r~Cassé</C>",
+	deluxo_arena_instructions = "~INPUT_INTERACTION_MENU~ pour ouvrir le magasin.\n~INPUT_VEH_HEADLIGHT~ pour quitter.\n~INPUT_REPLAY_STARTPOINT~ pour vous téléporter sur votre allié.",
+	unable_to_locate_squad_in_arena = "~r~Impossible de localiser votre escouade dans l'arène.",
+	squadmate_must_be_in_deluxo = "~r~Votre coéquipier doit être dans un Deluxo.",
+	squadmate_spawned_on_you = "~g~Votre coéquipier a spawn sur vous.",
+	kill_driver = "Kill Conducteur",
+	kill_shooter = "Kill Shooter",
+	squad_wipe = "Squad Wipe",
 }
 
 AddLanguage("fr", my_language)

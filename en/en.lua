@@ -2594,6 +2594,13 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	item_x_broken = "Your ~r~%s~w~ is broken and cannot be used.",
 	durability_x_hours = "Durability: <C>~y~%s~w~ hours</C>",
 	durability_broken = "Durability: <C>~r~Broken</C>",
+	deluxo_arena_instructions = "~INPUT_INTERACTION_MENU~ to open the arena shop.\n~INPUT_VEH_HEADLIGHT~ to leave the arena.\n~INPUT_REPLAY_STARTPOINT~ to teleport to your squad mate.",
+	unable_to_locate_squad_in_arena = "~r~Unable to locate your squad in the arena.",
+	squadmate_must_be_in_deluxo = "~r~Your squad mate must be in a Deluxo.",
+	squadmate_spawned_on_you = "~g~Your squad mate spawned on you.",
+	kill_driver = "Driver kill",
+	kill_shooter = "Shooter kill",
+	squad_wipe = "Squad Wipe",
 }
 
 AddLanguage("en", my_language)
