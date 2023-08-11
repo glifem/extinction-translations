@@ -3,5 +3,6 @@
     "perks": "Perks",
     "weapons": "Weapons",
     "vehicles": "Vehicles",
-    "supplies": "Supplies"
+    "supplies": "Supplies",
+    "default-loadout": "Default Loadout"
 }
