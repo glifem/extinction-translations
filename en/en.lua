@@ -2601,6 +2601,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	kill_driver = "Driver kill",
 	kill_shooter = "Shooter kill",
 	squad_wipe = "Squad Wipe",
+	x_league_created = "A ^2%s^7 league lobby has been created.",
 }
 
 AddLanguage("en", my_language)

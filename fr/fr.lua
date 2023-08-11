@@ -2587,6 +2587,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	kill_driver = "Kill Conducteur",
 	kill_shooter = "Kill Shooter",
 	squad_wipe = "Squad Wipe",
+	x_league_created = "Un lobby league ^2%s^7 a été créé.",
 }
 
 AddLanguage("fr", my_language)
