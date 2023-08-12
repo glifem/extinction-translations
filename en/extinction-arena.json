@@ -4,5 +4,10 @@
     "weapons": "Weapons",
     "vehicles": "Vehicles",
     "supplies": "Supplies",
-    "default-loadout": "Default Loadout"
+    "equipment": "Equipment",
+    "spawn-items": "Spawn Items",
+    "weapon-loadout": "Weapon Loadout",
+    "vehicle-loadout": "Vehicle Loadout",
+    "unlock-for": "Unlock for",
+    "refresh-inventory-loadout": "Refresh Loadout (inventory)"
 }

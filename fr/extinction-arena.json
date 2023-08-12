@@ -4,5 +4,10 @@
     "weapons": "Armes",
     "vehicles": "Véhicules",
     "supplies": "Provisions",
-    "default-loadout": "Equipement par défaut"
+    "equipment": "Equipement",
+    "spawn-items": "Objets de départ",
+    "weapon-loadout": "Equipement arme",
+    "vehicle-loadout": "Equipement véhicule",
+    "unlock-for": "Débloquer pour",
+    "refresh-inventory-loadout": "Rafraichir l'équipement (inventaire)"
 }
