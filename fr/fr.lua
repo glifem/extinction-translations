@@ -2587,6 +2587,11 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	kill_driver = "Kill Conducteur",
 	kill_shooter = "Kill Shooter",
 	squad_wipe = "Squad Wipe",
+	x_league_created = "Un lobby league ^2%s^7 a été créé.",
+	arena_casual_instructions = "%s pour ouvrir le magasin et modifier votre kit.\n%s pour entrer dans l'arène.\n%s pour quitter.",
+	mode_deathmatch_title = "Match à mort Solo",
+	mode_deathmatch_description = "PvP Casual, items et kits gratuits. Le but est de faire le plus de kills et d'atteindre le haut du classement.",
+	surviving = "Survie",
 }
 
 AddLanguage("fr", my_language)

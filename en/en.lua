@@ -2601,6 +2601,11 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	kill_driver = "Driver kill",
 	kill_shooter = "Shooter kill",
 	squad_wipe = "Squad Wipe",
+	x_league_created = "A ^2%s^7 league lobby has been created.",
+	arena_casual_instructions = "%s to open access the shop and edit your kit.\n%s to enter the arena.\n%s to leave.",
+	mode_deathmatch_title = "Solo Deathmatch",
+	mode_deathmatch_description = "Casual PvP, free items and kits. The goal is to make the most kills and get to the top of the leaderboard.",
+	surviving = "Surviving",
 }
 
 AddLanguage("en", my_language)
