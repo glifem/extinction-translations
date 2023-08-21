@@ -1676,6 +1676,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mission_br_played = "Jouer ^1%s^7 partie de Battle Royale",
 	mission_dungeon_boss_kill = "Terminer ^1%s^7 donjon(s) en tuant le boss final.",
 	mission_play_time = "Jouer pendant ^1%s^7 heures",
+	mission_xp_harvest = "Récoltez ^1%s^7 points d'expérience",
 	mission_loot_crate_simple = "Ouvrez ^1%s^7 caisse(s) de butin",
 	mission_sell_items_simple = "Vendez ^1%s^7 objets à n'importe quelle boutique PNJ",
 	mission_sell_items_category = "Vendez ^1%s^7 objets de cette catégorie à n'importe quelle boutique PNJ (%s)",
