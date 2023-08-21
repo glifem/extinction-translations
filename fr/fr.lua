@@ -2592,6 +2592,12 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mode_deathmatch_title = "Match à mort Solo",
 	mode_deathmatch_description = "PvP Casual, items et kits gratuits. Le but est de faire le plus de kills et d'atteindre le haut du classement.",
 	surviving = "Survie",
+	convoy_duel_instructions = "Conduisez avec votre coéquipier.\nTrouvez la ~r~meilleure position~w~ pour vous drop et ~r~tuez~w~ les joueurs ennemis.",
+	duel_convoy_drop_instructions = "Vous êtes la voiture de drop.\nChoisissez le meilleur endroit pour sortir du véhicule avant la fin du timer.",
+	duel_convoy_wait_drop_instructions = "Attendez que l'autre équipe se drop et ~r~tuez~w~ les.",
+	drop_time_remaining = "Drop maintenant",
+	drop_time_remaining2 = "Drop avant",
+	duel_convoy_drop_now_or_get_eliminated = "Drop maintenant ou vous serez éliminé.",
 }
 
 AddLanguage("fr", my_language)

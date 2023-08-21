@@ -2606,6 +2606,12 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	mode_deathmatch_title = "Solo Deathmatch",
 	mode_deathmatch_description = "Casual PvP, free items and kits. The goal is to make the most kills and get to the top of the leaderboard.",
 	surviving = "Surviving",
+	convoy_duel_instructions = "Drive with your team-mate.\nFind the ~r~best position~w~ to drop and ~r~shoot~w~ the other players.",
+	duel_convoy_drop_instructions = "You are the drop car.\nChoose the best spot to exit the vehicle before the end of the timer.",
+	duel_convoy_wait_drop_instructions = "Wait for the other team to drop and ~r~shoot~w~ them.",
+	drop_time_remaining = "Drop now",
+	drop_time_remaining2 = "Drop before",
+	duel_convoy_drop_now_or_get_eliminated = "Drop now or get eliminated",
 }
 
 AddLanguage("en", my_language)
