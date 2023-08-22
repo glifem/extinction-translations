@@ -2515,6 +2515,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	leaderboard_5 = "5ème",
 	switch_player = "Changer de joueur",
 	join_ranked = "rejoindre la ranked",
+	join_convoy_ranked = "rejoindre 2vs2 convoi ranked",
 	matchmaking_searching = "Recherche d'un match...",
 	leave_matchmaking = "quitter le matchmaking",
 	duel_private = "Duel privé",
