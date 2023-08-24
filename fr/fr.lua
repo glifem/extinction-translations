@@ -1676,6 +1676,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mission_br_played = "Jouer ^1%s^7 partie de Battle Royale",
 	mission_dungeon_boss_kill = "Terminer ^1%s^7 donjon(s) en tuant le boss final.",
 	mission_play_time = "Jouer pendant ^1%s^7 heures",
+	mission_xp_harvest = "Récoltez ^1%s^7 points d'expérience",
 	mission_loot_crate_simple = "Ouvrez ^1%s^7 caisse(s) de butin",
 	mission_sell_items_simple = "Vendez ^1%s^7 objets à n'importe quelle boutique PNJ",
 	mission_sell_items_category = "Vendez ^1%s^7 objets de cette catégorie à n'importe quelle boutique PNJ (%s)",
@@ -2514,6 +2515,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	leaderboard_5 = "5ème",
 	switch_player = "Changer de joueur",
 	join_ranked = "rejoindre la ranked",
+	join_convoy_ranked = "rejoindre 2vs2 convoi ranked",
 	matchmaking_searching = "Recherche d'un match...",
 	leave_matchmaking = "quitter le matchmaking",
 	duel_private = "Duel privé",
@@ -2592,6 +2594,12 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mode_deathmatch_title = "Match à mort Solo",
 	mode_deathmatch_description = "PvP Casual, items et kits gratuits. Le but est de faire le plus de kills et d'atteindre le haut du classement.",
 	surviving = "Survie",
+	convoy_duel_instructions = "Conduisez avec votre coéquipier.\nTrouvez la ~r~meilleure position~w~ pour vous drop et ~r~tuez~w~ les joueurs ennemis.",
+	duel_convoy_drop_instructions = "Vous êtes la voiture de drop.\nChoisissez le meilleur endroit pour sortir du véhicule avant la fin du timer.",
+	duel_convoy_wait_drop_instructions = "Attendez que l'autre équipe se drop et ~r~tuez~w~ les.",
+	drop_time_remaining = "Drop maintenant",
+	drop_time_remaining2 = "Drop avant",
+	duel_convoy_drop_now_or_get_eliminated = "Drop maintenant ou vous serez éliminé.",
 }
 
 AddLanguage("fr", my_language)
