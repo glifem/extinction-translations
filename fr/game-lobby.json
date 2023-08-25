@@ -18,5 +18,9 @@
 	"extinction_desc": "Serveur PvP / PvE où vous pouvez combattre d'autres joueurs et des zombies.",
 	"freeroam_desc": "Freeroam avec plusieurs modes: mapping, lobby pvp, course, etc.",
     "create-league": "Créer une league",
-    "no-leagues": "Aucune league"
+    "no-leagues": "Aucune league",
+    "freeroam_ext_duel": "Extinction 1 vs 1",
+    "freeroam_duel": "Pistolet 1 vs 1",
+    "freeroam_convoy_duel": "Convoi 2 vs 2",
+    "no-ranked": "Aucune ranked"
 }
