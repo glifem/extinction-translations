@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
-	airdrop_coming = "~r~Un approvvigionamento sta arrivando, controlla la mappa.",
+	airdrop_coming = "Un approvvigionamento sta arrivando, controlla la mappa.",
 	killed_by_cheater = "~r~Sei stato ucciso da un cheater.\n~w~Lo abbiamo bannato e ti abbiamo annullato la morte.",
 
 	corrupted_vehicle = "~r~Questo veicolo è stato duplicato, ed è stato rimosso dal tuo inventario. Scusa se sei stato scammato.",
@@ -629,7 +629,7 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 	you_reached_max_prestige_stats_rank = "~r~Hai raggiunto il livello massimo per questo prestigio.",
 	new_prestige_stats_upgrade = "Hai aggiornato il tuo ~b~%s~w~\n~g~%s/%s",
 
-	legendary_vehicle_pop = "~r~E\' apparso un veicolo leggendario, controlla la mappa.",
+	legendary_vehicle_pop = "E\' apparso un veicolo leggendario, controlla la mappa.",
 
 	-- poll one
 	poll1_q1 = "What kind of game server would you like to see?",
@@ -773,7 +773,7 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 	remaining_lives = "Remaining lives",
 
 	name_tag = "Crew tag",
-	redzone_changed = "~r~Red zones moved to a new position.",
+	redzone_changed = "Red zones moved to a new position.",
 
 	-- Squad
 	squad_not_leader = "~r~You are not the leader of your squad.",
@@ -914,7 +914,7 @@ Prestigiando riceverai un badge speciale e dei nuovi benefici come: un loot migl
 	darkzone_you_survived_x = "You survived ~r~%s minute(s)~w~ in the darkzone.",
 	questmenu_command = "Open the quest menu",
 	squadmenu_command = "Open the squad menu",
-	airdrop_coming_darkzone = "~r~An airdrop is coming in the darkzone check your map.",
+	airdrop_coming_darkzone = "An airdrop is coming in the darkzone check your map.",
 	darkzone_full_crew = "There is already ~r~%s members~w~ of your crew in the darkzone, wait for someone to leave.",
 
 	crew_join_cooldown_x = "You need to wait ~r~%s~w~ before joining this crew.",

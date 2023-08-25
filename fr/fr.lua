@@ -596,7 +596,7 @@ local my_language = {
 	weapon_sledgehammer = "Marteau de forgeron",
 
 	-- new
-	airdrop_coming = "~r~Un larguage est en chemin regardez votre map.",
+	airdrop_coming = "Un larguage est en chemin regardez votre map.",
 	killed_by_cheater = "~r~Vous avez été tué par un cheater.\n~w~Nous l'avons banni et votre mort a été annulée.",
 
 	corrupted_vehicle = "~r~Ce véhicule est corrompu et a été dupliqué par le passé, il a été supprimé de votre inventaire. Désolé si vous avez été arnaqué.",
@@ -630,7 +630,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	you_reached_max_prestige_stats_rank = "~r~Vous avez atteint le niveau maximum pour cette amélioration.",
 	new_prestige_stats_upgrade = "Vous avez amélioré votre ~b~%s~w~\n~g~%s/%s",
 
-	legendary_vehicle_pop = "~r~Un véhicule légendaire est apparu sur la carte.",
+	legendary_vehicle_pop = "Un véhicule légendaire est apparu sur la carte.",
 
 	-- poll one
 	poll1_q1 = "Quel genre de serveur souhaiteriez-vous voir?",
@@ -776,7 +776,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	remaining_lives = "Vies restantes",
 
 	name_tag = "Tag du crew",
-	redzone_changed = "~r~Les redzones ont été déplacées vers une nouvelle position.",
+	redzone_changed = "Les redzones ont été déplacées vers une nouvelle position.",
 
 	-- Squad
 	squad_not_leader = "~r~Vous n'êtes pas le chef de votre escouade.",
@@ -918,7 +918,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	darkzone_you_survived_x = "Vous avez survécu ~r~%s minute(s)~w~ dans la darkzone.",
 	questmenu_command = "Ouvrir le menu des quêtes",
 	squadmenu_command = "Ouvrir le menu des escouades",
-	airdrop_coming_darkzone = "~r~Un larguage est en chemin en darkzone.",
+	airdrop_coming_darkzone = "Un larguage est en chemin en darkzone.",
 	darkzone_full_crew = "Il y a déjà ~r~%s membres~w~ de votre crew dans la darkzone, attendez que quelqu'un en sorte.",
 
 	crew_join_cooldown_x = "Vous devez patienter ~r~%s~w~ avant de joindre ce crew.",
@@ -1456,8 +1456,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	mode_redzone_description = "PvP casual, combattez des joueurs dans une zone spécifique de la carte. Les zones changeront toutes les heures, vous pouvez vous battre en solo, en duo ou en escouade. Le joueur qui a tué le plus de joueurs est le leader et gagne une récompense spéciale à la fin de l'événement.",
 	mode_darkzone_title = "Dark Zone",
 	mode_darkzone_description = "PvP hardcore, les items ne peuvent pas être stockés et vous devez remplir les objectifs pour extraire les objets ou quitter la zone. Le but est de survivre contre les autres joueurs et les zombies, de trouver des objets contaminés et de les extraire.",
+	mode_darkzone_casual_title = "Solo deathmatch",
+	mode_darkzone_casual_description = "Darkzone casual, vous apparaissez avec un kit gratuit. Gagnez des points au fil du temps et en tuant des joueurs. Vous pouvez améliorer vos kits et personnaliser votre équipement de spawn. Le joueur avec le plus de points gagne une caisse légendaire.",
 	mode_deluxo_arena_title = "Deluxo Arena",
-	mode_deluxo_arena_description = "Tous les joueurs reçoivent un deluxo et sont autorisés à voler dans une zone spécifique de la carte. Vous pouvez faire équipe avec d'autres joueurs, l'équipe ayant le plus de tués et de deluxos détruits gagne une récompense spéciale.",
+	mode_deluxo_arena_description = "Tous les joueurs reçoivent un deluxo et sont autorisés à voler dans une zone spécifique de la carte. Vous pouvez faire équipe avec d'autres joueurs, le joueur avec le plus de kills gagne une caisse légendaire.",
 	mode_purge_title = "Purge Fight",
 	mode_purge_description = "Tous les participants apparaissent sur une position aléatoire. Dès que la sirène de purge retentit, le combat commence. Le joueur qui a tué le plus de personnes et le dernier joueur debout gagnent une récompense spéciale.",
 	mode_avenger_title = "Avenger Fight",
@@ -1473,6 +1475,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	purged_ended_x_survivor = "Cette purge est terminée, vous étiez le ~r~#%s survivant~w~.",
 	left_purge_fight_queue = "~r~Vous avez quitté la file d'attente des combats de la purge.",
 	deluxo_arena_end_winners_x = "^1L'événement Deluxo Arena est terminé..\n^1%s",
+	darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\n^1%s",
 	safezone_already_unlocked = "~r~Cet avant-poste est déjà déverrouillé.",
 	squad_already_involved_quest = "~r~Votre équipe est déjà impliquée dans une quête.",
 	select_area_deployed = "Sélectionnez la zone où vous souhaitez être déployé.\n~INPUT_ATTACK~ pour placer le point.\n~INPUT_AIM~ pour vous déplacer sur la carte.",
@@ -2600,6 +2603,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	drop_time_remaining = "Drop maintenant",
 	drop_time_remaining2 = "Drop avant",
 	duel_convoy_drop_now_or_get_eliminated = "Drop maintenant ou vous serez éliminé.",
+	vehicle_event = "Event véhicule",
+	darkzone_hardcore_open = "La Darkzone est maintenant ouverte.",
+	darkzone_dm_open = "La Darkzone Deathmatch est maintenant ouverte.",
 }
 
 AddLanguage("fr", my_language)

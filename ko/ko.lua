@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
  
     -- new
-    airdrop_coming = "~r~공중보급이 투하됩니다, 지도에서 위치를 확인하세요.",
+    airdrop_coming = "공중보급이 투하됩니다, 지도에서 위치를 확인하세요.",
     killed_by_cheater = "~r~부정프로그램 사용자에게 사망하였습니다.\n~w~부정프로그램 사용자를 추방하고 사망은 무효화됩니다.",
  
     corrupted_vehicle = "~r~이 차량은 중복된 차량입니다, 이 차량은 인벤토리에서 삭제되었습니다. 만약 오해가 있었다면 죄송합니다.",
@@ -629,7 +629,7 @@ local my_language = {
     you_reached_max_prestige_stats_rank = "~r~이미 업그레이드 최대치에 도달했습니다",
     new_prestige_stats_upgrade = "~b~%s~w~\n~g~%s/%s을(를) 업그레이드 하였습니다.",
  
-    legendary_vehicle_pop = "~r~특별 차량이 생성 됐습니다 지도를 확인하세요.",
+    legendary_vehicle_pop = "특별 차량이 생성 됐습니다 지도를 확인하세요.",
 
 	-- poll one
 	poll1_q1 = "What kind of game server would you like to see?",

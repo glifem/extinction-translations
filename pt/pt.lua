@@ -595,7 +595,7 @@ local my_language = {
     weapon_sledgehammer = "Martelo",
 
     -- new
-    airdrop_coming = "~r~O airdrop está a caminho, verifica o teu mapa.",
+    airdrop_coming = "O airdrop está a caminho, verifica o teu mapa.",
     killed_by_cheater = "~r~Morreste para um cheater.\n~w~O jogador foi banido e a tua morte foi cancelada.",
  
     corrupted_vehicle = "~r~Este veículo está corrupto e foi duplicado no passado, foi removido do teu inventário. Desculpa se foste roubado.",
@@ -629,7 +629,7 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
     you_reached_max_prestige_stats_rank = "~r~Chegaste ao rank máximo para este perk.",
     new_prestige_stats_upgrade = "Melhoraste o teu ~b~%s~w~\n~g~%s/%s",
  
-    legendary_vehicle_pop = "~r~Um veículo lendário apareceu no mapa.",
+    legendary_vehicle_pop = "Um veículo lendário apareceu no mapa.",
 
 	-- poll one
 	poll1_q1 = "What kind of game server would you like to see?",
@@ -773,7 +773,7 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
 	remaining_lives = "Remaining lives",
 
 	name_tag = "Crew tag",
-	redzone_changed = "~r~Red zones moved to a new position.",
+	redzone_changed = "Red zones moved to a new position.",
 
 	-- Squad
 	squad_not_leader = "~r~You are not the leader of your squad.",

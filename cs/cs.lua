@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
-	airdrop_coming = "~r~Blíží se airdrop, podívej se na mapu.",
+	airdrop_coming = "Blíží se airdrop, podívej se na mapu.",
 	killed_by_cheater = "~r~Byl jsi zabit cheaterem.\n~w~Zabanovali jsme ho a tvoje smrt byla vyresetována.",
 
 	corrupted_vehicle = "~r~Toto vozidlo je poškozené a v minulosti bylo duplikované, proto bylo odstraneno z inventare. Omlouváme se, pokud te nekdo okradl.",
@@ -629,7 +629,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si muz
 	you_reached_max_prestige_stats_rank = "~r~Získal jsi nejvyšší možnou uroven pro tuto prestiž.",
 	new_prestige_stats_upgrade = "Vylepšil jsi svuj ~b~%s~w~\n~g~%s/%s",
 
-	legendary_vehicle_pop = "~r~Legendární vozidlo se objevilo nekde na mape.",
+	legendary_vehicle_pop = "Legendární vozidlo se objevilo nekde na mape.",
 
 	-- poll one
 	poll1_q1 = "Jaký server bys rád videl?",
@@ -773,7 +773,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si muz
 	remaining_lives = "Zbývající životy",
 
 	name_tag = "Crew tag",
-	redzone_changed = "~r~Redzony se premistily na nové lokace.",
+	redzone_changed = "Redzony se premistily na nové lokace.",
 
 	-- Squad
 	squad_not_leader = "~r~Nejsi leader tvojí squady.",
@@ -914,7 +914,7 @@ Získáním nové prestiže dostaneš speciální odznak a body, kterými si muz
 	darkzone_you_survived_x = "Prezil jsi ~r~%s minut~w~ v darkzone.",
 	questmenu_command = "Otevrit menu s ukoly",
 	squadmenu_command = "Otevrit squad menu",
-	airdrop_coming_darkzone = "~r~V darkzone budou airdropy, podívej se na mapu.",
+	airdrop_coming_darkzone = "V darkzone budou airdropy, podívej se na mapu.",
 	darkzone_full_crew = "V darkzone je ~r~%s clenu~w~ z tvojí crew, pockej až nekdo opustí darkzonu.",
 
 	crew_join_cooldown_x = "Musíš pockat ~r~%s~w~ než se budeš moct pripojit do této crew.",

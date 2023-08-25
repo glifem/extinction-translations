@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
-	airdrop_coming = "~r~ایر دراپ درحال امدن است نضشه خود را بررسی کنید.",
+	airdrop_coming = "ایر دراپ درحال امدن است نضشه خود را بررسی کنید.",
 	killed_by_cheater = "~r~شما توسط یک متقلب کشته شده اید.\n~w~ما او را تحریم کردیم و مرگ شما لغو شده است.",
 }
 

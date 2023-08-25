@@ -595,8 +595,8 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
     -- nytt
-    airdrop_coming = "~r~ En airdrop kommer kontrollera din karta.",
-    kill_by_cheater = "~r~ Du har dödats av en fuskare. \n~w~Vi Bannad honom och din död har avbrutits.",
+    airdrop_coming = "En airdrop kommer kontrollera din karta.",
+    kill_by_cheater = "~r~Du har dödats av en fuskare. \n~w~Vi Bannad honom och din död har avbrutits.",
 }
 
 AddLanguage("sv", my_language)

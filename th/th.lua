@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
-	airdrop_coming = "~r~An airdrop is coming check your map.",
+	airdrop_coming = "An airdrop is coming check your map.",
 	killed_by_cheater = "~r~You have been killed by a cheater.\n~w~We banned him and your death has been canceled.",
 
 	corrupted_vehicle = "~r~This vehicle is corrupted and has been duplicated in the past, it has been removed from your inventory. Sorry if you got scammed.",
@@ -629,7 +629,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	you_reached_max_prestige_stats_rank = "~r~You reached the maximum rank for this prestige upgrade.",
 	new_prestige_stats_upgrade = "You upgraded your ~b~%s~w~\n~g~%s/%s",
 
-	legendary_vehicle_pop = "~r~A legendary vehicle appeared on the map.",
+	legendary_vehicle_pop = "A legendary vehicle appeared on the map.",
 
 	-- poll one
 	poll1_q1 = "What kind of game server would you like to see?",
@@ -773,7 +773,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	remaining_lives = "Remaining lives",
 
 	name_tag = "Crew tag",
-	redzone_changed = "~r~Red zones moved to a new position.",
+	redzone_changed = "Red zones moved to a new position.",
 
 	-- Squad
 	squad_not_leader = "~r~You are not the leader of your squad.",
@@ -914,7 +914,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	darkzone_you_survived_x = "You survived ~r~%s minute(s)~w~ in the darkzone.",
 	questmenu_command = "Open the quest menu",
 	squadmenu_command = "Open the squad menu",
-	airdrop_coming_darkzone = "~r~An airdrop is coming in the darkzone check your map.",
+	airdrop_coming_darkzone = "An airdrop is coming in the darkzone check your map.",
 	darkzone_full_crew = "There is already ~r~%s members~w~ of your crew in the darkzone, wait for someone to leave.",
 
 	crew_join_cooldown_x = "You need to wait ~r~%s~w~ before joining this crew.",

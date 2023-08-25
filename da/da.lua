@@ -595,7 +595,7 @@ local my_language = {
     weapon_sledgehammer = "Forhammer",
 
     -- new
-    airdrop_coming = "~r~Et airdrop kommer tjek dit map.",
+    airdrop_coming = "Et airdrop kommer tjek dit map.",
     killed_by_cheater = "~r~Du er blevet dræbt af en der snyder.\n~w~Vi har bannet ham og din død annulleresWe banned him and your death has been canceled.",
 
     corrupted_vehicle = "~r~Dette køretøj er korrupt og er blevet duplikeret, derfor er det fjernet fra dit inventar. Vi bekalger hvis du er blevet snydt.",
@@ -629,7 +629,7 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
     you_reached_max_prestige_stats_rank = "~r~Du har opnået det maksimale rang for denne prestige opgradering.",
     new_prestige_stats_upgrade = "Du har opgraderet din ~b~%s~w~\n~g~%s/%s",
 
-    legendary_vehicle_pop = "~r~Et legendarisk køretøj er kommet til på mappet.",
+    legendary_vehicle_pop = "Et legendarisk køretøj er kommet til på mappet.",
 
     -- poll one
     poll1_q1 = "Hvad for en type spil server ønsker du at se?",
@@ -773,7 +773,7 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
     remaining_lives = "Resterende liv",
 
     name_tag = "Crew tag",
-    redzone_changed = "~r~Red zones har fået nye placeringer.",
+    redzone_changed = "Red zones har fået nye placeringer.",
 
     -- Squad
     squad_not_leader = "~r~Du er ikke leder af dit squad.",
@@ -914,7 +914,7 @@ At opnå et nyt prestige giver dig specialle emblemer og nye fordele, som bedre 
     darkzone_you_survived_x = "You survived ~r~%s minute(s)~w~ in the darkzone.",
     questmenu_command = "Open the quest menu",
     squadmenu_command = "Open the squad menu",
-    airdrop_coming_darkzone = "~r~An airdrop is coming in the darkzone check your map.",
+    airdrop_coming_darkzone = "An airdrop is coming in the darkzone check your map.",
     darkzone_full_crew = "There is already ~r~%s members~w~ of your crew in the darkzone, wait for someone to leave.",
 
     crew_join_cooldown_x = "You need to wait ~r~%s~w~ before joining this crew.",

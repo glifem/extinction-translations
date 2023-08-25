@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
     -- new
-    airdrop_coming = "~r~Ein Airdrop ist im Anflug, wirf einen Blick auf die Map.",
+    airdrop_coming = "Ein Airdrop ist im Anflug, wirf einen Blick auf die Map.",
     killed_by_cheater = "~r~Du wurdest durch einen Cheater getötet.\n~w~Wir haben ihn gebannt und dein Tod wurde rückgängig gemacht.",
  
     corrupted_vehicle = "~r~Das Fahrzeug ist beschädigt und wurde in der Vergangenheit dupliziert, es wurde aus deinem Inventar entfernt. Es tut uns leid, wenn dich jemand damit über den Tisch gezogen hat.",
@@ -629,7 +629,7 @@ Durch ein neues Prestige bekommst du ein spezielles Abzeichen und neue Perks, wi
     you_reached_max_prestige_stats_rank = "~r~Du hast den maximalen Rank für dieses Prestige Upgrade erreicht.",
     new_prestige_stats_upgrade = "Du hast dein ~b~%s~w~\n~g~%s/%s geupgraded",
  
-    legendary_vehicle_pop = "~r~Ein legendäres Fahrzeug ist auf der Karte erschienen.",
+    legendary_vehicle_pop = "Ein legendäres Fahrzeug ist auf der Karte erschienen.",
  
 	-- poll one
 	poll1_q1 = "What kind of game server would you like to see?",

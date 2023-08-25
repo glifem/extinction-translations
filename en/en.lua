@@ -596,7 +596,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
-	airdrop_coming = "~r~An airdrop is coming check your map.",
+	airdrop_coming = "An airdrop is coming check your map.",
 	killed_by_cheater = "~r~You have been killed by a cheater.\n~w~We banned him and your death has been canceled.",
 
 	corrupted_vehicle = "~r~This vehicle is corrupted and has been duplicated in the past, it has been removed from your inventory. Sorry if you got scammed.",
@@ -630,7 +630,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	you_reached_max_prestige_stats_rank = "~r~You reached the maximum rank for this prestige upgrade.",
 	new_prestige_stats_upgrade = "You upgraded your ~b~%s~w~\n~g~%s/%s",
 
-	legendary_vehicle_pop = "~r~A legendary vehicle appeared on the map.",
+	legendary_vehicle_pop = "A legendary vehicle appeared on the map.",
 
 	-- poll one
 	poll1_q1 = "What kind of game server would you like to see?",
@@ -776,7 +776,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	remaining_lives = "Remaining lives",
 
 	name_tag = "Crew tag",
-	redzone_changed = "~r~Red zones moved to a new position.",
+	redzone_changed = "Red zones moved to a new position.",
 
 	-- Squad
 	squad_not_leader = "~r~You are not the leader of your squad.",
@@ -918,7 +918,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	darkzone_you_survived_x = "You survived ~r~%s minute(s)~w~ in the darkzone.",
 	questmenu_command = "Open the quest menu",
 	squadmenu_command = "Open the squad menu",
-	airdrop_coming_darkzone = "~r~An airdrop is coming in the darkzone check your map.",
+	airdrop_coming_darkzone = "An airdrop is coming in the darkzone check your map.",
 	darkzone_full_crew = "There is already ~r~%s members~w~ of your crew in the darkzone, wait for someone to leave.",
 
 	crew_join_cooldown_x = "You need to wait ~r~%s~w~ before joining this crew.",
@@ -1456,8 +1456,10 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	mode_redzone_description = "Casual PvP, fight players in a specific area of the map. Zones will be changing every hours, you can fight in solo, duo or squads. The player with the most kill is the kill leader and wins a special reward at the end of the event.",
 	mode_darkzone_title = "Dark Zone",
 	mode_darkzone_description = "Hardcore PvP, items cannot be stored and you need to complete objective to extract items or leave the zone. The goal is to survive against other players and zombies, find contaminated items and extract them.",
+	mode_darkzone_casual_title = "Solo deathmatch",
+	mode_darkzone_casual_description = "Casual Darkzone, you spawn with a free kit. Gain points over time and by killing players. You can upgrade your kits and personnalize your spawning geat. The player with the most points wins a legendary crate.",
 	mode_deluxo_arena_title = "Deluxo Arena",
-	mode_deluxo_arena_description = "All players get deluxo and are allowed to fly in a specific area of the map. You can team up with other players, the squad with the most kills and destroyed deluxos win a special reward.",
+	mode_deluxo_arena_description = "All players get deluxo and are allowed to fly in a specific area of the map. You can team up with other players, the player with the most kills wins a legendary crate.",
 	mode_purge_title = "Purge Fight",
 	mode_purge_description = "All participants spawn in random position, they have a few seconds to find weapons and equipments. Once the purge siren starts, the fight start. The player with the most kills and the last standing player win a special reward.",
 	mode_avenger_title = "Avenger Fight",
@@ -1473,6 +1475,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	purged_ended_x_survivor = "This purge ended, you were the ~r~#%s survivor~w~.",
 	left_purge_fight_queue = "~r~You left the purge fight queue.",
 	deluxo_arena_end_winners_x = "^1The Deluxo Arena event ended.\n^1%s",
+	darkzone_dm_end_winners_x = "^1The Darkzone Deathmatch event ended.\n^1%s",
 	safezone_already_unlocked = "~r~This safezone outpost is already unlocked.",
 	squad_already_involved_quest = "~r~Your squad is already involved in a quest.",
 	select_area_deployed = "Select the area where you want to be deployed.\n~INPUT_ATTACK~ to select the point.\n~INPUT_AIM~ to move on the map.",
@@ -2614,6 +2617,9 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	drop_time_remaining = "Drop now",
 	drop_time_remaining2 = "Drop before",
 	duel_convoy_drop_now_or_get_eliminated = "Drop now or get eliminated",
+	vehicle_event = "Vehicle event",
+	darkzone_hardcore_open = "The Darkzone is now open.",
+	darkzone_dm_open = "The Darkzone Deathmatch is now open.",
 }
 
 AddLanguage("en", my_language)

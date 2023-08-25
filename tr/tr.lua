@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Balyoz",
 
 	-- new
-	airdrop_coming = "~r~Airdrop geliyor, haritanı kontrol et.",
+	airdrop_coming = "Airdrop geliyor, haritanı kontrol et.",
 	killed_by_cheater = "~r~Bir hileci tarafından öldürüldün.\n~w~Hileciyi sunucudan attık ve ölümünü iptal ettik.",
 
 	corrupted_vehicle = "~r~Bu araç bozulmuş ve geçmişte kopyalanmış, envanterinden kaldırıldı. Dolandırıldıysan özür dileriz :(",
@@ -629,7 +629,7 @@ local my_language = {
 	you_reached_max_prestige_stats_rank = "~r~Bu prestij yükseltmesi için maksimum rütbeye ulaştın.",
 	new_prestige_stats_upgrade = "~b~%s~w~\n~g~%s/%s Güncelledin",
 
-	legendary_vehicle_pop = "~r~Haritada efsanevi bir araç belirdi!",
+	legendary_vehicle_pop = "Haritada efsanevi bir araç belirdi!",
 
 	-- poll one
 	poll1_q1 = "Ne tür bir oyun sunucusu görmek istersiniz?",
@@ -773,7 +773,7 @@ local my_language = {
 	remaining_lives = "Kalan Can",
 
 	name_tag = "Crew etiketi",
-	redzone_changed = "~r~Redzone konumları değişti, Haritanı kontrol et!",
+	redzone_changed = "Redzone konumları değişti, Haritanı kontrol et!",
 
 	-- Squad
 	squad_not_leader = "~r~Takımın lideri değilsiniz.",

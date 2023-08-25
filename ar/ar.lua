@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
     -- new
-    airdrop_coming = "~r~هناك إنزال جوي قادم تحقق من خريطتك.",
+    airdrop_coming = "هناك إنزال جوي قادم تحقق من خريطتك.",
     killed_by_cheater = "~r~لقد قُتلت على يد غشاش.\n~w~لقد حظرناه وتم إلغاء موتك.",
  
     corrupted_vehicle = "~r~هذه السيارة تالفة وتم تكرارها في الماضي وتمت إزالتها من مخزونك. آسف إذا تعرضت للخداع.",
@@ -629,7 +629,7 @@ local my_language = {
     you_reached_max_prestige_stats_rank = "~r~لقد وصلت إلى الحد الأقصى لترقية البرستيج هذه.",
     new_prestige_stats_upgrade = "قمت بترقية ~b~%s~w~\n~g~%s/%s",
  
-    legendary_vehicle_pop = "~r~ظهرت مركبة أسطورية على الخريطة.",
+    legendary_vehicle_pop = "ظهرت مركبة أسطورية على الخريطة.",
 
 	-- poll one
 	poll1_q1 = "What kind of game server would you like to see?",

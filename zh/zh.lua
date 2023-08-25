@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
-	airdrop_coming = "~r~一个是空投到达，看看你的地图.",
+	airdrop_coming = "一个是空投到达，看看你的地图.",
 	killed_by_cheater = "~r~一个游戏作弊者杀死了你.\n~w~我们禁止他，您的死亡被取消.",
 }
 

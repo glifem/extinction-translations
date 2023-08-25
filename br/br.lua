@@ -595,7 +595,7 @@ local my_language = {
 	weapon_sledgehammer = "Sledge Hammer",
 
 	-- new
-	airdrop_coming = "~r~Um airdrop está chegando, cheque seu mapa.",
+	airdrop_coming = "Um airdrop está chegando, cheque seu mapa.",
 	killed_by_cheater = "~r~Você foi morto por um cheater.\n~w~Nós banimos ele e sua morte foi cancelada.",
 
 	corrupted_vehicle = "~r~Este veículo foi comprometido e foi duplicado no passado, ele foi removido do seu inventário. Desculpe caso tenha sido roubado.",
@@ -629,7 +629,7 @@ Conquistando um novo prestígio você recebe uma insignia especial, novas vantag
 	you_reached_max_prestige_stats_rank = "~r~Você alcançou o nível máximo de prestígio.",
 	new_prestige_stats_upgrade = "Você melhorou seu ~b~%s~w~\n~g~%s/%s",
 
-	legendary_vehicle_pop = "~r~Um veículo lendário apareceu no mapa.",
+	legendary_vehicle_pop = "Um veículo lendário apareceu no mapa.",
 
 	-- poll one
 	poll1_q1 = "O que em nosso servidor você gostaria de ver?",
