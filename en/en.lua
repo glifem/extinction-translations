@@ -2610,6 +2610,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	arena_casual_instructions = "%s to open access the shop and edit your kit.\n%s to enter the arena.\n%s to leave.",
 	mode_deathmatch_title = "Solo Deathmatch",
 	mode_deathmatch_description = "Casual PvP, free items and kits. The goal is to make the most kills and get to the top of the leaderboard.",
+	mode_battleroyale_title = "Battle Royale",
+	mode_battleroyale_description = "Classic Battle Royale in Los Santos. The goal is to loot the best items and be the last survivor.",
 	surviving = "Surviving",
 	convoy_duel_instructions = "Drive with your team-mate.\nFind the ~r~best position~w~ to drop and ~r~shoot~w~ the other players.",
 	duel_convoy_drop_instructions = "You are the drop car.\nChoose the best spot to exit the vehicle before the end of the timer.",
@@ -2620,6 +2622,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	vehicle_event = "Vehicle event",
 	darkzone_hardcore_open = "The Darkzone is now open.",
 	darkzone_dm_open = "The Darkzone Deathmatch is now open.",
+	br_lobby_open_join = "The ~r~Battle Royale~w~ lobby is now open. Join it to play the next game.",
 }
 
 AddLanguage("en", my_language)
