@@ -2602,6 +2602,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	convoy_duel_instructions = "Conduisez avec votre coéquipier.\nTrouvez la ~r~meilleure position~w~ pour vous drop et ~r~tuez~w~ les joueurs ennemis.",
 	duel_convoy_drop_instructions = "Vous êtes la voiture de drop.\nChoisissez le meilleur endroit pour sortir du véhicule avant la fin du timer.",
 	duel_convoy_wait_drop_instructions = "Attendez que l'autre équipe se drop et ~r~tuez~w~ les.",
+	duel_convoy_wait_instructions = "Attendez les instructions, la partie va bientôt commencer.",
 	drop_time_remaining = "Drop maintenant",
 	drop_time_remaining2 = "Drop avant",
 	duel_convoy_drop_now_or_get_eliminated = "Drop maintenant ou vous serez éliminé.",
