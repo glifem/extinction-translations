@@ -2610,6 +2610,9 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	darkzone_hardcore_open = "La Darkzone est maintenant ouverte.",
 	darkzone_dm_open = "La Darkzone Deathmatch est maintenant ouverte.",
 	br_lobby_open_join = "Le lobby ~r~Battle Royale~w~ est maintenant ouvert. Rejoignez-le pour jouer à la prochaine partie.",
+	package_gift_sent_to_id = "Vous avez envoyé un cadeau ~b~(%s)~w~ à ID %s ~g~%s~w~.",
+	gift_pending_no_fivem = "Vous avez un cadeau en attente.\n~r~Vous devez lier un compte CFX/FiveM pour le recevoir.",
+	accepted_gcoin_gift_package_x = "Vous avez accepté un cadeau ~b~(%s)~w~.",
 }
 
 AddLanguage("fr", my_language)
