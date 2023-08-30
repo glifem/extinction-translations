@@ -2596,16 +2596,23 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	arena_casual_instructions = "%s pour ouvrir le magasin et modifier votre kit.\n%s pour entrer dans l'arène.\n%s pour quitter.",
 	mode_deathmatch_title = "Match à mort Solo",
 	mode_deathmatch_description = "PvP Casual, items et kits gratuits. Le but est de faire le plus de kills et d'atteindre le haut du classement.",
+	mode_battleroyale_title = "Battle Royale",
+	mode_battleroyale_description = "Battle Royale classique sur Los Santos. Le but est de loot les meilleurs items et d'être le dernier survivant.",
 	surviving = "Survie",
 	convoy_duel_instructions = "Conduisez avec votre coéquipier.\nTrouvez la ~r~meilleure position~w~ pour vous drop et ~r~tuez~w~ les joueurs ennemis.",
 	duel_convoy_drop_instructions = "Vous êtes la voiture de drop.\nChoisissez le meilleur endroit pour sortir du véhicule avant la fin du timer.",
 	duel_convoy_wait_drop_instructions = "Attendez que l'autre équipe se drop et ~r~tuez~w~ les.",
+	duel_convoy_wait_instructions = "Attendez les instructions, la partie va bientôt commencer.",
 	drop_time_remaining = "Drop maintenant",
 	drop_time_remaining2 = "Drop avant",
 	duel_convoy_drop_now_or_get_eliminated = "Drop maintenant ou vous serez éliminé.",
 	vehicle_event = "Event véhicule",
 	darkzone_hardcore_open = "La Darkzone est maintenant ouverte.",
 	darkzone_dm_open = "La Darkzone Deathmatch est maintenant ouverte.",
+	br_lobby_open_join = "Le lobby ~r~Battle Royale~w~ est maintenant ouvert. Rejoignez-le pour jouer à la prochaine partie.",
+	package_gift_sent_to_id = "Vous avez envoyé un cadeau ~b~(%s)~w~ à ID %s ~g~%s~w~.",
+	gift_pending_no_fivem = "Vous avez un cadeau en attente.\n~r~Vous devez lier un compte CFX/FiveM pour le recevoir.",
+	accepted_gcoin_gift_package_x = "Vous avez accepté un cadeau ~b~(%s)~w~.",
 }
 
 AddLanguage("fr", my_language)
