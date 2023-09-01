@@ -70,5 +70,8 @@
 	"rd": "rd",
 	"disable": "Disable",
 	"set-active": "Set active",
-	"broken": "Broken"
+	"broken": "Broken",
+	"workshop": "Workshop",
+	"settings": "Settings",
+	"my-items": "My Items"
 }

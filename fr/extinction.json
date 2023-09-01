@@ -28,5 +28,21 @@
     "complete-payment-browser": "Effectuez le paiement dans votre navigateur",
     "payment-error": "Une erreur s'est produite, essayez à nouveau dans quelques secondes",
     "fivem-id-required": "Vous devez avoir un compte FiveM lié pour acheter des GCoins",
-    "go-back": "Revenir en arrière"
+    "go-back": "Revenir en arrière",
+	"make-a-gift": "Faire un cadeau",
+	"gifting": "Cadeau",
+	"gift-to-a-friend": "Faire un cadeau à un ami",
+	"gift-of-package": "Vous allez offrir",
+	"gift-message": "Message du cadeau",
+	"gift-for-x-coins": "pour {{amount}} {{currency}}",
+	"send-gift": "Envoyer le cadeau ❤️",
+	"please-enter-a-valid-identifier": "Veuillez entrer un identifiant valide.",
+	"unable-to-send-gift": "Impossible d'envoyer le cadeau",
+	"gift-target-not-cfx-account-linked": "Le destinataire du cadeau n'a pas de compte CFX FiveM lié.",
+	"cannot-gift-to-self": "Vous ne pouvez pas vous offrir un cadeau.",
+	"not-enough-gcoins-gift": "Vous n'avez pas assez de GCoins pour offrir ce cadeau.",
+    "you-received-a-gift": "Vous avez reçu un cadeau!",
+    "message-from-gifter": "Message du cadeau",
+	"accept-gift": "Accepter le cadeau",
+	"package-already-owned-target": "Le destinataire du cadeau possède déjà ce pack."
 }

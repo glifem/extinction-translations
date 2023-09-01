@@ -70,5 +70,8 @@
 	"rd": "ème",
 	"disable": "Désactiver",
 	"set-active": "Définir comme actif",
-	"broken": "Cassé"
+	"broken": "Cassé",
+	"workshop": "Workshop",
+	"settings": "Paramètres",
+	"my-items": "Mes items"
 }
