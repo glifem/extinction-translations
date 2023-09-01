@@ -2613,6 +2613,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	package_gift_sent_to_id = "Vous avez envoyé un cadeau ~b~(%s)~w~ à ID %s ~g~%s~w~.",
 	gift_pending_no_fivem = "Vous avez un cadeau en attente.\n~r~Vous devez lier un compte CFX/FiveM pour le recevoir.",
 	accepted_gcoin_gift_package_x = "Vous avez accepté un cadeau ~b~(%s)~w~.",
+	loading_glife = "Chargement de GLife",
 }
 
 AddLanguage("fr", my_language)

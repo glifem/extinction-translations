@@ -2627,6 +2627,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	package_gift_sent_to_id = "You sent a gift ~b~(%s)~w~ to ID %s ~g~%s~w~.",
 	gift_pending_no_fivem = "You have a gift pending.\n~r~You must link a CFX/FiveM account to receive it.",
 	accepted_gcoin_gift_package_x = "You accepted a gift package ~b~(%s)~w~.",
+	loading_glife = "Loading GLife",
 }
 
 AddLanguage("en", my_language)
