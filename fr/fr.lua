@@ -1831,7 +1831,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	arena_05 = "Arène 5",
 	["east-hood"] = "Quartier Est",
 	poll17_q1 = "Quel hitreg préférez-vous ?",
-	poll17_q1_a1 = "Hitreg Actuelle",
+	poll17_q1_a1 = "GLife Hitreg (Comme la saison 6 7 8 9 et debut 10)",
 	poll17_q1_a2 = "GTA Hitreg / FiveM hitreg",
 	poll17_q2 = "Quel prix pour le kevlar préférez-vous ?",
 	poll17_q2_a1 = "Prix actuel (20 0000$)",
