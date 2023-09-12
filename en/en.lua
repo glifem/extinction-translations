@@ -1831,7 +1831,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	arena_05 = "Arena 5",
 	["east-hood"] = "East Hood",
 	poll17_q1 = "Which hitreg do you prefer?",
-	poll17_q1_a1 = "GLife Hitreg",
+	poll17_q1_a1 = "Current Hitreg",
 	poll17_q1_a2 = "GTA Hitreg / FiveM hitreg",
 	poll17_q2 = "What price for kevlar do you prefer?",
 	poll17_q2_a1 = "Current price (20 0000$)",
@@ -2628,6 +2628,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	gift_pending_no_fivem = "You have a gift pending.\n~r~You must link a CFX/FiveM account to receive it.",
 	accepted_gcoin_gift_package_x = "You accepted a gift package ~b~(%s)~w~.",
 	loading_glife = "Loading GLife",
+	poll21_q1 = "Do you want to keep pure mode enabled? (Prevent all abusive mods from being installed)",
 }
 
 AddLanguage("en", my_language)

@@ -1831,7 +1831,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	arena_05 = "Arène 5",
 	["east-hood"] = "Quartier Est",
 	poll17_q1 = "Quel hitreg préférez-vous ?",
-	poll17_q1_a1 = "GLife Hitreg",
+	poll17_q1_a1 = "Hitreg Actuelle",
 	poll17_q1_a2 = "GTA Hitreg / FiveM hitreg",
 	poll17_q2 = "Quel prix pour le kevlar préférez-vous ?",
 	poll17_q2_a1 = "Prix actuel (20 0000$)",
@@ -2614,6 +2614,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	gift_pending_no_fivem = "Vous avez un cadeau en attente.\n~r~Vous devez lier un compte CFX/FiveM pour le recevoir.",
 	accepted_gcoin_gift_package_x = "Vous avez accepté un cadeau ~b~(%s)~w~.",
 	loading_glife = "Chargement de GLife",
+	poll21_q1 = "Voulez-vous garder le puremode activé ? (Empêche l'installation de tous les mods abusifs)",
 }
 
 AddLanguage("fr", my_language)
