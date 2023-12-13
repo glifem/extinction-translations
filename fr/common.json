@@ -73,5 +73,12 @@
 	"broken": "Cassé",
 	"workshop": "Workshop",
 	"settings": "Paramètres",
-	"my-items": "Mes items"
+	"my-items": "Mes items",
+	"sort-by": "Trier par",
+	"browsing": "Navigation",
+	"by": "Par",
+	"unsave": "Enlever",
+	"thumbnail": "Miniature",
+	"create": "Créer",
+	"finish": "Terminer"
 }
