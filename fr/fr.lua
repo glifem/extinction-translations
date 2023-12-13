@@ -2615,6 +2615,7 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	accepted_gcoin_gift_package_x = "Vous avez accepté un cadeau ~b~(%s)~w~.",
 	loading_glife = "Chargement de GLife",
 	poll21_q1 = "Voulez-vous garder le puremode activé ? (Empêche l'installation de tous les mods abusifs)",
+	creation_invalid_username = "Le nom d'utilisateur est manquant ou invalide.",
 }
 
 AddLanguage("fr", my_language)

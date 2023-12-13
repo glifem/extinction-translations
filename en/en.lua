@@ -2629,6 +2629,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	accepted_gcoin_gift_package_x = "You accepted a gift package ~b~(%s)~w~.",
 	loading_glife = "Loading GLife",
 	poll21_q1 = "Do you want to keep pure mode enabled? (Prevent all abusive mods from being installed)",
+	creation_invalid_username = "The username is missing or invalid.",
 }
 
 AddLanguage("en", my_language)
