@@ -1,0 +1,18 @@
+{
+    "timecycles": "Timecycles",
+    "showing-x-entries": "Showing {{amount}} entries",
+    "most_popular": "Most popular",
+    "latest": "Latest",
+    "oldest": "Oldest",
+    "saved-items": "Saved items",
+    "uploaded-items": "Uploaded items",
+    "upload-an-item": "Upload an item",
+    "title": "Title",
+    "please-input-title": "Please input a title",
+    "enter-item-title": "Enter item title",
+    "thumbnail-link": "Thumbnail link (512x512)",
+    "please-input-thumbnail": "Please input a thumbnail link",
+    "are-you-sure-delete-workshop-item": "Are you sure you want to delete this workshop item?",
+    "please-select-timecycle": "Please select a timecycle",
+    "tick-item-tags": "Tick item tags"
+}

@@ -1,0 +1,18 @@
+{
+    "timecycles": "Timecycles",
+    "showing-x-entries": "Affiche de {{amount}} résultats",
+    "most_popular": "Les plus populaires",
+    "latest": "Les plus récents",
+    "oldest": "Les plus anciens",
+    "saved-items": "Sauvegardés",
+    "uploaded-items": "Vos Uploads",
+    "upload-an-item": "Upload un item",
+    "title": "Titre",
+    "please-input-title": "Veuillez entrer un titre",
+    "enter-item-title": "Entrez le titre de l'item",
+    "thumbnail-link": "Lien de l'image",
+    "please-input-thumbnail": "Veuillez entrer un lien d'image",
+    "are-you-sure-delete-workshop-item": "Êtes-vous sûr de vouloir supprimer cet item ?",
+    "please-select-timecycle": "Veuillez sélectionner un timecycle",
+    "tick-item-tags": "Tags de l'item"
+}

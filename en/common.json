@@ -73,5 +73,12 @@
 	"broken": "Broken",
 	"workshop": "Workshop",
 	"settings": "Settings",
-	"my-items": "My Items"
+	"my-items": "My Items",
+	"sort-by": "Sort by",
+	"browsing": "Browsing",
+	"by": "by",
+	"unsave": "Unsave",
+	"thumbnail": "Thumbnail",
+	"create": "Create",
+	"finish": "Finish"
 }
