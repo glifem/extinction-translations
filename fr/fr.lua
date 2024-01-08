@@ -232,6 +232,7 @@ local my_language = {
 	you_turned_into = "Vous vous êtes transformé en ~g~%s~w~.",
 	wait_between_transformation = "~r~Veuillez patienter un moment avant d'utiliser le MorphMod de nouveau.",
 	wait_between = "~r~Veuillez patienter un moment avant de réaliser cette action.",
+	cant_morph_in_vehicle = "~r~Vous ne pouvez pas vous transformer en étant dans un véhicule.",
 	available_morphs = "Transformations disponible",
 	animal_models = "Models d'animaux",
 	zombie_models = "Models de zombie",

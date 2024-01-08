@@ -232,6 +232,7 @@ local my_language = {
 	you_turned_into = "You turned into a ~g~%s~w~.",
 	wait_between_transformation = "~r~Please wait a moment before using the Morph Mode again.",
 	wait_between = "~r~Please wait a moment before doing that again.",
+	cant_morph_in_vehicle = "~r~You can't morph while in a vehicle.",
 	available_morphs = "Available morphs",
 	animal_models = "Animal models",
 	zombie_models = "Zombie models",
