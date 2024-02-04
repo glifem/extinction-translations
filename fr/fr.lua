@@ -208,6 +208,7 @@ local my_language = {
 	no_enough_money = "~r~Vous n'avez pas assez d'argent.",
 	you_paid = "Vous avez payé ~g~$%s~w~ pour ~b~%s~w~.",
 	you_paid_basket = "Vous avez payé ~g~$%s~w~ pour votre panier.",
+	you_paid_basket_to_locker = "Vous avez payé ~g~$%s~w~ pour votre panier. (Envoyé au coffre)",
 	you_sell_basket = "Vous avez reçu ~g~$%s~w~ pour avoir vendu ~b~x%s~w~ objet(s).",
 
 	you_repaired_your_vehicle = "~g~Vous avez terminé de réparer le véhicule.",
