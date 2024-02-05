@@ -1226,6 +1226,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	marketplace_received_money_sales = "Vous avez reçu ^0$%s^7 de ^0%s^7 vente(s).",
 	marketplace_no_sales = "Vous n'avez ^0rien vendu^7 dans le marché.",
 	marketplace_you_paid_for = "Vous avez payé ^0$%s^7 pour ^0%s^7.",
+	marketplace_you_paid_for_sent_to_locker = "Vous avez payé ^0$%s^7 pour ^0%s^7. (Envoyé au coffre)",
 	deleted_sell_offer = "Vous avez supprimé votre ^0offre de vente^7.",
 	deleted_buy_offer = "~b~Vous avez supprimé votre ^0offre d'achat^7.",
 	deleted_sell_offers = "~b~Vous avez supprimé vos ^0offres de vente^7.",
