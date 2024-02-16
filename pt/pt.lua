@@ -207,6 +207,7 @@ local my_language = {
     no_enough_money = "~r~Não tens dinheiro suficiente.",
     you_paid = "Pagaste ~g~$%s~w~ por ~b~%s~w~.",
     you_paid_basket = "Pagaste ~g~$%s~w~ pelo teu cesto.",
+    you_paid_basket_to_locker = "Pagaste ~g~$%s~w~ por o teu cesto. (Enviado para o baú)",
     you_sell_basket = "Recebeste ~g~$%s~w~ por vender ~b~x%s~w~ item(s).",
  
     you_repaired_your_vehicle = "~g~Reparaste o teu veículo.",
@@ -856,6 +857,8 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
     darkzone_refilled_purificator_x = "Usaste ~r~x%s pontos~w~ para encher o purificador.",
     darkzone_open = "A darkzone está aberta.\n~r~Encontra um transportador numa zona segura.",
     darkzone_item_clean = "Este item já está descontaminado.\n~r~Só podes colocar items contaminados.",
+    marketplace_you_paid_for_sent_to_locker = "Pagaste ^0$%s^7 para ^0%s^7. (Enviado para o baú)",
+    redzoneScoreEnabled = "HUD da RedZone",
 }
  
 AddLanguage("pt", my_language)
