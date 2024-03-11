@@ -857,8 +857,7 @@ Obter um novo prestige oferece-te um novo emblema especial e novos perks como me
     darkzone_refilled_purificator_x = "Usaste ~r~x%s pontos~w~ para encher o purificador.",
     darkzone_open = "A darkzone está aberta.\n~r~Encontra um transportador numa zona segura.",
     darkzone_item_clean = "Este item já está descontaminado.\n~r~Só podes colocar items contaminados.",
-    marketplace_you_paid_for_sent_to_locker = "Pagaste ^0$%s^7 para ^0%s^7. (Enviado para o baú)",
-    redzoneScoreEnabled = "HUD da RedZone",
+    marketplace_you_paid_for_sent_to_locker = "Pagaste ^0$%s^7 para ^0%s^7. (Enviado para o baú)"
 }
  
 AddLanguage("pt", my_language)
