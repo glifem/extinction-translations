@@ -2002,7 +2002,6 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	killSoundEffectEnabled = "Son kill",
 	killfeedEnabled = "Killfeed",
 	voiceChatEnabled = "Chat vocal",
-	redzoneScoreEnabled = "RedZone HUD de score",
 	voiceDeathEnabled = "Vocal pendant la mort",
 	disableStatusHud = "Désactiver le HUD Custom",
 	hitmarkerScale = "Taille des hitmarkers",
