@@ -73,5 +73,7 @@
 	"voiceDisabledOnSafezone": "Disable voice chat in Safezone",
 	"voiceDisabledOnSafezone_desc": "Choose to disable voice chat in the Safezone",
 	"hitmarkerStyle": "Hitmarker style",
-	"hitmarkerStyle_desc": "Choose the style of the hitmarker when damaging players"
+	"hitmarkerStyle_desc": "Choose the style of the hitmarker when damaging players",
+	"redzoneScoreEnabled": "Redzone score HUD",
+	"redzoneScoreEnabled_desc": "Choose if you want to activate the Redzone leaderboard HUD"
 }
