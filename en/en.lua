@@ -2633,6 +2633,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	loading_glife = "Loading GLife",
 	poll21_q1 = "Do you want to keep pure mode enabled? (Prevent all abusive mods from being installed)",
 	creation_invalid_username = "The username is missing or invalid.",
+
+	available_in_extinction_only = "~r~Available in Extinction mode only.",
 }
 
 AddLanguage("en", my_language)
