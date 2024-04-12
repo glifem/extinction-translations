@@ -38,5 +38,6 @@
 	"weapons": "Weapons",
 	"allowed-weapons": "Allowed weapons",
 	"delete-lobby": "Delete lobby",
-	"select-allowed-items": "Select allowed items"
+	"select-allowed-items": "Select allowed items",
+	"league-lobby": "League lobby"
 }

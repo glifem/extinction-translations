@@ -44,5 +44,11 @@
     "you-received-a-gift": "Vous avez reçu un cadeau!",
     "message-from-gifter": "Message du cadeau",
 	"accept-gift": "Accepter le cadeau",
-	"package-already-owned-target": "Le destinataire du cadeau possède déjà ce pack."
+	"package-already-owned-target": "Le destinataire du cadeau possède déjà ce pack.",
+    "ranks": "Rangs",
+    "xp_boosters": "Boosters d'XP",
+    "weapon_cosmetics": "Cosmétiques d'armes",
+    "battlepass": "Battle Pass",
+    "peds": "Personnages",
+    "emotes": "Emotes"
 }
