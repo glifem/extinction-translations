@@ -2630,6 +2630,18 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	loading_glife = "Loading GLife",
 	poll21_q1 = "Do you want to keep pure mode enabled? (Prevent all abusive mods from being installed)",
 	creation_invalid_username = "The username is missing or invalid.",
+	portal_instructions_simple = "~INPUT_CONTEXT~ to select a lobby.",
+	portal_instructions_lobby = "~INPUT_CONTEXT~ to join the gamemode.\n~INPUT_VEH_EXIT~ to select a lobby.",
+	initializing_modules = "Initializing modules",
+	freeroam_minigames = "Mini games",
+	freeroam_public_minigames = "Public #%s (Mini games)",
+	freeroam_public_minigames_description = "Public lobby with mini games.",
+	freeroam_ranked = "Ranked",
+	gift_history_only_recent = "Only recent gifts are displayed.",
+	gift_history = "Gift history",
+	gift_x_to_x = "%sx %s to ~b~ID %s",
+	gift_cannot_cancel = "~r~You cannot cancel this gift.",
+	gift_successfully_canceled_refund_x = "You canceled this gift and received a refund of ~g~%s %s~w~.",
 }
 
 AddLanguage("en", my_language)
