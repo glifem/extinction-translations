@@ -34,7 +34,7 @@ local my_language = {
     full_for_item = "~r~No hay suficiente espacio para este artículo.",
     put_item_container = "Has puesto ~g~x%s~w~ %s~w~ en tu contenedor.",
     take_item_container = "Has tomado ~g~x%s~w~ %s~w~ de tu contenedor.",
-    not_allowed_here = "~r~You are not allowed to do that here.",
+    not_allowed_here = "~r~No puedes hacer eso aquí",
     cant_store_moving_veh = "~r~No puedes hacer eso aquí.",
     use_repair_tool = "Usa la herramienta de reparación",
     please_get_closer = "~b~PPor favor, acércate, no hay entidad en el rango.",
@@ -568,7 +568,7 @@ local my_language = {
     kill_notif = "~m~Muerto",
     you_killed = "Mataste a ~r~%s~w~",
     already_used_reset_only = "~r~Ya has reiniciado tu personaje.\n~w~Solo %s~w~ miembros pueden rehacer su personaje más de una vez.",
-	already_used_reset_only2 = "~r~You already did that.\n~w~Only %s~w~ members can do that more than one time.",
+	already_used_reset_only2 = "~r~Ya has hecho eso.\n~w~Sólo %s~w~ colaboradores pueden hacerlo más de una vez.",
  
     hud_options = "Opciones de HUD",
     advanced_hud = "Mostrar HUD avanzado",
