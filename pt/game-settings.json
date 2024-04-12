@@ -21,5 +21,7 @@
 	"killfeedEnabled": "Feed de Mortes",
 	"killfeedEnabled_desc": "Ativa/desativa o Feed de Mortes",
 	"voiceChatEnabled": "Chat de Voz",
-	"voiceChatEnabled_desc": "Ativa/desativa o chat de voz"
+	"voiceChatEnabled_desc": "Ativa/desativa o chat de voz",
+    "redzoneScoreEnabled": "HUD da Redzone",
+	"redzoneScoreEnabled_desc": "Ativa/desativa o HUD da Redzone"
 }

@@ -10,5 +10,7 @@
 	"history": "Histórico de {{itemName}}",
 	"price-history": "Histórico de Preço",
 	"view-graph": "Ver Gráfico",
-	"delete-all-sell-offers": "Apagar todas as ofertas"
+	"delete-all-sell-offers": "Apagar todas as ofertas",
+	"buy_and_send_to_locker": "Compra e manda para o baú",
+    "broken": "Partido"
 }

@@ -208,6 +208,7 @@ local my_language = {
 	no_enough_money = "~r~Vous n'avez pas assez d'argent.",
 	you_paid = "Vous avez payé ~g~$%s~w~ pour ~b~%s~w~.",
 	you_paid_basket = "Vous avez payé ~g~$%s~w~ pour votre panier.",
+	you_paid_basket_to_locker = "Vous avez payé ~g~$%s~w~ pour votre panier. (Envoyé au coffre)",
 	you_sell_basket = "Vous avez reçu ~g~$%s~w~ pour avoir vendu ~b~x%s~w~ objet(s).",
 
 	you_repaired_your_vehicle = "~g~Vous avez terminé de réparer le véhicule.",
@@ -1225,6 +1226,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	marketplace_received_money_sales = "Vous avez reçu ^0$%s^7 de ^0%s^7 vente(s).",
 	marketplace_no_sales = "Vous n'avez ^0rien vendu^7 dans le marché.",
 	marketplace_you_paid_for = "Vous avez payé ^0$%s^7 pour ^0%s^7.",
+	marketplace_you_paid_for_sent_to_locker = "Vous avez payé ^0$%s^7 pour ^0%s^7. (Envoyé au coffre)",
 	deleted_sell_offer = "Vous avez supprimé votre ^0offre de vente^7.",
 	deleted_buy_offer = "~b~Vous avez supprimé votre ^0offre d'achat^7.",
 	deleted_sell_offers = "~b~Vous avez supprimé vos ^0offres de vente^7.",
@@ -2617,6 +2619,7 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	loading_glife = "Chargement de GLife",
 	poll21_q1 = "Voulez-vous garder le puremode activé ? (Empêche l'installation de tous les mods abusifs)",
 	creation_invalid_username = "Le nom d'utilisateur est manquant ou invalide.",
+	available_in_extinction_only = "~r~Disponible uniquement dans le mode Extinction.",
 	portal_instructions_simple = "~INPUT_CONTEXT~ pour rejoindre le mode de jeu.",
 	portal_instructions_lobby = "~INPUT_CONTEXT~ pour rejoindre le mode de jeu.\n~INPUT_VEH_EXIT~ pour sélectionner un lobby.",
 	initializing_modules = "Initialisation des modules",
