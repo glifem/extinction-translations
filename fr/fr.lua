@@ -2521,7 +2521,7 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	leaderboard_5 = "5ème",
 	switch_player = "Changer de joueur",
 	join_ranked = "rejoindre la ranked",
-	join_convoy_ranked = "rejoindre 2vs2 convoi ranked",
+	join_convoy_ranked = "rejoindre convoi CVC ranked",
 	matchmaking_searching = "Recherche d'un match... [Autour de votre elo]",
 	leave_matchmaking = "quitter le matchmaking",
 	duel_private = "Duel privé",
@@ -2619,8 +2619,19 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	loading_glife = "Chargement de GLife",
 	poll21_q1 = "Voulez-vous garder le puremode activé ? (Empêche l'installation de tous les mods abusifs)",
 	creation_invalid_username = "Le nom d'utilisateur est manquant ou invalide.",
-
 	available_in_extinction_only = "~r~Disponible uniquement dans le mode Extinction.",
+	portal_instructions_simple = "~INPUT_CONTEXT~ pour rejoindre le mode de jeu.",
+	portal_instructions_lobby = "~INPUT_CONTEXT~ pour rejoindre le mode de jeu.\n~INPUT_VEH_EXIT~ pour sélectionner un lobby.",
+	initializing_modules = "Initialisation des modules",
+	freeroam_minigames = "Mini-jeux",
+	freeroam_public_minigames = "Public #%s (Mini jeux)",
+	freeroam_public_minigames_description = "Lobby public avec mini jeux.",
+	freeroam_ranked = "Ranked",
+	gift_history_only_recent = "Seulement les derniers cadeaux sont affichés.",
+	gift_history = "Historique des cadeaux",
+	gift_x_to_x = "%sx %s à ~b~ID %s",
+	gift_cannot_cancel = "~r~Vous ne pouvez pas annuler ce cadeau.",
+	gift_successfully_canceled_refund_x = "Vous avez annulé le cadeau et obtenu un remboursement de ~g~%s %s~w~.",
 }
 
 AddLanguage("fr", my_language)

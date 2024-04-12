@@ -49,5 +49,8 @@
 	"edit-your-kits": "Éditer vos kits",
 	"loadout": "Équipement",
 	"loadout-subtitle": "Éditer et progresser dans votre équipement",
-	"progress": "Progression"
+	"progress": "Progression",
+    "sure-to-purchase": "Êtes-vous sûr de vouloir acheter cet objet ?",
+    "yes": "Oui",
+    "no": "Non"
 }
