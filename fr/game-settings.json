@@ -73,5 +73,7 @@
 	"voiceDisabledOnSafezone": "Désactiver le chat vocal en Safezone.",
 	"voiceDisabledOnSafezone_desc": "Choisissez de désactiver le chat vocal dans la Safezone.",
 	"hitmarkerStyle": "Style des hitmarkers",
-	"hitmarkerStyle_desc": "Choisissez le style des hitmarkers quand vous tirez sur un joueur."
+	"hitmarkerStyle_desc": "Choisissez le style des hitmarkers quand vous tirez sur un joueur.",
+	"redzoneScoreEnabled": "RedZone HUD de score",
+	"redzoneScoreEnabled_desc": "Choisissez si vous souhaitez activer l'HUD classement en Redzone"
 }

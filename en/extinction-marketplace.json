@@ -29,5 +29,6 @@
 	"no-items-inventory": "No items in your inventory",
 	"no-offers": "No offers",
 	"durability": "Durability",
-	"broken": "Broken"
+	"broken": "Broken",
+	"buy_and_send_to_locker": "Buy and send to locker"
 }

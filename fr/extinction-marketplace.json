@@ -29,5 +29,6 @@
 	"no-items-inventory": "Aucun item dans votre inventaire",
 	"no-offers": "Aucune offre",
 	"durability": "Durabilité",
-	"broken": "Cassé"
+	"broken": "Cassé",
+	"buy_and_send_to_locker": "Acheter et envoyer au coffre"
 }
