@@ -2527,6 +2527,8 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	weapon_tecpistol = "Mitraillette tactique",
 	["roxwood-city"] = "Ville de Roxwood",
 	["roxwood-port"] = "Port de Roxwood",
+	["wardog-site-small"] = "Wardog Construction Petit",
+	["wardog-site-large"] = "Wardog Construction Grand",
 	-- Admin
 	your_rank_is = "Votre rang est ~b~%s~w~.",
 	show_gamertags = "Afficher les gamertags",

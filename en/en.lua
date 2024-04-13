@@ -2536,6 +2536,8 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	weapon_tecpistol = "Tactical SMG",
 	["roxwood-city"] = "Roxwood City",
 	["roxwood-port"] = "Roxwood Port",
+	["wardog-site-small"] = "Wardog Construction Small",
+	["wardog-site-large"] = "Wardog Construction Large",
 	-- Admin
 	your_rank_is = "Your rank is ~b~%s~w~.",
 	show_gamertags = "Show gamertags",
