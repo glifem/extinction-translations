@@ -1340,6 +1340,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	redzone_deathmatch_title = "Redzone Deathmatch",
 	redzone_deathmatch_summary = "Les joueurs sont répartis en différentes équipes, une zone rouge apparaît sur la carte. Le but est de tuer le plus de joueurs dans cette zone. L'équipe avec le maximum de tués gagne.",
 
+	team_deathmatch_title = "Team Deathmatch",
+	team_deathmatch_summary = "Les joueurs sont répartis en 2 équipes différentes. Les joueurs peuvent faire des séries pour débloquer des armes/bonus. La première équipe à atteindre le maximum de points gagne.",
+	team_dm_get_back_in_zone = "Revenez dans la zone de combat avant de mourir.",
+
 	manage_kits = "Gérer vos kits",
 	too_far_spawn_area = "~r~Vous êtes trop loin du spawn pour utiliser ce menu.",
 	league_mode_changed = "~b~Le mode de jeu du lobby a changé.",
@@ -2521,6 +2525,7 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	gangwar = "Gangwar",
 	tp_all = "Teleport all",
 	redzone_deathmatch = "Redzone Deathmatch",
+	team_deathmatch = "Team Deathmatch",
 	ctf = "Capture the Flag",
 	battleroyale = "Battle Royale",
 	leaderboard_4 = "4ème",
