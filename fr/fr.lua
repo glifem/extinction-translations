@@ -2546,7 +2546,6 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	["wardog-site-large"] = "Wardog Construction Grand",
 	-- Admin
 	your_rank_is = "Votre rang est ~b~%s~w~.",
-	show_gamertags = "Afficher les gamertags",
 	right_menu = "Menu à droite",
 	other_options = "Autres options",
 	players_list = "Liste des joueurs",
@@ -2591,6 +2590,9 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	invalid_entity = "~r~L'entité est invalide.",
 	admin_mode = "Mode admin",
 	admin_service_toggled_x = "Mode admin: %s~s~.",
+	show_gamertags = "Afficher les gamertags",
+	show_crew_tags = "Afficher les tags de crew",
+	show_gamemode = "Afficher le gamemode",
 	show_player_blips = "Afficher les blips des joueurs",
 	gamertag_distance = "Distance du gamertag",
 	player_interaction = "Interaction joueur",
