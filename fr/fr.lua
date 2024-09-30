@@ -2640,6 +2640,17 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	gift_x_to_x = "%sx %s à ~b~ID %s",
 	gift_cannot_cancel = "~r~Vous ne pouvez pas annuler ce cadeau.",
 	gift_successfully_canceled_refund_x = "Vous avez annulé le cadeau et obtenu un remboursement de ~g~%s %s~w~.",
+	poll22_q1 = "Combien de slots crew préférez-vous ? (la saison prochaine)",
+	poll22_q1_a1 = "10",
+	poll22_q1_a2 = "15",
+	poll22_q1_a3 = "20",
+	poll22_q2 = "Voulez-vous essayer le puremode ? (sans mods/citizen)",
+	poll22_q2_a1 = "Oui",
+	poll22_q2_a2 = "Non",
+	poll22_q3 = "Quelle méta préférez-vous ?",
+	poll22_q3_a1 = "Méta bandage (200hp)",
+	poll22_q3_a2 = "Kevlars/bandages gratuits avec F1/F2",
+	poll22_q3_a3 = "Bandage + kevlars dans le shop",
 }
 
 AddLanguage("fr", my_language)

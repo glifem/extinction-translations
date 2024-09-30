@@ -2654,6 +2654,17 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	gift_x_to_x = "%sx %s to ~b~ID %s",
 	gift_cannot_cancel = "~r~You cannot cancel this gift.",
 	gift_successfully_canceled_refund_x = "You canceled this gift and received a refund of ~g~%s %s~w~.",
+	poll22_q1 = "How many crew slots do your prefer ? (next season)",
+	poll22_q1_a1 = "10",
+	poll22_q1_a2 = "15",
+	poll22_q1_a3 = "20",
+	poll22_q2 = "Do you want to try the puremode ? (no mods/citizen)",
+	poll22_q2_a1 = "Yes",
+	poll22_q2_a2 = "No",
+	poll22_q3 = "What meta do you prefer ?",
+	poll22_q3_a1 = "Bandage meta (200hp)",
+	poll22_q3_a2 = "Free kevlars/bandages with F1/F2",
+	poll22_q3_a3 = "Bandage + kevlars in the shop",
 }
 
 AddLanguage("en", my_language)
