@@ -1,0 +1,9 @@
+{
+    "close": "Fermer",
+    "congratulations": "Félicitations",
+    "you-got-x": "Vous avez obtenu",
+    "skip": "Passer",
+    "start": "Lancer",
+    "x-remaining-crates": "{{count}} caisse restante",
+    "x-remaining-crates_plural": "{{count}} caisses restantes"
+}

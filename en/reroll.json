@@ -1,0 +1,9 @@
+{
+    "close": "Close",
+    "congratulations": "Congratulations",
+    "you-got-x": "You got",
+    "skip": "Skip",
+    "start": "Start",
+    "x-remaining-crates": "{{count}} remaining crate",
+    "x-remaining-crates_plural": "{{count}} remaining crates"
+}
