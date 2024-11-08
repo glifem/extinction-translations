@@ -864,6 +864,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	dungeon_cooldown_between = "Veuillez patienter ~r~%s~w~ avant de recommencer le donjon une nouvelle fois.",
 	set_as_default = "Défini comme customisation par défaut",
+	save_as_default_presets = "Sauvegarder comme présélection par défaut",
 	car_custom_presets_saved = "Votre présélection de personnalisation pour ~g~%s~w~ ont été sauvegardés.",
 	marketplace_you_received_x_x = "Vous avez reçu ~b~%sx ~g~%s~w~.",
 
@@ -2640,6 +2641,11 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	gift_x_to_x = "%sx %s à ~b~ID %s",
 	gift_cannot_cancel = "~r~Vous ne pouvez pas annuler ce cadeau.",
 	gift_successfully_canceled_refund_x = "Vous avez annulé le cadeau et obtenu un remboursement de ~g~%s %s~w~.",
+	use_custom_color = "Utiliser une couleur personnalisée",
+	color_type = "Type de couleur",
+	use_custom_presets = "Charger vos presets pour ce véhicule",
+	colordash_title = "Color Dash",
+	colordash_summary = "Dès qu'une couleur est annoncée, précipitez-vous vers la plateforme la plus proche avec la couleur correspondante avant que le reste du sol ne disparaisse devant vos yeux. Le dernier joueur ou équipe en lice remporte la partie.",
 }
 
 AddLanguage("fr", my_language)

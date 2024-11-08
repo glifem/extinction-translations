@@ -864,6 +864,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 
 	dungeon_cooldown_between = "Please wait ~r~%s~w~ before starting a dungeon again.",
 	set_as_default = "Set as default custom for vehicle model",
+	save_as_default_presets = "Save as default presets",
 	car_custom_presets_saved = "Your customization presets for ~g~%s~w~ have been saved.",
 	marketplace_you_received_x_x = "You received ^0%sx %s^7.",
 
@@ -2654,6 +2655,11 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	gift_x_to_x = "%sx %s to ~b~ID %s",
 	gift_cannot_cancel = "~r~You cannot cancel this gift.",
 	gift_successfully_canceled_refund_x = "You canceled this gift and received a refund of ~g~%s %s~w~.",
+	use_custom_color = "Use custom color",
+	color_type = "Color type",
+	use_custom_presets = "Use your vehicle modification presets",
+	colordash_title = "Color Dash",
+	colordash_summary = "As soon as a color is announced, rush to the nearest platform with the matching color before the rest of the floor disappears right infront of your eyes. Last player or team standing wins the game.",
 }
 
 AddLanguage("en", my_language)
