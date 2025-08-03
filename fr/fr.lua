@@ -880,6 +880,7 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 	poll6_q4 = "Should headshots be enabled for season 4?",
 	
 	casino_dungeon_desc = "⚠️ ~r~Vous pouvez avoir besoin d'une lampe sur votre arme pour bien voir ici.",
+	zombie_lab_dungeon_desc = "Découvrez les secrets cachés du laboratoire de zombies.",
 	dungeon_destroy_wall_obj = "Détruisez le mur qui bloque votre chemin.",
 	dungeon_use_key_obj = "Utilisez la clé pour ouvrir la porte.",
 	dungeon_kill_zombies_obj = "Tuez tous les zombies.",
@@ -1343,6 +1344,10 @@ L'obtention d'un nouveau prestige vous donne un badge spécial et de nouveaux av
 
 	team_deathmatch_title = "Team Deathmatch",
 	team_deathmatch_summary = "Les joueurs sont répartis en 2 équipes différentes. Les joueurs peuvent faire des séries pour débloquer des armes/bonus. La première équipe à atteindre le maximum de points gagne.",
+
+	airdrop_fight_title = "Airdrop Fight",
+	airdrop_fight_summary = "Les joueurs sont répartis en différentes équipes. L'équipe avec le plus de drops collectés gagne.",
+
 	team_dm_get_back_in_zone = "Revenez dans la zone de combat avant de mourir.",
 
 	manage_kits = "Gérer vos kits",
@@ -1832,7 +1837,8 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	duel_shipment = "Shipment",
 	duel_voxel = "Voxel",
 	drug_zombie = "Flesh shot",
-	afk_rewarded_x = "(BETA) Vous avez reçu ~g~$%s~w~ pour votre AFK.",
+	afk_rewarded_x = "Vous avez reçu ~g~$%s~w~ pour votre AFK.",
+	afk_rewarded_item_x = "Vous avez reçu ~b~x%s %s~w~ pour votre AFK.",
 	nuketown = "Nuketown",
 	arena_01 = "Arène 1",
 	arena_02 = "Arène 2",
@@ -2527,6 +2533,7 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	tp_all = "Teleport all",
 	redzone_deathmatch = "Redzone Deathmatch",
 	team_deathmatch = "Team Deathmatch",
+	airdrop_fight = "Airdrop Fight",
 	ctf = "Capture the Flag",
 	battleroyale = "Battle Royale",
 	leaderboard_4 = "4ème",
@@ -2666,6 +2673,16 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	poll22_q3_a1 = "Méta bandage (200hp)",
 	poll22_q3_a2 = "Kevlars/bandages gratuits avec F1/F2",
 	poll22_q3_a3 = "Bandage + kevlars dans le shop",
+	noclip_speed_up = "Noclip V+",
+	noclip_speed_down = "Noclip V-",
+	safezone_outpost_14 = "Outpost 14",
+	safezone_outpost_15 = "Outpost 15",
+	safezone_outpost_16 = "Outpost 16",
+	safezone_outpost_17 = "Outpost 17",
+	safezone_outpost_18 = "Outpost 18",
+	safezone_outpost_19 = "Outpost 19",
+	safezone_outpost_20 = "Outpost 20",
+	safezone_outpost_21 = "Outpost 21",
 }
 
 AddLanguage("fr", my_language)
