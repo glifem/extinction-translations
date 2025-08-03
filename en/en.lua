@@ -2698,6 +2698,7 @@ Getting a new prestige gives you a special badge and new perks like better loot,
 	safezone_outpost_19 = "Outpost 19",
 	safezone_outpost_20 = "Outpost 20",
 	safezone_outpost_21 = "Outpost 21",
+	extinction_zones_changed = "The dynamic pvp zones have been updated.",
 }
 
 AddLanguage("en", my_language)

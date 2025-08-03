@@ -2683,6 +2683,7 @@ darkzone_dm_end_winners_x = "^1L'événement Darkzone Deathmatch est terminé..\
 	safezone_outpost_19 = "Outpost 19",
 	safezone_outpost_20 = "Outpost 20",
 	safezone_outpost_21 = "Outpost 21",
+	extinction_zones_changed = "Les zones de pvp dynamiques ont été mises à jour.",
 }
 
 AddLanguage("fr", my_language)
